@@ -1,0 +1,139 @@
+./Space_Standards_DWG_Charter.err errors
+
+
+== Document Attributes
+
+(): 'book' is not a legal document type: reverting to 'standard'
+(): '' is not a permitted subtype of Standard: reverting to 'implementation'
+(): Version required for standard
+
+
+== AsciiDoc Input
+
+(ID _references): Section not marked up as [bibliography]!
+	#<Asciidoctor::Section@504400 {level: 1, title: "7. References", blocks: 2}>
+(Section: References): no anchor on reference, markup may be malformed: see
+https://www.metanorma.com/author/topics/document-format/bibliography/ ,
+https://www.metanorma.com/author/iso/topics/markup/#bibliographies
+: Consultative Committee for Space Data Systems (CCSDS): a multi-national forum for the development of communications &amp; data systems standards for spaceflight. <link target="https://public.ccsds.org/Publications/AllPubs.aspx"/>
+	#<Asciidoctor::List@504420 {context: :ulist, style: nil, items: 14}>
+(Section: References): no anchor on reference, markup may be malformed: see
+https://www.metanorma.com/author/topics/document-format/bibliography/ ,
+https://www.metanorma.com/author/iso/topics/markup/#bibliographies
+: Flexible Image Transport System (FITS): a standard data format used in astronomy, <link target="https://fits.gsfc.nasa.gov/"/>
+	#<Asciidoctor::List@504420 {context: :ulist, style: nil, items: 14}>
+(Section: References): no anchor on reference, markup may be malformed: see
+https://www.metanorma.com/author/topics/document-format/bibliography/ ,
+https://www.metanorma.com/author/iso/topics/markup/#bibliographies
+: Geospatial-Intelligence Standards Working Group (GWG) World Geodetic System and Geomatics Focus Group (WGSG): custodian of WGS84 and developer of the pending lunar "WGS84". <link target="https://gwg.nga.mil/gwg/focus-groups/World_Geodetic_System_&amp;_Geomatics_(WGSG"/>)<em>Focus_Gro.html[<link target="https://gwg.nga.mil/gwg/focus-groups/World_Geodetic_System"/></em>&amp;_Geomatics_(WGSG)_Focus_Gro.html]
+	#<Asciidoctor::List@504420 {context: :ulist, style: nil, items: 14}>
+(Section: References): no anchor on reference, markup may be malformed: see
+https://www.metanorma.com/author/topics/document-format/bibliography/ ,
+https://www.metanorma.com/author/iso/topics/markup/#bibliographies
+: Inter-Agency Space Debris Coordination Committee (IADC): an international governmental forum for the worldwide coordination of activities related to the issues of man-made and natural debris in space. <link target="https://iadc-home.org/what_iadc"/>
+	#<Asciidoctor::List@504420 {context: :ulist, style: nil, items: 14}>
+(Section: References): no anchor on reference, markup may be malformed: see
+https://www.metanorma.com/author/topics/document-format/bibliography/ ,
+https://www.metanorma.com/author/iso/topics/markup/#bibliographies
+: International Astronomical Union: The IAU&#8217;s mission is to promote and safeguard astronomy in all its aspects (including research, communication, education and development) through international cooperation. <link target="https://www.iau.org/"/>
+	#<Asciidoctor::List@504420 {context: :ulist, style: nil, items: 14}>
+(Section: References): no anchor on reference, markup may be malformed: see
+https://www.metanorma.com/author/topics/document-format/bibliography/ ,
+https://www.metanorma.com/author/iso/topics/markup/#bibliographies
+: International Telecommunication Union (ITU) - Space Services Department (SSD): coordinates the world’s satellites through the management of spectrum and orbits, bringing television, vehicle GPS navigation, maritime and aeronautical communications, weather information and online maps, and enabling communications in even the remotest parts of the planet. <link target="https://www.itu.int/en/ITU-R/space/Pages/default.aspx"/>
+	#<Asciidoctor::List@504420 {context: :ulist, style: nil, items: 14}>
+(Section: References): no anchor on reference, markup may be malformed: see
+https://www.metanorma.com/author/topics/document-format/bibliography/ ,
+https://www.metanorma.com/author/iso/topics/markup/#bibliographies
+: ISO/TC 20/SC 13 - Space data and information transfer systems: an ISO body which works closely with the CCSDS. <link target="https://cwe.ccsds.org/cmc/docs/Forms/AllItems.aspx?RootFolder=/cmc/docs/ISO%20TC20-SC13%20Subcommittee&amp;"/>
+	#<Asciidoctor::List@504420 {context: :ulist, style: nil, items: 14}>
+(Section: References): no anchor on reference, markup may be malformed: see
+https://www.metanorma.com/author/topics/document-format/bibliography/ ,
+https://www.metanorma.com/author/iso/topics/markup/#bibliographies
+: ISO/TC 20/SC 14 - Space systems and operations: an ISO body which works on the standardization of space vehicles, management of space programs, and the design, test, production, launch, maintenance, operation, and disposal of space vehicles. <link target="https://www.iso.org/committee/46614.html"/>
+	#<Asciidoctor::List@504420 {context: :ulist, style: nil, items: 14}>
+(Section: References): no anchor on reference, markup may be malformed: see
+https://www.metanorma.com/author/topics/document-format/bibliography/ ,
+https://www.metanorma.com/author/iso/topics/markup/#bibliographies
+: NASA DART Mission Web Site: an experiment to re-direct an astronomical body through kinetic impact. <link target="https://dart.jhuapl.edu/"/>
+	#<Asciidoctor::List@504420 {context: :ulist, style: nil, items: 14}>
+(Section: References): no anchor on reference, markup may be malformed: see
+https://www.metanorma.com/author/topics/document-format/bibliography/ ,
+https://www.metanorma.com/author/iso/topics/markup/#bibliographies
+: NASA Planetary Defense Coordination Office: <link target="https://www.nasa.gov/specials/pdco/index.html"/>
+	#<Asciidoctor::List@504420 {context: :ulist, style: nil, items: 14}>
+(Section: References): no anchor on reference, markup may be malformed: see
+https://www.metanorma.com/author/topics/document-format/bibliography/ ,
+https://www.metanorma.com/author/iso/topics/markup/#bibliographies
+: NASA SPICE: a Toolkit for the development of space applications. <link target="https://naif.jpl.nasa.gov/naif/toolkit.html"/>
+	#<Asciidoctor::List@504420 {context: :ulist, style: nil, items: 14}>
+(Section: References): no anchor on reference, markup may be malformed: see
+https://www.metanorma.com/author/topics/document-format/bibliography/ ,
+https://www.metanorma.com/author/iso/topics/markup/#bibliographies
+: Project Kuiper: Amazon&#8217;s solution for LOE-based satellite internet. <link target="https://www.aboutamazon.com/what-we-do/devices-services/project-kuiper">https://ww.waboutamazon.com/what-we-do/devices-services/project-kuiper</link>
+	#<Asciidoctor::List@504420 {context: :ulist, style: nil, items: 14}>
+(Section: References): no anchor on reference, markup may be malformed: see
+https://www.metanorma.com/author/topics/document-format/bibliography/ ,
+https://www.metanorma.com/author/iso/topics/markup/#bibliographies
+: USGS Planetary Analyis Ready Data (ARD): the USGS Astrogeology Science Center’s Analysis Ready Data portal. <link target="https://stac.astrogeology.usgs.gov/docs/"/>
+	#<Asciidoctor::List@504420 {context: :ulist, style: nil, items: 14}>
+(Section: References): no anchor on reference, markup may be malformed: see
+https://www.metanorma.com/author/topics/document-format/bibliography/ ,
+https://www.metanorma.com/author/iso/topics/markup/#bibliographies
+: USGS Planetary Spatial Data Infrastructure (SDI): Spatial Data Infrastructures for the Moon, Europa, and other astronomical bodies. <link target="https://psdi.astrogeology.usgs.gov/"/>
+	#<Asciidoctor::List@504420 {context: :ulist, style: nil, items: 14}>
+
+
+== Style
+
+(): Abstract is missing!
+(): Keywords are missing!
+(): Submitting Organizations is missing!
+(): Submitters is missing!
+(): Prefatory material must be followed by (clause) Scope
+(): Scope must be followed by Conformance
+(): Normative References must be followed by Terms and Definitions
+
+
+== Metanorma XML Style Warning
+
+(XML Line 000013): Table should have title
+	<table id="_5d938338-7204-eb7d-7601-cf0d16c46c92"><tbody><tr><td valign="middle" align="right"/></tr><tr><td valign="middle" align="right"><strong>Open Geospatial Consortium</strong></td>
+	</tr><tr><td valign="middle" align="right">Submission Date: 2023-09-27</td>
+	</tr><tr><td valign="middle" align="right">Approval Date:   2023-09-28</td>
+	</tr><tr><td valign="middle" align="right">Internal reference number of this OGC® document:    23-041r2</td>
+	</tr><tr><td valign="middle" align="right">Category: OGC® Domain Working Group Charter</td>
+(XML Line 000022): Table should have title
+	<table id="_0b9287c9-cde4-4b0c-f1f8-97455fc065c7"><tbody><tr><td valign="middle" align="center"><strong>OGC Space Standards Domain Working Group Charter</strong></td>
+	</tr></tbody>
+	</table>
+(XML Line 000026): Table should have title
+	<table id="_a71936af-a82b-5f0e-c573-c72320f00f64"><tbody><tr><td valign="middle" align="center"><strong>Copyright notice</strong></td>
+	</tr><tr><td valign="middle" align="center">Copyright © 2023 Open Geospatial Consortium</td>
+	</tr><tr><td valign="middle" align="center">To obtain additional rights of use, visit <link target="http://www.opengeospatial.org/legal/"/></td>
+	</tr></tbody>
+	</table>
+(XML Line 000033): Hanging paragraph in clause
+	<clause id="_introduction" obligation="normative">
+	<title>Introduction</title>
+	<p id="_f62af03a-0fdc-11f9-54c3-c6b32e8a634a">This Domain Working Group (DWG) charter defines the role for OGC activities within the Space Domain and provides an open forum for the presentation and discussion of interoperability requirements, use cases, pilots, and implementations of OGC Standards in this domain. This Charter is to be presented to the OGC’s Technical and Planning Committees for consideration.</p>
+	
+	<p id="_f9ad2df7-c375-6968-6c07-36755ec495ab">Domains are distinct Information Communities that defines a user domain where:</p>
+(XML Line 000096): Hanging paragraph in clause
+	<clause id="_charter" obligation="normative">
+	<title>Charter</title>
+	<p id="_0299cbf8-b39f-e09a-6628-2e5a5ad236b5">The scope of the Space Standards DWG is to identify, develop, and promote interoperable spatiotemporal standards for application in non-terrestrial environments.</p>
+	
+	<p id="_f87b8995-0a5d-81be-b25e-953d81c5990a">The Space Standards DWG will coordinate with standards bodies and working groups both within and outside of the OGC in pursuit of this objective.</p>
+(XML Line 000106): Table should have title
+	<table id="_a3a5d5c4-72a3-c4d7-3775-5bdcae3c6a91"><tbody><tr><td valign="middle" align="center">Name</td>
+	<td valign="middle" align="center">Email</td>
+	<td valign="middle" align="center">Organization</td>
+	</tr><tr><td valign="middle" align="left">Charles Heazel</td>
+	<td valign="middle" align="center"><link target="mailto:cheazel@heazeltech.com"/></td>
+
+
+== Metanorma XML Syntax
+
+(XML Line 000009:113): element "ext" incomplete; missing required element "editorialgroup"
+(XML Line 000151:116): element "clause" not allowed here; expected the element end-tag or element "submitters"

@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ogc-standard xmlns="https://www.metanorma.org/ns/ogc" type="presentation" version="2.0.6">
+<bibdata type="standard">
+<title language="en" format="text/plain">OGC Space Standards Domain Working Group Charter</title>
+<contributor><role type="publisher"/><organization>
+<name>Open Geospatial Consortium</name>
+</organization></contributor><language current="true">en</language><script current="true">Latn</script><status><stage language="">approved</stage><stage language="en">Approved</stage></status><copyright><from>2024</from><owner><organization>
+<name>Open Geospatial Consortium</name>
+</organization></owner></copyright><ext><doctype language="">standard</doctype><subdoctype>implementation</subdoctype></ext></bibdata><localized-strings><localized-string key="scope" language="en">Scope</localized-string><localized-string key="symbolsabbrev" language="en">Symbols and abbreviated terms</localized-string><localized-string key="abbrev" language="en">Abbreviated terms</localized-string><localized-string key="symbols" language="en">Symbols</localized-string><localized-string key="table_of_contents" language="en">Table of contents</localized-string><localized-string key="introduction" language="en">Introduction</localized-string><localized-string key="foreword" language="en">Preface</localized-string><localized-string key="abstract" language="en">Abstract</localized-string><localized-string key="acknowledgements" language="en">Acknowledgements</localized-string><localized-string key="termsdef" language="en">Terms and definitions</localized-string><localized-string key="termsdefsymbolsabbrev" language="en">Terms, definitions, symbols and abbreviated terms</localized-string><localized-string key="termsdefsymbols" language="en">Terms, definitions and symbols</localized-string><localized-string key="termsdefabbrev" language="en">Terms, definitions and abbreviated terms</localized-string><localized-string key="normref" language="en">Normative references</localized-string><localized-string key="bibliography" language="en">Bibliography</localized-string><localized-string key="preface" language="en">Preface</localized-string><localized-string key="clause" language="en">Clause</localized-string><localized-string key="annex" language="en">Annex</localized-string><localized-string key="appendix" language="en">Appendix</localized-string><localized-string key="no_terms_boilerplate" language="en"><p>No terms and definitions are listed in this document.</p>
+</localized-string><localized-string key="internal_terms_boilerplate" language="en"><p>This document uses the terms defined in <link target="https://portal.ogc.org/public_ogc/directives/directives.php">OGC Policy Directive 49</link>, which is based on the ISO/IEC Directives, Part 2, Rules for the structure and drafting of International Standards. In particular, the word “shall” (not “must”) is the verb form used to indicate a requirement to be strictly followed to conform to this document and OGC documents do not use the equivalent phrases in the ISO/IEC Directives, Part 2.</p>
+<p>This document also uses terms defined in the OGC Standard for Modular specifications (<link target="https://portal.opengeospatial.org/files/?artifact_id=34762">OGC 08-131r3</link>), also known as the 'ModSpec'. The definitions of terms such as standard, specification, requirement, and conformance test are provided in the ModSpec.</p>
+<p>For the purposes of this document, the following additional terms and definitions apply.</p>
+</localized-string><localized-string key="norm_with_refs_pref" language="en">The following documents are referred to in the text in such a way that some or all of their content constitutes requirements of this document. For dated references, only the edition cited applies. For undated references, the latest edition of the referenced document (including any amendments) applies.</localized-string><localized-string key="norm_empty_pref" language="en">There are no normative references in this document.</localized-string><localized-string key="external_terms_boilerplate" language="en"><p>This document uses the terms defined in <link target="https://portal.ogc.org/public_ogc/directives/directives.php">OGC Policy Directive 49</link>, which is based on the ISO/IEC Directives, Part 2, Rules for the structure and drafting of International Standards. In particular, the word “shall” (not “must”) is the verb form used to indicate a requirement to be strictly followed to conform to this document and OGC documents do not use the equivalent phrases in the ISO/IEC Directives, Part 2.</p>
+<p>This document also uses terms defined in the OGC Standard for Modular specifications (<link target="https://portal.opengeospatial.org/files/?artifact_id=34762">OGC 08-131r3</link>), also known as the 'ModSpec'. The definitions of terms such as standard, specification, requirement, and conformance test are provided in the ModSpec.</p>
+<p>For the purposes of this document, the terms and definitions given in % additionally apply.</p>
+</localized-string><localized-string key="internal_external_terms_boilerplate" language="en"><p>This document uses the terms defined in <link target="https://portal.ogc.org/public_ogc/directives/directives.php">OGC Policy Directive 49</link>, which is based on the ISO/IEC Directives, Part 2, Rules for the structure and drafting of International Standards. In particular, the word “shall” (not “must”) is the verb form used to indicate a requirement to be strictly followed to conform to this document and OGC documents do not use the equivalent phrases in the ISO/IEC Directives, Part 2.</p>
+<p>This document also uses terms defined in the OGC Standard for Modular specifications (<link target="https://portal.opengeospatial.org/files/?artifact_id=34762">OGC 08-131r3</link>), also known as the 'ModSpec'. The definitions of terms such as standard, specification, requirement, and conformance test are provided in the ModSpec.</p>
+<p>For the purposes of this document, the terms and definitions given in % and the following additionally apply.</p>
+</localized-string><localized-string key="term_defined_in" language="en">(%)</localized-string><localized-string key="binary_and" language="en">%1 and %2</localized-string><localized-string key="multiple_and" language="en">%1, and %2</localized-string><localized-string key="binary_or" language="en">%1 or %2</localized-string><localized-string key="multiple_or" language="en">%1, or %2</localized-string><localized-string key="chain_and" language="en">%1 and %2</localized-string><localized-string key="chain_or" language="en">%1 or %2</localized-string><localized-string key="chain_from" language="en">%1 from %2</localized-string><localized-string key="chain_to" language="en">%1 to %2</localized-string><localized-string key="note" language="en">NOTE</localized-string><localized-string key="note_xref" language="en">Note</localized-string><localized-string key="termnote" language="en">Note % to entry</localized-string><localized-string key="list" language="en">List</localized-string><localized-string key="deflist" language="en">Definition List</localized-string><localized-string key="figure" language="en">Figure</localized-string><localized-string key="formula" language="en">Formula</localized-string><localized-string key="inequality" language="en">Formula</localized-string><localized-string key="table" language="en">Table</localized-string><localized-string key="requirement" language="en">Requirement</localized-string><localized-string key="recommendation" language="en">Recommendation</localized-string><localized-string key="permission" language="en">Permission</localized-string><localized-string key="key" language="en">Key</localized-string><localized-string key="example" language="en">Example</localized-string><localized-string key="example_xref" language="en">Example</localized-string><localized-string key="where" language="en">where</localized-string><localized-string key="wholeoftext" language="en">Whole of text</localized-string><localized-string key="draft_label" language="en">draft</localized-string><localized-string key="inform_annex" language="en">informative</localized-string><localized-string key="norm_annex" language="en">normative</localized-string><localized-string key="modified" language="en">modified</localized-string><localized-string key="deprecated" language="en">DEPRECATED</localized-string><localized-string key="source" language="en">SOURCE</localized-string><localized-string key="and" language="en">and</localized-string><localized-string key="all_parts" language="en">All Parts</localized-string><localized-string key="toc_figures" language="en">List of figures</localized-string><localized-string key="toc_tables" language="en">List of tables</localized-string><localized-string key="toc_recommendations" language="en">List of recommendations</localized-string><localized-string key="month_january" language="en">January</localized-string><localized-string key="month_february" language="en">February</localized-string><localized-string key="month_march" language="en">March</localized-string><localized-string key="month_april" language="en">April</localized-string><localized-string key="month_may" language="en">May</localized-string><localized-string key="month_june" language="en">June</localized-string><localized-string key="month_july" language="en">July</localized-string><localized-string key="month_august" language="en">August</localized-string><localized-string key="month_september" language="en">September</localized-string><localized-string key="month_october" language="en">October</localized-string><localized-string key="month_november" language="en">November</localized-string><localized-string key="month_december" language="en">December</localized-string><localized-string key="obligation" language="en">Obligation</localized-string><localized-string key="subject" language="en">Subject</localized-string><localized-string key="inherits" language="en">Inherits</localized-string><localized-string key="admonition.danger" language="en">Danger</localized-string><localized-string key="admonition.warning" language="en">Warning</localized-string><localized-string key="admonition.caution" language="en">Caution</localized-string><localized-string key="admonition.important" language="en">Important</localized-string><localized-string key="admonition.safety_precautions" language="en">Safety Precautions</localized-string><localized-string key="locality.section" language="en">Section</localized-string><localized-string key="locality.clause" language="en">Clause</localized-string><localized-string key="locality.part" language="en">Part</localized-string><localized-string key="locality.paragraph" language="en">Paragraph</localized-string><localized-string key="locality.chapter" language="en">Chapter</localized-string><localized-string key="locality.page" language="en">Page</localized-string><localized-string key="locality.table" language="en">Table</localized-string><localized-string key="locality.annex" language="en">Annex</localized-string><localized-string key="locality.figure" language="en">Figure</localized-string><localized-string key="locality.example" language="en">Example</localized-string><localized-string key="locality.note" language="en">Note</localized-string><localized-string key="locality.formula" language="en">Formula</localized-string><localized-string key="grammar_abbrevs.masculine" language="en">m</localized-string><localized-string key="grammar_abbrevs.feminine" language="en">f</localized-string><localized-string key="grammar_abbrevs.neuter" language="en">n</localized-string><localized-string key="grammar_abbrevs.common" language="en">common</localized-string><localized-string key="grammar_abbrevs.singular" language="en">sg</localized-string><localized-string key="grammar_abbrevs.dual" language="en">dual</localized-string><localized-string key="grammar_abbrevs.pl" language="en">pl</localized-string><localized-string key="grammar_abbrevs.isPreposition" language="en">prep</localized-string><localized-string key="grammar_abbrevs.isParticiple" language="en">part</localized-string><localized-string key="grammar_abbrevs.isAdjective" language="en">adj</localized-string><localized-string key="grammar_abbrevs.isAdverb" language="en">adv</localized-string><localized-string key="grammar_abbrevs.isNoun" language="en">noun</localized-string><localized-string key="grammar_abbrevs.isVerb" language="en">verb</localized-string><localized-string key="relatedterms.deprecates" language="en">deprecates</localized-string><localized-string key="relatedterms.supersedes" language="en">supersedes</localized-string><localized-string key="relatedterms.narrower" language="en">narrower</localized-string><localized-string key="relatedterms.broader" language="en">broader</localized-string><localized-string key="relatedterms.equivalent" language="en">equivalent</localized-string><localized-string key="relatedterms.compare" language="en">compare</localized-string><localized-string key="relatedterms.contrast" language="en">contrast</localized-string><localized-string key="relatedterms.see" language="en">see</localized-string><localized-string key="Clause.sg" language="en">Clause</localized-string><localized-string key="Clause.pl" language="en">Clauses</localized-string><localized-string key="Annex.sg" language="en">Annex</localized-string><localized-string key="Annex.pl" language="en">Annexes</localized-string><localized-string key="Appendix.sg" language="en">Appendix</localized-string><localized-string key="Appendix.pl" language="en">Appendixes</localized-string><localized-string key="Note.sg" language="en">Note</localized-string><localized-string key="Note.pl" language="en">Notes</localized-string><localized-string key="Note_%_to_entry.sg" language="en">Note % to entry</localized-string><localized-string key="Note_%_to_entry.pl" language="en">Notes % to entry</localized-string><localized-string key="List.sg" language="en">List</localized-string><localized-string key="List.pl" language="en">Lists</localized-string><localized-string key="Figure.sg" language="en">Figure</localized-string><localized-string key="Figure.pl" language="en">Figures</localized-string><localized-string key="Formula.sg" language="en">Formula</localized-string><localized-string key="Formula.pl" language="en">Formulas</localized-string><localized-string key="Table.sg" language="en">Table</localized-string><localized-string key="Table.pl" language="en">Tables</localized-string><localized-string key="Requirement.sg" language="en">Requirement</localized-string><localized-string key="Requirement.pl" language="en">Requirements</localized-string><localized-string key="Recommendation.sg" language="en">Recommendation</localized-string><localized-string key="Recommendation.pl" language="en">Recommendations</localized-string><localized-string key="Permission.sg" language="en">Permission</localized-string><localized-string key="Permission.pl" language="en">Permissions</localized-string><localized-string key="Example.sg" language="en">Example</localized-string><localized-string key="Example.pl" language="en">Examples</localized-string><localized-string key="Part.sg" language="en">Part</localized-string><localized-string key="Part.pl" language="en">Parts</localized-string><localized-string key="Section.sg" language="en">Section</localized-string><localized-string key="Section.pl" language="en">Sections</localized-string><localized-string key="Paragraph.sg" language="en">Paragraph</localized-string><localized-string key="Paragraph.pl" language="en">Paragraphs</localized-string><localized-string key="Chapter.sg" language="en">Chapter</localized-string><localized-string key="Chapter.pl" language="en">Chapters</localized-string><localized-string key="Page.sg" language="en">Page</localized-string><localized-string key="Page.pl" language="en">Pages</localized-string><localized-string key="admitted" language="en">ADMITTED</localized-string><localized-string key="submitters" language="en">Submitters</localized-string><localized-string key="recommendationtest" language="en">Recommendation test</localized-string><localized-string key="requirementtest" language="en">Requirement test</localized-string><localized-string key="permissiontest" language="en">Permission test</localized-string><localized-string key="recommendationclass" language="en">Recommendations class</localized-string><localized-string key="requirementclass" language="en">Requirements class</localized-string><localized-string key="permissionclass" language="en">Permissions class</localized-string><localized-string key="abstracttest" language="en">Abstract test</localized-string><localized-string key="conformanceclass" language="en">Conformance class</localized-string><localized-string key="security_empty" language="en">No security considerations have been made for this document.</localized-string><localized-string key="stage_dict.draft" language="en">Draft</localized-string><localized-string key="stage_dict.work-item-draft" language="en">Work Item Draft</localized-string><localized-string key="stage_dict.swg-draft" language="en">Candidate SWG Draft</localized-string><localized-string key="stage_dict.oab-review" language="en">Candidate OAB Review Draft</localized-string><localized-string key="stage_dict.public-rfc" language="en">Candidate Public RFC Draft</localized-string><localized-string key="stage_dict.tc-vote" language="en">Candidate TC Vote Draft</localized-string><localized-string key="stage_dict.approved" language="en">Approved</localized-string><localized-string key="stage_dict.published" language="en">Published</localized-string><localized-string key="stage_dict.deprecated" language="en">Deprecated</localized-string><localized-string key="stage_dict.rescinded" language="en">Rescinded</localized-string><localized-string key="stage_dict.retired" language="en">Retired</localized-string><localized-string key="language" language="en">en</localized-string><localized-string key="script" language="en">Latn</localized-string></localized-strings><misc-container><presentation-metadata><name>TOC Heading Levels</name><value>4</value></presentation-metadata><presentation-metadata><name>TOC Heading Levels</name><value>4</value></presentation-metadata><presentation-metadata><name>TOC Heading Levels</name><value>4</value></presentation-metadata></misc-container>
+<boilerplate>
+  <copyright-statement>
+    <clause>
+      <title depth="1">Copyright notice</title>
+
+      <p align="center" id="_05e2e052-833c-e51b-93af-4ce8ddde4ccf">Copyright
+        © 2024 Open Geospatial Consortium<br/>
+        To obtain additional rights of use, visit
+        <link target="http://www.ogc.org/legal/">http://www.ogc.org/legal/</link></p>
+    </clause>
+    <clause>
+      <title depth="1">Note</title>
+      <p align="left" id="_11e88dba-9912-1a89-a82d-7291bf232191">Attention is drawn to the possibility that some of the elements of this document may be the subject of patent rights. The Open Geospatial Consortium shall not be held responsible for identifying any or all such patent rights.</p>
+
+      <p align="left" id="_15067213-c07b-cba0-7e18-395ab2e00ab3">Recipients of this document are requested to submit, with their comments, notification of any relevant patent claims or other intellectual property rights of which they may be aware that might be infringed by any implementation of the standard set forth in this document, and to provide supporting documentation.</p>
+    </clause>
+  </copyright-statement>
+  <license-statement>
+    <clause>
+      <title depth="1">License Agreement</title>
+
+      <p id="_e8566381-218f-c22d-320d-4d0371bfd58f">Permission is hereby granted by the Open Geospatial
+        Consortium, (“Licensor”), free of charge and subject to the terms set
+        forth below, to any person obtaining a copy of this Intellectual Property and
+        any associated documentation, to deal in the Intellectual Property without
+        restriction (except as set forth below), including without limitation the
+        rights to implement, use, copy, modify, merge, publish, distribute, and/or
+        sublicense copies of the Intellectual Property, and to permit persons to whom
+        the Intellectual Property is furnished to do so, provided that all copyright notices
+        on the intellectual property are retained intact and that each person to whom
+        the Intellectual Property is furnished agrees to the terms of this Agreement.</p>
+
+      <p id="_52ebb386-d365-27d0-d76d-a59ac165fc4d">If you modify the Intellectual Property, all copies of
+        the modified Intellectual Property must include, in addition to the above
+        copyright notice, a notice that the Intellectual Property includes
+        modifications that have not been approved or adopted by LICENSOR.</p>
+
+      <p id="_178f14b4-0718-a5b8-09cd-84f8f4b756ed">THIS LICENSE IS A COPYRIGHT LICENSE ONLY, AND DOES NOT
+        CONVEY ANY RIGHTS UNDER ANY PATENTS THAT MAY BE IN FORCE ANYWHERE IN THE WORLD.
+        THE INTELLECTUAL PROPERTY IS PROVIDED “AS
+        IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+        LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE,
+        AND NONINFRINGEMENT OF THIRD PARTY RIGHTS. THE COPYRIGHT HOLDER OR HOLDERS
+        INCLUDED IN THIS NOTICE DO NOT WARRANT THAT THE FUNCTIONS CONTAINED IN THE
+        INTELLECTUAL PROPERTY WILL MEET YOUR REQUIREMENTS OR THAT THE OPERATION OF THE
+        INTELLECTUAL PROPERTY WILL BE UNINTERRUPTED OR ERROR FREE. ANY USE OF THE
+        INTELLECTUAL PROPERTY SHALL BE MADE ENTIRELY AT THE USER’S OWN RISK. IN NO
+        EVENT SHALL THE COPYRIGHT HOLDER OR ANY CONTRIBUTOR OF INTELLECTUAL PROPERTY
+        RIGHTS TO THE INTELLECTUAL PROPERTY BE LIABLE FOR ANY CLAIM, OR ANY DIRECT,
+        SPECIAL, INDIRECT OR CONSEQUENTIAL DAMAGES, OR ANY DAMAGES WHATSOEVER RESULTING
+        FROM ANY ALLEGED INFRINGEMENT OR ANY LOSS OF USE, DATA OR PROFITS, WHETHER IN
+        AN ACTION OF CONTRACT, NEGLIGENCE OR UNDER ANY OTHER LEGAL THEORY, ARISING OUT
+        OF OR IN CONNECTION WITH THE IMPLEMENTATION, USE, COMMERCIALIZATION OR
+        PERFORMANCE OF THIS INTELLECTUAL PROPERTY.</p>
+
+      <p id="_2ad7fe27-9ae4-52c5-9dd9-faa4004247fb">This license is effective until terminated. You may
+        terminate it at any time by destroying the Intellectual Property together with
+        all copies in any form. The license will also terminate if you fail to comply
+        with any term or condition of this Agreement. Except as provided in the
+        following sentence, no such termination of this license shall require the
+        termination of any third party end-user sublicense to the Intellectual Property
+        which is in force as of the date of notice of such termination. In addition,
+        should the Intellectual Property, or the operation of the Intellectual
+        Property, infringe, or in LICENSOR’s sole opinion be
+        likely to infringe, any patent, copyright, trademark or other right of a third
+        party, you agree that LICENSOR, in its sole discretion, may terminate this
+        license without any compensation or liability to you, your licensees or any
+        other party. You agree upon termination of any kind to destroy or cause to be
+        destroyed the Intellectual Property together with all copies in any form,
+        whether held by you or by any third party.</p>
+
+      <p id="_3254c815-179c-5f54-9a01-b8e964837171">Except as contained in this notice, the name of
+        LICENSOR or of any other holder of a copyright in all or part of the Intellectual
+        Property shall not be used in advertising or otherwise to promote the sale, use
+        or other dealings in this Intellectual Property without prior written
+        authorization of LICENSOR or such copyright holder. LICENSOR is and shall at
+        all times be the sole entity that may authorize you or any third party to use
+        certification marks, trademarks or other special designations to indicate
+        compliance with any LICENSOR standards or specifications.
+        This Agreement is
+        governed by the laws of the Commonwealth of Massachusetts. The application to
+        this Agreement of the United Nations Convention on Contracts for the
+        International Sale of Goods is hereby expressly excluded. In the event any
+        provision of this Agreement shall be deemed unenforceable, void or invalid, such
+        provision shall be modified so as to make it valid and enforceable, and as so
+        modified the entire Agreement shall remain in full force and effect. No
+        decision, action or inaction by LICENSOR shall be construed to be a waiver of
+        any rights or remedies available to it.</p>
+
+      <p id="_4fa1ef5b-3dd5-7a05-3c68-bca93a0f14bb">None of the Intellectual Property or underlying information or technology may be downloaded or otherwise exported or reexported in violation of U.S. export laws and regulations. In addition, you are responsible for complying with any local laws in your jurisdiction which may impact your right to import, export or use the Intellectual Property, and you represent that you have complied with any regulations or registration procedures required by applicable law to make this license enforceable.</p>
+    </clause>
+  </license-statement>
+
+  <legal-statement>
+    
+    
+    <clause>
+      <title depth="1">Notice</title>
+      <p id="_a156d1c4-313c-340a-8480-366345e3e0d2">This document is an OGC Member approved international standard. This document is available on a royalty free, non-discriminatory basis. Recipients of this document are invited to submit, with their comments, notification of any relevant patent rights of which they are aware and to provide supporting documentation.
+      </p>
+    </clause>
+    
+
+
+    
+
+  </legal-statement>
+
+
+
+
+  <feedback-statement>
+    
+    <clause id="boilerplate-standard-feedback">
+      <p id="_bbc1a653-f270-135d-9455-af930feb3587">Suggested additions, changes and comments on this document are welcome and encouraged. Such suggestions may be submitted using the online change request form on OGC web site: <link target="http://portal.opengeospatial.org/public_ogc/change_request.php">http://portal.opengeospatial.org/public_ogc/change_request.php</link></p>
+    </clause>
+    
+  </feedback-statement>
+</boilerplate>
+<preface><foreword id="_fb19146a-1ae6-6261-1d7a-3e99155b934e" obligation="informative" displayorder="1">
+<title depth="1">I.<tab/>Preface</title>
+<pagebreak/>
+<table id="_5d938338-7204-eb7d-7601-cf0d16c46c92"><name>Table 1</name><tbody><tr><td valign="middle" align="right"/></tr><tr><td valign="middle" align="right"><strong>Open Geospatial Consortium</strong></td>
+</tr><tr><td valign="middle" align="right">Submission Date: 2023-09-27</td>
+</tr><tr><td valign="middle" align="right">Approval Date:   2023-09-28</td>
+</tr><tr><td valign="middle" align="right">Internal reference number of this OGC® document:    23-041r2</td>
+</tr><tr><td valign="middle" align="right">Category: OGC® Domain Working Group Charter</td>
+</tr><tr><td valign="middle" align="right">Authors:   Charles Heazel</td>
+</tr></tbody>
+</table>
+
+<table id="_0b9287c9-cde4-4b0c-f1f8-97455fc065c7"><name>Table 2</name><tbody><tr><td valign="middle" align="center"><strong>OGC Space Standards Domain Working Group Charter</strong></td>
+</tr></tbody>
+</table>
+
+<table id="_a71936af-a82b-5f0e-c573-c72320f00f64"><name>Table 3</name><tbody><tr><td valign="middle" align="center"><strong>Copyright notice</strong></td>
+</tr><tr><td valign="middle" align="center">Copyright © 2023 Open Geospatial Consortium</td>
+</tr><tr><td valign="middle" align="center">To obtain additional rights of use, visit <link target="http://www.opengeospatial.org/legal/"/></td>
+</tr></tbody>
+</table>
+
+<pagebreak/></foreword><clause type="security" id="_81b1ace7-21d3-2259-3346-8f24ee71ed45" obligation="informative" displayorder="2"><title depth="1">II.<tab/>Security considerations</title><p id="_6bffb48c-5a4a-c73f-8352-74e8ed0d680a">No security considerations have been made for this document.</p></clause></preface><sections>
+<clause id="_introduction" obligation="normative" displayorder="4">
+<title depth="1">2.<tab/>Introduction</title>
+<p id="_f62af03a-0fdc-11f9-54c3-c6b32e8a634a">This Domain Working Group (DWG) charter defines the role for OGC activities within the Space Domain and provides an open forum for the presentation and discussion of interoperability requirements, use cases, pilots, and implementations of OGC Standards in this domain. This Charter is to be presented to the OGC’s Technical and Planning Committees for consideration.</p>
+
+<p id="_f9ad2df7-c375-6968-6c07-36755ec495ab">Domains are distinct Information Communities that defines a user domain where:</p>
+
+<ul id="_f5bacdc9-ab35-fcf9-6a4b-60ab51b261ea"><li><p id="_09d51a64-5957-2b19-5c8b-14f1fd0b1e20">A distinct market, application, or business approach exists;</p>
+</li>
+<li><p id="_c5240fd5-dc2b-9aa0-2aa9-ea459e343979">Common data definition, structure, syntax, and definitions exists;</p>
+</li>
+<li><p id="_8a1b2214-86bd-fb16-385a-a8f9a537c0ea">Common user requirements exist; and/or</p>
+</li>
+<li><p id="_3e5c8b58-4681-f471-919c-f467e10f9620">Common approach to vendors exists
+This Charter defines the Space Domain as an information community which encompasses all spatiotemporal information and applications which are not centered on the planet Earth.</p>
+</li>
+</ul>
+
+<clause id="_working_group" obligation="normative">
+<title depth="2">2.1.<tab/>Working Group</title>
+<p id="_40fc5b2e-b1f4-666a-e407-f7f0125e2f8f">Operation of the OGC Space Domain Working Group follows the policies and procedures of the Technical Committee. The following definition from the Technical Policies and Procedures apply to this DWG Charter.</p>
+
+<p id="_16c2a8f1-2880-e619-dc83-80d53bffa8a8"><strong>Domain Working Group</strong>: A group (organizationally, a subgroup of the TC) of individuals composed of members of the TC and invited guests, with the specific intent of solving some particular interoperability problem or problems in a particular technology domain for recommendation to the Technical Committee.</p>
+
+<p id="_55b99ffc-bd6d-480d-ca7c-c075957f8d3a">Functions of a Domain Working Group are as follows.</p>
+
+<ul id="_d8fba747-a60b-37c5-e15f-1f66f3b655bf"><li><p id="_67e40ef4-767c-cbcf-eb97-3827d3b94f33">Provide a forum for discussion and documentation of interoperability requirements for a given information or user community.</p>
+</li>
+<li><p id="_0c44a1b5-8d5e-5316-d2f8-12282bf6afc2">Provide a forum to discuss and recommend document actions related to Interoperability Program Reports.</p>
+</li>
+<li><p id="_3398bb94-a986-cbf4-8c20-887532e909ff">Develop Change Requests Proposals (CRPs) for existing OGC Standards.</p>
+</li>
+<li><p id="_37809aaf-786c-c2b1-0d98-68b0c9c907eb">Develop engineering reports with the intent of seeking approval by the TC for release of these documents as OGC White Papers, Discussion Papers or Best Practices Papers.</p>
+</li>
+<li><p id="_bc37d06b-9e1f-617c-c09e-fb37e526b929">Informational presentations and discussions about the market use of adopted OGC Standards.</p>
+</li>
+<li><p id="_2d48dd20-8db5-a0cb-3925-ca8c12bbb039">Have a formal approved charter that defines the DWGs Scope of Work and estimated timeline for completion of the work.</p>
+</li>
+<li><p id="_0ba89942-58ae-17d3-77cf-7901a19075c6">Have all-member voting policies (unless otherwise stated).</p>
+</li>
+<li><p id="_c3dcfd83-dcca-9b41-5bbc-85deded6fe4b">Have missions and goals defined by the TC.</p>
+</li>
+</ul>
+
+<p id="_ac9f1c6f-ad57-f197-3411-98f0dacc8ff7">A DWG <underline>Does Not</underline> work on Standards submissions, candidate Standards, or revisions to existing OGC Standards. However, a DWG can develop change requests as documentation of interoperability requirements that can then be submitted as work items to a Standards Working Group (SWG).</p>
+
+<p id="_a5a71721-5f7c-658a-5279-f386201a3472">A DWG may determine that they wish to have public collaboration, such as in teleconference, email discussions, or a public twiki. In this case, the DWG shall make a motion to the TC to approve public participation in the DWG. Voting in DWGs is by simple majority of OGC Members present at the WG meeting, not just Voting TC Members, with the caveat that no OGC Member organization may cast more than one vote in a WG vote.</p>
+</clause>
+</clause>
+
+<clause id="_purpose_of_working_group" obligation="normative" displayorder="5">
+<title depth="1">3.<tab/>Purpose of Working Group</title>
+<p id="_e7079878-4a43-1f22-129f-832e123e0c9f">This Charter defines the Space Domain as the area above the altitude where atmospheric effects on airborne objects become negligible. Specifically, the area surrounding the Earth at altitudes equal to, or greater than, 100 kilometers (54 nautical miles) above mean sea level.</p>
+
+<p id="_f0a77d9d-92e0-8a14-3091-6ea7ec234593">The Space Standards Domain Working Group will serve as a forum to identify requirements for standardization which are unique for the Space Domain, identify which organizations (if any) are addressing those requirements, and promote harmonization and integration of shared concepts across all Space standards.</p>
+</clause>
+
+<clause id="_problem_statement" obligation="normative" displayorder="6">
+<title depth="1">4.<tab/>Problem statement</title>
+<p id="_04b13dd5-b296-984f-215e-da9a0a3291e5">There is no common concept of “Space Standards”. The Space Domain is composed of a wide collection of initiatives, each addressing one part of the whole. Each of these initiatives develops their own standards and conventions. Attempts to harmonize across these initiatives are limited.</p>
+
+<p id="_6482f676-f9bd-d86f-8cd3-a92129b4e3d5">While the OGC cannot solve this problem for all disciplines, it can make sure that the concepts of space and time are consistent and interoperable across all communities in the Space Domain. In addition, the OGC can identify emerging Space Domain standards which would impact existing OGC Standards and encourage the impacted SWGs and DWGs to take appropriate action.</p>
+</clause>
+
+<clause id="_charter" obligation="normative" displayorder="7">
+<title depth="1">5.<tab/>Charter</title>
+<p id="_0299cbf8-b39f-e09a-6628-2e5a5ad236b5">The scope of the Space Standards DWG is to identify, develop, and promote interoperable spatiotemporal standards for application in non-terrestrial environments.</p>
+
+<p id="_f87b8995-0a5d-81be-b25e-953d81c5990a">The Space Standards DWG will coordinate with standards bodies and working groups both within and outside of the OGC in pursuit of this objective.</p>
+
+<clause id="_charter_members" obligation="normative">
+<title depth="2">5.1.<tab/>Charter members</title>
+<p id="_f1158401-bee4-9658-f1e7-d2f21013b140">The initial membership of the Space Standards Domain Working Group will consist of the following members and individuals with extensive education and experience in the Space Domain, namely:</p>
+
+<table id="_a3a5d5c4-72a3-c4d7-3775-5bdcae3c6a91"><name>Table 4</name><tbody><tr><td valign="middle" align="center">Name</td>
+<td valign="middle" align="center">Email</td>
+<td valign="middle" align="center">Organization</td>
+</tr><tr><td valign="middle" align="left">Charles Heazel</td>
+<td valign="middle" align="center"><link target="mailto:cheazel@heazeltech.com"/></td>
+<td valign="middle" align="center">Heazeltech</td>
+</tr><tr><td valign="middle" align="left">Carl Reed</td>
+<td valign="middle" align="center"><link target="mailto:carl.n.reed@gmail.com"/></td>
+<td valign="middle" align="center">Carl Reed and Associates</td>
+</tr><tr><td valign="middle" align="left">Don Sullivan</td>
+<td valign="middle" align="center"><link target="mailto:donald.v.sullivan@nasa.gov"/></td>
+<td valign="middle" align="center">NASA</td>
+</tr><tr><td valign="middle" align="left">Danny Vandenbroucke</td>
+<td valign="middle" align="center"><link target="mailto:danny.vandenbroucke@kuleuven.be"/></td>
+<td valign="middle" align="center">KU Leuven</td>
+</tr></tbody>
+</table>
+</clause>
+
+<clause id="_key_activities" obligation="normative">
+<title depth="2">5.2.<tab/>Key activities</title>
+<p id="_00c754b7-a2b9-406d-9851-fd12582b95ff">Key activities for the DWG include the following efforts:</p>
+
+<ol id="_e247997a-9813-4bba-7671-2e23eb021ae1" type="arabic"><li><p id="_1531fd58-17ce-0eb7-f3a9-0435db28a4d7">Serve as an coordinating body for all OGC Domain Working Groups working in the Space Domain.</p>
+</li>
+<li><p id="_42445d09-c2f0-fe42-8626-c5014359665b">Decompose the Space Domain into a manageable set of sub-domains.</p>
+</li>
+<li><p id="_e99fd677-23a6-3b5c-2c10-d6562571a1b3">Identify and document missions in the Space Domain which may have unique standardization requirements.</p>
+</li>
+<li><p id="_aa0f56ec-aa5c-1fa4-6da4-ff7a6c225ee3">Identify and document initiatives which are developing Space standards and conventions.</p>
+</li>
+<li><p id="_c5a31888-647f-8362-5b5b-c743f3c3cc49">Identify opportunities for the OGC to provide spatiotemporal data models, services, design patterns, and other architectural elements which can serve as a common capability across all Space standardization initiatives.</p>
+</li>
+<li><p id="_32e4025b-321c-c13b-84e5-0008ee63631f">Stay current on OGC Space related initiatives and be prepared to report on these efforts to other non-OGC initiatives.</p>
+</li>
+<li><p id="_3360d046-d4bb-9d65-712e-ec0ec7a3e059">Liaison with Space standardization initiatives as needed to promote commonality in space-time concepts.</p>
+</li>
+<li><p id="_3e864e77-7351-acbf-13a9-5742c541d0d7">Establish Standards Working Groups as needed to address Space related requirements which are not otherwise being addressed.</p>
+</li>
+<li><p id="_6e305d48-2584-daad-c93e-b41d4bfb0367">Establish an on-line glossary of terms and definitions pertaining to Space Standards.</p>
+</li>
+</ol>
+</clause>
+
+<clause id="_business_case" obligation="normative">
+<title depth="2">5.3.<tab/>Business case</title>
+<p id="_7427db9c-ff03-3ade-94ce-8e5980e58a91">The domain for Space Standards is large and diverse. There is a risk that the standards, conventions, and practices arising from these diverse interests will be fragmented and non-interoperable. This Domain Working Group seeks to mitigate that risk by promoting space and time as a common enabling technology for all application communities in the Space Domain.</p>
+</clause>
+</clause>
+
+<clause id="_organizational_approach_and_scope_of_work" obligation="normative" displayorder="8">
+<title depth="1">6.<tab/>Organizational approach and scope of work</title>
+<clause id="_business_goals" obligation="normative">
+<title depth="2">6.1.<tab/>Business goals</title>
+<p id="_72f84706-c840-803c-acc5-ffcdb7f1ea95">The Space Standards DWG will address the business case described above by working toward the following goals:</p>
+
+<ol id="_5636c50d-a6bd-90b6-9214-219d66d14c24" type="arabic"><li><p id="_eb5de9e5-3567-89b9-44b6-6235d1655b81">Enable rational discussion of Space Standards by decomposing the Space Domain into more manageable sub-domains and/or mission areas.</p>
+</li>
+<li><p id="_73134d09-9911-a73d-b646-f8f13b82d705">Identify existing Standards and common practices in the Space Domains.</p>
+</li>
+<li><p id="_680892d4-69ca-1b0d-ad90-9f34e589790d">Establish liaison relations with key initiatives in Space Standards.</p>
+</li>
+<li><p id="_c3d1db36-a505-d95e-0bab-13e8a15dd032">Achieve consensus on concepts for space and time based on OGC Standards.</p>
+</li>
+<li><p id="_30c95c07-605a-56cb-d725-d37d6e1e35e0">Extend OGC Standards to support missions in the Space Domains.</p>
+</li>
+</ol>
+</clause>
+
+<clause id="_mission_and_role" obligation="normative">
+<title depth="2">6.2.<tab/>Mission and Role</title>
+<p id="_d553558a-2048-56b4-bc61-a26065af19f9">The Space Standards Domain Working Group will serve as a coordinating body for Space Standards, leading to interoperable representations for space and time across all Space Standards.</p>
+</clause>
+
+<clause id="_activities_planned_for_space_standards_dwg" obligation="normative">
+<title depth="2">6.3.<tab/>Activities planned for Space Standards DWG</title>
+<p id="_9e37de3b-3f3c-71b7-8cc9-0ecb17886e1e">The following activities are planned for the Space Standards DWG:</p>
+
+<ol id="_14adcaef-a5a8-4fcc-2a83-a1a6ddaaf593" type="arabic"><li><p id="_64902a1d-ced9-1fbc-ae94-6c188cf293be">Decompose the Space Domain into sub-domains, potentially including:</p>
+<ol id="_97228753-08ff-d0ef-d011-1181c4481a0b" type="alphabet"><li><p id="_97d582a2-5d2c-80a7-0f0d-d52de0eda517">Lunar</p>
+</li>
+<li><p id="_ba4cd34c-2b6f-096e-6054-dcd9499792ad">Martian</p>
+</li>
+<li><p id="_30d258b5-b5d4-c2ad-fbaf-079e73d4041a">Cislunar</p>
+</li>
+<li><p id="_3fd2bde6-4350-4559-e404-74fd913983fb">Deep Space</p>
+</li>
+<li><p id="_f95baa15-f971-4f67-8b8a-a5c35b01efde">Low Earth Orbit</p>
+</li>
+</ol>
+</li>
+<li><p id="_6fe9095f-a9a7-4a3b-ea08-f8410bf7f35e">Develop a taxonomy of Space Missions including:</p>
+<ol id="_a2abb86c-fcb4-0321-c557-348cbf709453" type="alphabet"><li><p id="_a292495c-c79d-03e9-30e2-9074c7a85f75">Positioning, Navigation, Timing and Mapping</p>
+<ol id="_deaebed4-93d2-a201-4450-95296eaad83b" type="roman"><li><p id="_fceeb180-d550-49a2-f5e0-6038fb3fd8cc">Celestial and celestrial body-centric coordinate reference systems</p>
+</li>
+<li><p id="_36c8c663-074d-1970-f431-034e044e817f">Celestial mapping</p>
+</li>
+<li><p id="_8d57d603-cbd6-309e-37fa-29e54e927d1a">Timing and time systems</p>
+</li>
+<li><p id="_6972b000-30d9-f4e6-edcb-d06d5f99e41a">3D+ positioning</p>
+</li>
+<li><p id="_45cf7740-ded0-975a-5166-b6bbbf8781f8">Navigation within and between coordinate reference systems</p>
+</li>
+<li><p id="_f38816e8-66a8-97fb-f6b1-86b1dd2dfa14">Space gravity mapping</p>
+</li>
+<li><p id="_d2c3179d-2dee-90d6-7014-646403926711">Integration of general and special relativity</p>
+</li>
+</ol>
+</li>
+<li><p id="_fccb591d-f630-a754-4b3a-41f9e91b68bb">Space Situational Awareness</p>
+<ol id="_9c582bf0-40a9-24af-ddff-9ce27fb6657a" type="roman"><li><p id="_f78c1324-7daa-c9cc-99a7-5f34944d36bd">Space Traffic Management</p>
+</li>
+<li><p id="_163d6c93-f361-de71-09a8-4941b00f5d2a">Space debris tracking and removal</p>
+</li>
+<li><p id="_9875a737-7088-97b6-0121-a94bc72337c2">Planetary/asset defense</p>
+</li>
+<li><p id="_87652d45-9308-872d-de7d-6ed7fe25bad4">Orbit management</p>
+</li>
+<li><p id="_97e9df04-6963-a82b-d807-b8e5b63cb375">Radio frequency spectrum management</p>
+</li>
+</ol>
+</li>
+<li><p id="_67e90409-4980-3fe5-aa83-0ec548d2407f">Space Topology</p>
+<ol id="_481a3630-3635-dc20-b832-d5f4b665c3d6" type="roman"><li><p id="_27ccb8be-bd40-5a9e-7687-06c6eb76cd16">Space weather</p>
+</li>
+<li><p id="_4b0747aa-7298-9ef8-1894-979483aef2a5">Space energy</p>
+</li>
+<li><p id="_987ec23a-46a7-2e52-ecc5-dd940c325ec1">Interplanetary topology</p>
+</li>
+<li><p id="_708c03bd-1414-2957-e7c0-1dc160a5ae77">space traffic management</p>
+</li>
+</ol>
+</li>
+<li><p id="_ef4d51fd-7df4-6a3d-a6f1-81913722f9e9">Space Assets</p>
+<ol id="_4cdd1bff-06c6-b7eb-7ae9-31f1bdd46c08" type="roman"><li><p id="_3f6c2591-51b7-197e-d46c-42a05d250b43">Digital twins / Space infrastructure</p>
+</li>
+<li><p id="_374dee74-540f-712b-a4c6-527cfc757f13">Inhabitation plans</p>
+</li>
+</ol>
+</li>
+<li><p id="_32ecc456-7434-f0d0-4cff-240feeb69303">Space Science</p>
+<ol id="_031118f0-d5f3-7504-1b5f-e6cbbcf5b3f1" type="roman"><li><p id="_776f0b40-1a05-44ea-8c0b-6de3d7f7ff61">Astronomy</p>
+</li>
+<li><p id="_10a0f22e-349d-8542-59bb-b7a53105e380">Earth Observation</p>
+</li>
+</ol>
+</li>
+</ol>
+</li>
+<li><p id="_928f59f4-ef3f-7cc1-7780-517235c69d11">Identify the information and computational capabilities needed to execute each mission.</p>
+</li>
+<li><p id="_f755aaea-be23-600c-cbf2-48251bdca33f">Identify capabilities shared across two or more missions</p>
+</li>
+<li><p id="_92bf5948-09ea-20c6-0480-92a1b531e8ee">Identify existing standards or standards development initiatives to address each capability</p>
+</li>
+<li><p id="_c337079c-2500-b31e-cd1b-a5901bf9f12d">Evaluate the body of standards for consistency, interoperability, and completeness</p>
+</li>
+<li><p id="_ad1ad77e-e13b-076c-50cf-011a8c54d217">Propose the formation of OGC Standards Working Groups as needed to address gaps in the body of Space standards.</p>
+</li>
+<li><p id="_a41ea1bd-c249-437a-94e9-1ba9514623f8">Engage with Space Standards development organizations in an attempt to better integrate Space Standards.</p>
+</li>
+<li><p id="_69e40703-79ed-0687-9662-9607eae7b52a">Serve as the Standards Development Organization (SDO) for Space Standards that were not developed by a formal SDO.</p>
+</li>
+</ol>
+
+<p id="_ec3c2c8f-694b-c2b0-b7f7-5d4323660934">It is anticipated that a Reference Architecture will be required to support these tasks. Development of that Reference Architecture may be performed under this charter.</p>
+</clause>
+</clause>
+
+<clause id="_definitions" obligation="normative" displayorder="9">
+<title depth="1">7.<tab/>Definitions</title>
+<p id="_6fc55e1a-9160-2fb5-4a96-0ddea2e44a9c">The following definitions apply to terms used in this Charter:</p>
+
+<p id="_88a718eb-88f2-9963-85d7-b2fa36b66f5f">Space Domain: an information community which encompasses the area above the altitude where atmospheric effects on airborne objects become negligible <link target="https://www.jcs.mil/Portals/36/Documents/Doctrine/pubs/jp3_14ch1.pdf?ver=GfzdjuluCyyHDS9D_RtkNA%3D%3D">Space Operations, Joint Publication 3-14</link>.</p>
+
+<p id="_832a3f34-58e1-9207-2737-aa703eb71283">Cislunar: the large region of space in the Earth-Moon system beyond geosynchronous (GEO) orbit, including the Moon (<link target="https://www.whitehouse.gov/ostp/news-updates/2022/11/17/fact-sheet-first-national-cislunar-science-technology-strategy/">FACT SHEET: First National Cislunar Science &amp; Technology Strategy</link>)</p>
+</clause>
+
+
+</sections><bibliography><references id="_references" normative="true" obligation="informative" displayorder="3">
+<title depth="1">1.<tab/>Normative references</title><p id="_dc52360f-66c0-cd26-ffb9-a1c80e731d3e">There are no normative references in this document.</p>
+<p id="_ad723d8d-0d75-80f9-4df1-9bfc460ffb4b">Some of the resources relevant to the work of this DWG are described below. Expanding this collection is one of the key objectives of this DWG.</p>
+
+</references></bibliography>
+</ogc-standard>

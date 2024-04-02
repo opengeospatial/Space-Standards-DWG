@@ -1,0 +1,37 @@
+== Resources
+
+=== Flexible Image Transport System (FITS)
+
+. https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018EA000388[FITS Format for Planetary Surfaces: Definitions, Applications, and Best Practices] gives an overview of FITS and the software ecosystem.
+. https://voparis-wiki.obspm.fr/display/VES/GeoFITS:+Planetary+Data+FITS+format+and+metadata+convention[Planetary Data FITS format and metadata convention] is a wiki page with tables of proposed new keywords for FITS.
+. https://www.aanda.org/articles/aa/pdf/2002/45/aah3859.pdf[Representations of world coordinates in FITS] describes how are assigned physical coordinate values of the image pixels.
+. https://www.aanda.org/articles/aa/pdf/2002/45/aah3860.pdf[Representations of celestial coordinates in FITS] applies spherical map projections to above coordinates.
+
+=== The Consultative Committee for Space Data Systems (CCSDS)
+
+The CCSDS is a multi-national forum for the development of communications & data systems standards for spaceflight. Their publications include:
+
+*   Space Interworking Services Area, https://public.ccsds.org/Publications/SIS.aspx[https://public.ccsds.org/Publications/SIS.aspx]
+*   Motion Imagery, https://public.ccsds.org/Pubs/706x1g2.pdf[https://public.ccsds.org/Pubs/706x1g2.pdf]
+*   Digital Motion Imagery, https://public.ccsds.org/Pubs/766x1b3.pdf[https://public.ccsds.org/Pubs/766x1b3.pdf]
+*   Space Link Service Area, https://public.ccsds.org/Publications/SLS.aspx[https://public.ccsds.org/Publications/SLS.aspx]
+
+The full set of CCSDS publications can be found at https://public.ccsds.org/Publications/AllPubs.aspx[https://public.ccsds.org/Publications/AllPubs.aspx]
+
+In 1990, CCSDS entered into an arrangement with the International Standards Organization (ISO) which would allow completed CCSDS standards to be processed and approved as ISO standards. To effect that, ISO Technical Committee 20 Subcommittee 13 was formed and designated “Space Data and Information Transfer Systems”. Effectively, the CCSDS membership now has a dual role, functioning as the CCSDS standards body and as the ISO TC20/SC13 standards body.
+
+ISO TC20/SC13 publications are available from https://cwe.ccsds.org/cmc/docs/Forms/AllItems.aspx?RootFolder=/cmc/docs/ISO%20TC20-SC13%20Subcommittee&[https://cwe.ccsds.org/cmc/docs/Forms/AllItems.aspx?RootFolder=/cmc/docs/ISO%20TC20-SC13%20Subcommittee&]
+
+=== NASA SPICE Toolkit
+
+NASA's Navigation and Ancillary Information Facility (NAIF) offers NASA flight projects and NASA funded researchers the "SPICE" observation geometry information system to assist scientists in planning and interpreting scientific observations from space-based instruments aboard robotic planetary spacecraft. SPICE is also used in support of engineering tasks associated with these missions. While planetary missions were the original focus, today SPICE is also used on some heliophysics and earth science missions.
+
+The SPICE Toolkit is available from this JPL Web Site https://naif.jpl.nasa.gov/naif/toolkit.html
+
+=== Double Asteroid Redirection Test
+
+. NASA Planetary Defense Coordination Office: https://www.nasa.gov/specials/pdco/index.html[https://www.nasa.gov/specials/pdco/index.html]
+. DART Mission Web Site: https://dart.jhuapl.edu/[https://dart.jhuapl.edu/]
+. From Hubble: https://www.nasa.gov/feature/goddard/2022/webb-hubble-capture-detailed-views-of-dart-impact[https://www.nasa.gov/feature/goddard/2022/webb-hubble-capture-detailed-views-of-dart-impact]
+. IAC-17.A3.4B.2 is a paper which describes the DART mission. It includes a description of the flight path which may be sufficient to synthesize DART trajectory data. It is available from https://www.researchgate.net/publication/312193122_AIDADART_Double_Asteroid_Redirection_Test[https://www.researchgate.net/publication/312193122_AIDADART_Double_Asteroid_Redirection_Test]
+

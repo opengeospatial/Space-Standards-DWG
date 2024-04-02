@@ -1,0 +1,3388 @@
+MIME-Version: 1.0
+Content-Type: multipart/related; boundary="----=_NextPart_2de7e8e5.429f.41f3"
+
+------=_NextPart_2de7e8e5.429f.41f3
+Content-ID: <Space_Standards_DWG_Charter.htm>
+Content-Disposition: inline; filename="Space_Standards_DWG_Charter.htm"
+Content-Type: text/html; charset="utf-8"
+
+<?xml version="1.0"?>
+<html xmlns:epub="http://www.idpf.org/2007/ops" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns="http://www.w3.org/TR/REC-html40" lang="en" xml:lang="en">
+  <head>
+<xml>
+<w:WordDocument>
+<w:View>Print</w:View>
+<w:Zoom>100</w:Zoom>
+<w:DoNotOptimizeForBrowser/>
+</w:WordDocument>
+</xml>
+<meta http-equiv=Content-Type content="text/html; charset=utf-8"/>
+
+  <link rel=File-List href="cid:filelist.xml"/>
+<style><![CDATA[
+<!--
+@charset "UTF-8";
+/* Font Definitions */
+@font-face {
+  font-family: Wingdings;
+  panose-1: 5 0 0 0 0 0 0 0 0 0;
+  mso-font-charset: 2;
+  mso-generic-font-family: decorative;
+  mso-font-pitch: variable;
+  mso-font-signature: 0 268435456 0 0 -2147483648 0; }
+
+@font-face {
+  font-family: "MS Mincho";
+  panose-1: 2 2 6 9 4 2 5 8 3 4;
+  mso-font-alt: "ＭＳ 明朝";
+  mso-font-charset: 128;
+  mso-generic-font-family: modern;
+  mso-font-pitch: fixed;
+  mso-font-signature: -536870145 1791491579 134217746 0 131231 0; }
+
+@font-face {
+  font-family: "Cambria Math";
+  panose-1: 2 4 5 3 5 4 6 3 2 4;
+  mso-font-charset: 0;
+  mso-generic-font-family: roman;
+  mso-font-pitch: variable;
+  mso-font-signature: -536870145 1107305727 0 0 415 0; }
+
+@font-face {
+  font-family: "Arial Narrow";
+  panose-1: 2 11 5 6 2 2 2 3 2 4;
+  mso-font-charset: 0;
+  mso-generic-font-family: swiss;
+  mso-font-pitch: variable;
+  mso-font-signature: 3 0 0 0 1 0; }
+
+@font-face {
+  font-family: "Source Sans Pro";
+  panose-1: 2 11 5 3 3 4 3 2 2 4;
+  mso-font-alt: Arial;
+  mso-font-charset: 77;
+  mso-generic-font-family: swiss;
+  mso-font-pitch: variable;
+  mso-font-signature: 536870919 1 0 0 403 0; }
+
+@font-face {
+  font-family: Tahoma;
+  panose-1: 2 11 6 4 3 5 4 4 2 4;
+  mso-font-charset: 0;
+  mso-generic-font-family: swiss;
+  mso-font-pitch: variable;
+  mso-font-signature: -520081665 -1073717157 41 0 66047 0; }
+
+@font-face {
+  font-family: Times;
+  panose-1: 2 0 5 0 0 0 0 0 0 0;
+  mso-font-charset: 0;
+  mso-generic-font-family: auto;
+  mso-font-pitch: variable;
+  mso-font-signature: -536870145 1342185562 0 0 415 0; }
+
+@font-face {
+  font-family: "Wingdings 2";
+  panose-1: 5 2 1 2 1 5 7 7 7 7;
+  mso-font-charset: 2;
+  mso-generic-font-family: decorative;
+  mso-font-pitch: variable;
+  mso-font-signature: 0 268435456 0 0 -2147483648 0; }
+
+@font-face {
+  font-family: "\@MS Mincho";
+  panose-1: 2 2 6 9 4 2 5 8 3 4;
+  mso-font-charset: 128;
+  mso-generic-font-family: modern;
+  mso-font-pitch: fixed;
+  mso-font-signature: -536870145 1791491579 134217746 0 131231 0; }
+
+p.MsoNormal, li.MsoNormal, div.MsoNormal {
+  mso-style-unhide: no;
+  mso-style-qformat: yes;
+  mso-style-parent: "";
+  margin: 0cm;
+  margin-bottom: 12.0pt;
+  mso-pagination: widow-orphan;
+  font-size: 10.5pt;
+  font-family: "Times New Roman",serif;
+  mso-fareast-font-family: "Times New Roman";
+  mso-ansi-language: EN-US;
+  mso-fareast-language: EN-US; }
+
+p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph {
+  mso-style-priority: 34;
+  mso-style-unhide: no;
+  mso-style-qformat: yes;
+  margin-top: 0cm;
+  margin-right: 0cm;
+  margin-bottom: 12.0pt;
+  /* do not put in margin-left, it is specific to list level */
+  mso-add-space: auto;
+  mso-pagination: widow-orphan;
+  font-size: 10.5pt;
+  font-family: "Times New Roman",serif;
+  mso-ansi-language: EN-AU;
+  mso-fareast-language: EN-US; }
+
+p.MsoListParagraphCxSpFirst, li.MsoListParagraphCxSpFirst, div.MsoListParagraphCxSpFirst {
+  mso-style-priority: 34;
+  mso-style-unhide: no;
+  mso-style-qformat: yes;
+  mso-style-type: export-only;
+  margin-top: 0cm;
+  margin-right: 0cm;
+  margin-bottom: 12.0pt;
+  /* do not put in margin-left, it is specific to list level */
+  mso-add-space: auto;
+  mso-pagination: widow-orphan;
+  font-size: 10.5pt;
+  font-family: "Times New Roman",serif;
+  mso-ansi-language: EN-AU;
+  mso-fareast-language: EN-US; }
+
+p.MsoListParagraphCxSpMiddle, li.MsoListParagraphCxSpMiddle, div.MsoListParagraphCxSpMiddle {
+  mso-style-priority: 34;
+  mso-style-unhide: no;
+  mso-style-qformat: yes;
+  mso-style-type: export-only;
+  margin-top: 0cm;
+  margin-right: 0cm;
+  margin-bottom: 12.0pt;
+  /* do not put in margin-left, it is specific to list level */
+  mso-add-space: auto;
+  mso-pagination: widow-orphan;
+  font-size: 10.5pt;
+  font-family: "Times New Roman",serif;
+  mso-ansi-language: EN-AU;
+  mso-fareast-language: EN-US; }
+
+p.MsoListParagraphCxSpLast, li.MsoListParagraphCxSpLast, div.MsoListParagraphCxSpLast {
+  mso-style-priority: 34;
+  mso-style-unhide: no;
+  mso-style-qformat: yes;
+  mso-style-type: export-only;
+  margin-top: 0cm;
+  margin-right: 0cm;
+  margin-bottom: 12.0pt;
+  /* do not put in margin-left, it is specific to list level */
+  mso-add-space: auto;
+  mso-pagination: widow-orphan;
+  font-size: 10.5pt;
+  font-family: "Times New Roman",serif;
+  mso-ansi-language: EN-AU;
+  mso-fareast-language: EN-US; }
+
+p.MsoCommentText, li.MsoCommentText, div.MsoCommentText {
+  mso-style-noshow: yes;
+  mso-style-unhide: no;
+  mso-style-name: "Comment Text";
+  margin: 0cm;
+  margin-bottom: .0001pt;
+  mso-pagination: widow-orphan;
+  font-size: 10.0pt;
+  font-family: "Times New Roman",serif;
+  mso-fareast-font-family: "Times New Roman";
+  mso-ansi-language: EN-US;
+  mso-fareast-language: EN-US; }
+
+p.MsoHeader, li.MsoHeader, div.MsoHeader {
+  mso-style-unhide: no;
+  margin: 0cm;
+  margin-bottom: .0001pt;
+  mso-pagination: widow-orphan;
+  tab-stops: center 216.0pt right 482.0pt;
+  font-size: 10.5pt;
+  font-family: "Times New Roman",serif;
+  mso-fareast-font-family: "Times New Roman";
+  mso-ansi-language: EN-US;
+  mso-fareast-language: EN-US; }
+
+p.MsoHeaderLandscape, li.MsoHeaderLandscape, div.MsoHeaderLandscape {
+  mso-style-unhide: no;
+  margin: 0cm;
+  margin-bottom: .0001pt;
+  mso-pagination: widow-orphan;
+  tab-stops: center 367.0pt right 734.0pt;
+  font-size: 10.5pt;
+  font-family: "Times New Roman",serif;
+  mso-fareast-font-family: "Times New Roman";
+  mso-ansi-language: EN-US;
+  mso-fareast-language: EN-US; }
+
+p.MsoFooter, li.MsoFooter, div.MsoFooter {
+  mso-style-unhide: no;
+  margin: 0cm;
+  margin-bottom: .0001pt;
+  mso-pagination: widow-orphan;
+  tab-stops: right 482.0pt;
+  font-size: 10.5pt;
+  font-family: "Times New Roman",serif;
+  mso-fareast-font-family: "Times New Roman";
+  mso-ansi-language: EN-US;
+  mso-fareast-language: EN-US; }
+
+p.MsoFooterLandscape, li.MsoFooterLandscape, div.MsoFooterLandscape {
+  mso-style-unhide: no;
+  margin: 0cm;
+  margin-bottom: .0001pt;
+  mso-pagination: widow-orphan;
+  tab-stops: right 734.0pt;
+  font-size: 10.5pt;
+  font-family: "Times New Roman",serif;
+  mso-fareast-font-family: "Times New Roman";
+  mso-ansi-language: EN-US;
+  mso-fareast-language: EN-US; }
+
+span.MsoCommentReference {
+  mso-style-noshow: yes;
+  mso-style-unhide: no;
+  mso-style-parent: "";
+  mso-ansi-font-size: 8.0pt;
+  mso-bidi-font-size: 8.0pt; }
+
+p.MsoBodyText, li.MsoBodyText, div.MsoBodyText {
+  mso-style-unhide: no;
+  margin-top: 9.0pt;
+  margin-right: 0cm;
+  margin-bottom: 0cm;
+  margin-left: 0cm;
+  margin-bottom: .0001pt;
+  mso-pagination: widow-orphan;
+  font-size: 12.0pt;
+  font-family: "Times New Roman",serif;
+  mso-fareast-font-family: "Times New Roman";
+  mso-bidi-font-family: "Times New Roman";
+  mso-ansi-language: EN-US;
+  mso-fareast-language: EN-US; }
+
+p.MsoTitle, li.MsoTitle, div.MsoTitle {
+  mso-style-priority: 10;
+  mso-style-unhide: no;
+  mso-style-qformat: yes;
+  mso-style-link: "Title Char";
+  mso-style-next: Normal;
+  margin: 0cm;
+  margin-bottom: .0001pt;
+  mso-add-space: auto;
+  mso-pagination: widow-orphan;
+  font-size: 28.0pt;
+  font-family: "Calibri Light",sans-serif;
+  mso-fareast-font-family: "Times New Roman";
+  mso-bidi-font-family: "Times New Roman";
+  letter-spacing: -.5pt;
+  mso-font-kerning: 14.0pt;
+  mso-ansi-language: EN-US;
+  mso-fareast-language: EN-US; }
+
+p.MsoTitleCxSpFirst, li.MsoTitleCxSpFirst, div.MsoTitleCxSpFirst {
+  mso-style-priority: 10;
+  mso-style-unhide: no;
+  mso-style-qformat: yes;
+  mso-style-link: "Title Char";
+  mso-style-next: Normal;
+  mso-style-type: export-only;
+  margin: 0cm;
+  margin-bottom: .0001pt;
+  mso-add-space: auto;
+  mso-pagination: widow-orphan;
+  font-size: 28.0pt;
+  font-family: "Calibri Light",sans-serif;
+  mso-fareast-font-family: "Times New Roman";
+  mso-bidi-font-family: "Times New Roman";
+  letter-spacing: -.5pt;
+  mso-font-kerning: 14.0pt;
+  mso-ansi-language: EN-US;
+  mso-fareast-language: EN-US; }
+
+p.MsoTitleCxSpMiddle, li.MsoTitleCxSpMiddle, div.MsoTitleCxSpMiddle {
+  mso-style-priority: 10;
+  mso-style-unhide: no;
+  mso-style-qformat: yes;
+  mso-style-link: "Title Char";
+  mso-style-next: Normal;
+  mso-style-type: export-only;
+  margin: 0cm;
+  margin-bottom: .0001pt;
+  mso-add-space: auto;
+  mso-pagination: widow-orphan;
+  font-size: 28.0pt;
+  font-family: "Calibri Light",sans-serif;
+  mso-fareast-font-family: "Times New Roman";
+  mso-bidi-font-family: "Times New Roman";
+  letter-spacing: -.5pt;
+  mso-font-kerning: 14.0pt;
+  mso-ansi-language: EN-US;
+  mso-fareast-language: EN-US; }
+
+p.MsoTitleCxSpLast, li.MsoTitleCxSpLast, div.MsoTitleCxSpLast {
+  mso-style-priority: 10;
+  mso-style-unhide: no;
+  mso-style-qformat: yes;
+  mso-style-link: "Title Char";
+  mso-style-next: Normal;
+  mso-style-type: export-only;
+  margin: 0cm;
+  margin-bottom: .0001pt;
+  mso-add-space: auto;
+  mso-pagination: widow-orphan;
+  font-size: 28.0pt;
+  font-family: "Calibri Light",sans-serif;
+  mso-fareast-font-family: "Times New Roman";
+  mso-bidi-font-family: "Times New Roman";
+  letter-spacing: -.5pt;
+  mso-font-kerning: 14.0pt;
+  mso-ansi-language: EN-US;
+  mso-fareast-language: EN-US; }
+
+a:link, span.MsoHyperlink {
+  mso-style-unhide: no;
+  mso-style-parent: "";
+  color: blue;
+  text-decoration: underline;
+  text-underline: single; }
+
+a:visited, span.MsoHyperlinkFollowed {
+  mso-style-unhide: no;
+  mso-style-parent: "";
+  color: purple;
+  text-decoration: underline;
+  text-underline: single; }
+
+p.MsoCommentSubject, li.MsoCommentSubject, div.MsoCommentSubject {
+  mso-style-noshow: yes;
+  mso-style-unhide: no;
+  mso-style-parent: "Comment Text";
+  mso-style-next: "Comment Text";
+  margin: 0cm;
+  margin-bottom: .0001pt;
+  mso-pagination: widow-orphan;
+  font-size: 10.0pt;
+  font-family: "Times New Roman",serif;
+  mso-fareast-font-family: "Times New Roman";
+  mso-ansi-language: EN-US;
+  mso-fareast-language: EN-US;
+  font-weight: bold; }
+
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate {
+  mso-style-noshow: yes;
+  mso-style-unhide: no;
+  margin: 0cm;
+  margin-bottom: .0001pt;
+  mso-pagination: widow-orphan;
+  font-size: 8.0pt;
+  font-family: "Tahoma",sans-serif;
+  mso-fareast-font-family: "Times New Roman";
+  mso-ansi-language: EN-US;
+  mso-fareast-language: EN-US; }
+
+span.blackgraphtxsidebar {
+  mso-style-name: blackgraphtxsidebar;
+  mso-style-unhide: no;
+  mso-style-parent: ""; }
+
+span.blackgraphtx {
+  mso-style-name: blackgraphtx;
+  mso-style-unhide: no;
+  mso-style-parent: ""; }
+
+.MsoChpDefault {
+  mso-style-type: export-only;
+  mso-default-props: yes; }
+
+div.figure, p.figure {
+  text-align: center; }
+
+h1, .h1 {
+  mso-style-priority: 1;
+  mso-style-unhide: no;
+  mso-style-qformat: yes;
+  mso-style-name: "Heading 1";
+  mso-style-link: "Heading 1 Char";
+  mso-style-next: Normal;
+  margin-top: 13.5pt;
+  margin-right: 0cm;
+  margin-bottom: 12.0pt;
+  margin-left: 0cm;
+  text-indent: 0cm;
+  line-height: 13.5pt;
+  mso-pagination: widow-orphan;
+  page-break-after: avoid;
+  mso-hyphenate: none;
+  tab-stops: 0.7cm;
+  font-size: 13.0pt;
+  mso-bidi-font-size: 11.0pt;
+  font-family: "Times New Roman",serif;
+  mso-fareast-font-family: "Times New Roman",serif;
+  color: #0E1A85;
+  mso-font-kerning: 0pt;
+  mso-ansi-language: EN-GB;
+  mso-fareast-language: JA;
+  mso-bidi-font-weight: normal; }
+
+h1 {
+  mso-outline-level: 1;
+  mso-list: l1 level1 lfo6; }
+
+h1.Annex {
+  mso-style-priority: 1;
+  mso-style-unhide: no;
+  mso-style-qformat: yes;
+  mso-style-link: "Heading 1 Char";
+  mso-style-next: Normal;
+  margin-top: 3.0pt;
+  margin-right: 0cm;
+  margin-bottom: 12.0pt;
+  margin-left: 0cm;
+  text-indent: 0cm;
+  line-height: 12.5pt;
+  text-align: center;
+  mso-pagination: widow-orphan;
+  page-break-after: avoid;
+  font-weight: normal;
+  mso-outline-level: 1;
+  mso-list: l1 level1 lfo6;
+  mso-hyphenate: none;
+  tab-stops: 1.0cm;
+  font-size: 12.0pt;
+  mso-bidi-font-size: 11.0pt;
+  font-family: "Times New Roman",serif;
+  mso-fareast-font-family: "Times New Roman",serif;
+  color: #0E1A85;
+  mso-font-kerning: 0pt;
+  mso-ansi-language: EN-GB;
+  mso-fareast-language: JA;
+  mso-bidi-font-weight: normal; }
+
+.h2Annex {
+  mso-style-priority: 2;
+  mso-style-unhide: no;
+  mso-style-qformat: yes;
+  mso-style-parent: "Heading 1";
+  mso-style-link: "Heading 2 Char";
+  mso-style-next: Normal;
+  margin-top: 3.0pt;
+  margin-right: 0cm;
+  margin-bottom: 12.0pt;
+  margin-left: 0cm;
+  text-indent: 0cm;
+  line-height: 12.5pt;
+  mso-pagination: widow-orphan;
+  page-break-after: avoid;
+  mso-outline-level: 2;
+  mso-hyphenate: none;
+  tab-stops: 1.0cm;
+  font-size: 12.0pt;
+  font-weight: bold;
+  mso-bidi-font-size: 11.0pt;
+  font-family: "Times New Roman",serif;
+  mso-fareast-font-family: "Times New Roman",serif;
+  color: #0E1A85;
+  mso-ansi-language: EN-GB;
+  mso-fareast-language: JA;
+  mso-bidi-font-weight: normal; }
+
+h2, .h2 {
+  mso-style-priority: 2;
+  mso-style-unhide: no;
+  mso-style-qformat: yes;
+  mso-style-name: "Heading 2";
+  mso-style-parent: "Heading 1";
+  mso-style-link: "Heading 2 Char";
+  mso-style-next: Normal;
+  margin-top: 3.0pt;
+  margin-right: 0cm;
+  margin-bottom: 12.0pt;
+  margin-left: 0cm;
+  text-indent: 0cm;
+  line-height: 12.5pt;
+  mso-pagination: widow-orphan;
+  page-break-after: avoid;
+  mso-hyphenate: none;
+  tab-stops: 1.0cm;
+  font-size: 12.0pt;
+  mso-bidi-font-size: 11.0pt;
+  font-family: "Times New Roman",serif;
+  mso-fareast-font-family: "Times New Roman",serif;
+  color: #0E1A85;
+  mso-ansi-language: EN-GB;
+  mso-fareast-language: JA;
+  mso-bidi-font-weight: normal; }
+
+h2 {
+  mso-outline-level: 2;
+  mso-list: l1 level2 lfo6; }
+
+h3, .h3 {
+  mso-style-priority: 3;
+  mso-style-unhide: no;
+  mso-style-qformat: yes;
+  mso-style-name: "Heading 3";
+  mso-style-parent: "Heading 2";
+  mso-style-link: "Heading 3 Char";
+  mso-style-next: Normal;
+  margin-top: 3.0pt;
+  margin-right: 0cm;
+  margin-bottom: 12.0pt;
+  margin-left: 0cm;
+  text-indent: 0cm;
+  line-height: 12.0pt;
+  mso-pagination: widow-orphan;
+  page-break-after: avoid;
+  mso-hyphenate: none;
+  tab-stops: 1.3cm;
+  font-size: 11.0pt;
+  font-family: "Times New Roman",serif;
+  color: #0E1A85;
+  mso-fareast-font-family: "Times New Roman",serif;
+  mso-ansi-language: EN-GB;
+  mso-fareast-language: JA;
+  mso-bidi-font-weight: normal; }
+
+h3 {
+  mso-outline-level: 3;
+  mso-list: l1 level3 lfo6; }
+
+h4, .h4 {
+  mso-style-priority: 4;
+  mso-style-unhide: no;
+  mso-style-qformat: yes;
+  mso-style-name: "Heading 4";
+  mso-style-parent: "Heading 3";
+  mso-style-link: "Heading 4 Char";
+  mso-style-next: Normal;
+  margin-top: 3.0pt;
+  margin-right: 0cm;
+  margin-bottom: 12.0pt;
+  margin-left: 0cm;
+  text-indent: 0cm;
+  line-height: 12.0pt;
+  mso-pagination: widow-orphan;
+  page-break-after: avoid;
+  mso-hyphenate: none;
+  tab-stops: 1.6cm;
+  font-size: 11.0pt;
+  font-family: "Times New Roman",serif;
+  color: #0E1A85;
+  mso-fareast-font-family: "Times New Roman",serif;
+  mso-ansi-language: EN-GB;
+  mso-fareast-language: JA;
+  mso-bidi-font-weight: normal; }
+
+h4 {
+  mso-outline-level: 4;
+  mso-list: l1 level4 lfo6; }
+
+h5, .h5 {
+  mso-style-priority: 5;
+  mso-style-unhide: no;
+  mso-style-qformat: yes;
+  mso-style-name: "Heading 5";
+  mso-style-parent: "Heading 4";
+  mso-style-link: "Heading 5 Char";
+  mso-style-next: Normal;
+  margin-top: 3.0pt;
+  margin-right: 0cm;
+  margin-bottom: 12.0pt;
+  margin-left: 0cm;
+  text-indent: 0cm;
+  line-height: 12.0pt;
+  mso-pagination: widow-orphan;
+  page-break-after: avoid;
+  mso-hyphenate: none;
+  tab-stops: 1.9cm;
+  font-size: 11.0pt;
+  font-family: "Times New Roman",serif;
+  mso-fareast-font-family: "Times New Roman",serif;
+  color: #0E1A85;
+  mso-ansi-language: EN-GB;
+  mso-fareast-language: JA;
+  mso-bidi-font-weight: normal; }
+
+h5 {
+  mso-outline-level: 5;
+  mso-list: l1 level5 lfo6; }
+
+h6, .h6 {
+  mso-style-priority: 6;
+  mso-style-unhide: no;
+  mso-style-qformat: yes;
+  mso-style-name: "Heading 6";
+  mso-style-parent: "Heading 5";
+  mso-style-link: "Heading 6 Char";
+  mso-style-next: Normal;
+  margin-top: 3.0pt;
+  margin-right: 0cm;
+  margin-bottom: 12.0pt;
+  margin-left: 0cm;
+  text-indent: 0cm;
+  line-height: 12.0pt;
+  mso-pagination: widow-orphan;
+  page-break-after: avoid;
+  mso-hyphenate: none;
+  tab-stops: 2.2cm;
+  font-size: 11.0pt;
+  font-family: "Times New Roman",serif;
+  color: #0E1A85;
+  mso-fareast-font-family: "Times New Roman",serif;
+  mso-ansi-language: EN-GB;
+  mso-fareast-language: JA;
+  mso-bidi-font-weight: normal; }
+
+h6 {
+  mso-outline-level: 6;
+  mso-list: l1 level6 lfo6; }
+
+p.MsoToc1, li.MsoToc1, div.MsoToc1 {
+  mso-style-priority: 39;
+  mso-style-unhide: no;
+  mso-style-name: "TOC 1";
+  mso-style-next: Normal;
+  margin-top: 6.0pt;
+  margin-right: 25.0pt;
+  margin-bottom: 0cm;
+  margin-left: 36.0pt;
+  margin-bottom: .0001pt;
+  text-indent: -36.0pt;
+  line-height: 12.0pt;
+  mso-pagination: widow-orphan;
+  mso-hyphenate: none;
+  tab-stops: 20.15pt 36.0pt right dotted 487.6pt;
+  font-size: 10.5pt;
+  font-family: "Times New Roman",serif;
+  mso-fareast-font-family: "Times New Roman",serif;
+  mso-bidi-font-family: "Times New Roman",serif;
+  mso-ansi-language: EN-GB;
+  font-weight: bold;
+  mso-bidi-font-weight: normal; }
+
+p.MsoToc2, li.MsoToc2, div.MsoToc2 {
+  mso-style-noshow: yes;
+  mso-style-priority: 39;
+  mso-style-unhide: no;
+  mso-style-name: "TOC 2";
+  mso-style-parent: "TOC 1";
+  mso-style-next: Normal;
+  margin-top: 0cm;
+  margin-right: 25.0pt;
+  margin-bottom: 0cm;
+  margin-left: 36.0pt;
+  margin-bottom: .0001pt;
+  text-indent: -36.0pt;
+  line-height: 12.0pt;
+  mso-pagination: widow-orphan;
+  mso-hyphenate: none;
+  tab-stops: 20.15pt 36.0pt right dotted 487.6pt;
+  font-size: 10.5pt;
+  font-family: "Times New Roman",serif;
+  mso-fareast-font-family: "Times New Roman",serif;
+  mso-bidi-font-family: "Times New Roman",serif;
+  mso-ansi-language: EN-GB;
+  font-weight: bold;
+  mso-bidi-font-weight: normal; }
+
+p.MsoToc3, li.MsoToc3, div.MsoToc3 {
+  mso-style-noshow: yes;
+  mso-style-priority: 39;
+  mso-style-unhide: no;
+  mso-style-name: "TOC 3";
+  mso-style-parent: "TOC 2";
+  mso-style-next: Normal;
+  margin-top: 0cm;
+  margin-right: 25.0pt;
+  margin-bottom: 0cm;
+  margin-left: 36.0pt;
+  margin-bottom: .0001pt;
+  text-indent: -36.0pt;
+  line-height: 12.0pt;
+  mso-pagination: widow-orphan;
+  mso-hyphenate: none;
+  tab-stops: 20.15pt 36.0pt right dotted 487.6pt;
+  font-size: 10.5pt;
+  font-family: "Times New Roman",serif;
+  mso-fareast-font-family: "Times New Roman",serif;
+  mso-bidi-font-family: "Times New Roman",serif;
+  mso-ansi-language: EN-GB;
+  font-weight: bold;
+  mso-bidi-font-weight: normal; }
+
+span.MsoFootnoteReference {
+  mso-style-priority: 99;
+  mso-style-name: "Footnote Reference";
+  vertical-align: super; }
+
+p.MsoFootnoteText, li.MsoFootnoteText, div.MsoFootnoteText {
+  mso-style-noshow: yes;
+  mso-style-priority: 99;
+  mso-style-link: "Footnote Text Char";
+  margin-top: 0cm;
+  margin-right: 0cm;
+  margin-bottom: 12.0pt;
+  margin-left: 0cm;
+  text-align: left;
+  line-height: 12.0pt;
+  mso-pagination: widow-orphan;
+  tab-stops: 20.15pt;
+  font-size: 10.0pt;
+  font-family: "Times New Roman",serif;
+  mso-fareast-font-family: "Times New Roman",serif;
+  mso-bidi-font-family: "Times New Roman",serif;
+  mso-ansi-language: EN-GB;
+  mso-fareast-language: EN-US; }
+
+p.MsoBodyText, li.MsoBodyText, div.MsoBodyText {
+  mso-style-noshow: yes;
+  mso-style-priority: 99;
+  mso-style-unhide: no;
+  mso-style-link: "Body Text Char";
+  margin-top: 0cm;
+  margin-right: 0cm;
+  margin-bottom: 6.0pt;
+  margin-left: 0cm;
+  text-align: left;
+  line-height: 12.0pt;
+  mso-pagination: widow-orphan;
+  font-size: 10.5pt;
+  font-family: "Times New Roman",serif;
+  mso-fareast-font-family: "Times New Roman",serif;
+  mso-bidi-font-family: "Times New Roman",serif;
+  mso-ansi-language: EN-GB; }
+
+span.Heading1Char {
+  mso-style-name: "Heading 1 Char";
+  mso-style-priority: 1;
+  mso-style-unhide: no;
+  mso-style-locked: yes;
+  mso-style-parent: "";
+  mso-style-link: "Heading 1";
+  mso-ansi-font-size: 13.0pt;
+  font-family: "Times New Roman",serif;
+  mso-ascii-font-family: Cambria;
+  mso-fareast-font-family: "Times New Roman",serif;
+  mso-hansi-font-family: "Times New Roman",serif;
+  mso-ansi-language: EN-GB;
+  mso-fareast-language: JA;
+  font-weight: bold;
+  mso-bidi-font-weight: normal; }
+
+span.Heading2Char {
+  mso-style-name: "Heading 2 Char";
+  mso-style-priority: 2;
+  mso-style-unhide: no;
+  mso-style-locked: yes;
+  mso-style-parent: "";
+  mso-style-link: "Heading 2";
+  mso-ansi-font-size: 12.0pt;
+  font-family: "Times New Roman",serif;
+  mso-ascii-font-family: Cambria;
+  mso-fareast-font-family: "Times New Roman",serif;
+  mso-hansi-font-family: "Times New Roman",serif;
+  mso-ansi-language: EN-GB;
+  mso-fareast-language: JA;
+  font-weight: bold;
+  mso-bidi-font-weight: normal; }
+
+span.Heading3Char {
+  mso-style-name: "Heading 3 Char";
+  mso-style-priority: 3;
+  mso-style-unhide: no;
+  mso-style-locked: yes;
+  mso-style-parent: "";
+  mso-style-link: "Heading 3";
+  mso-ansi-font-size: 11.0pt;
+  font-family: "Times New Roman",serif;
+  mso-ascii-font-family: "Times New Roman",serif;
+  mso-fareast-font-family: "Times New Roman",serif;
+  mso-hansi-font-family: "Times New Roman",serif;
+  mso-ansi-language: EN-GB;
+  mso-fareast-language: JA;
+  font-weight: bold;
+  mso-bidi-font-weight: normal; }
+
+span.Heading4Char {
+  mso-style-name: "Heading 4 Char";
+  mso-style-priority: 4;
+  mso-style-unhide: no;
+  mso-style-locked: yes;
+  mso-style-parent: "";
+  mso-style-link: "Heading 4";
+  mso-ansi-font-size: 11.0pt;
+  font-family: "Times New Roman",serif;
+  mso-ascii-font-family: "Times New Roman",serif;
+  mso-fareast-font-family: "Times New Roman",serif;
+  mso-hansi-font-family: "Times New Roman",serif;
+  mso-ansi-language: EN-GB;
+  mso-fareast-language: JA;
+  font-weight: bold;
+  mso-bidi-font-weight: normal; }
+
+span.Heading5Char {
+  mso-style-name: "Heading 5 Char";
+  mso-style-priority: 5;
+  mso-style-unhide: no;
+  mso-style-locked: yes;
+  mso-style-parent: "";
+  mso-style-link: "Heading 5";
+  mso-ansi-font-size: 11.0pt;
+  font-family: "Times New Roman",serif;
+  mso-ascii-font-family: "Times New Roman",serif;
+  mso-fareast-font-family: "Times New Roman",serif;
+  mso-hansi-font-family: "Times New Roman",serif;
+  mso-ansi-language: EN-GB;
+  mso-fareast-language: JA;
+  font-weight: bold;
+  mso-bidi-font-weight: normal; }
+
+span.Heading6Char {
+  mso-style-name: "Heading 6 Char";
+  mso-style-priority: 6;
+  mso-style-unhide: no;
+  mso-style-locked: yes;
+  mso-style-parent: "";
+  mso-style-link: "Heading 6";
+  mso-ansi-font-size: 11.0pt;
+  font-family: "Times New Roman",serif;
+  mso-ascii-font-family: "Times New Roman",serif;
+  mso-fareast-font-family: "Times New Roman",serif;
+  mso-hansi-font-family: "Times New Roman",serif;
+  mso-ansi-language: EN-GB;
+  mso-fareast-language: JA;
+  font-weight: bold;
+  mso-bidi-font-weight: normal; }
+
+p.Tablebody, li.Tablebody, div.Tablebody {
+  mso-style-name: "Table body";
+  mso-style-noshow: yes;
+  mso-style-unhide: no;
+  margin-top: 3.0pt;
+  margin-right: 0cm;
+  margin-bottom: 3.0pt;
+  margin-left: 0cm;
+  line-height: 10.5pt;
+  mso-pagination: widow-orphan;
+  font-size: 10.0pt;
+  mso-bidi-font-size: 11.0pt;
+  font-family: "Times New Roman",serif;
+  mso-fareast-font-family: "Times New Roman",serif;
+  mso-bidi-font-family: "Times New Roman",serif;
+  mso-ansi-language: EN-GB; }
+
+/* Page Definitions */
+@page {
+  size: 612.0pt 792.0pt;
+  margin: 36.0pt 53.85pt 21.55pt 53.85pt;
+  mso-header-margin: 42.55pt;
+  mso-footer-margin: 43.1pt;
+  mso-footnote-separator: url(cid:header.html) fs;
+  mso-footnote-continuation-separator: url(cid:header.html) fcs;
+  mso-endnote-separator: url(cid:header.html) es;
+  mso-endnote-continuation-separator: url(cid:header.html) ecs; }
+
+/* List Definitions */
+@list l0 {
+  mso-list-id: 145051656;
+  mso-list-template-ids: 2112159680; }
+
+@list l0:level1 {
+  mso-level-number-format: alpha-upper;
+  mso-level-style-link: ANNEX;
+  mso-level-suffix: none;
+  mso-level-text: "Annex\00A0%1";
+  mso-level-tab-stop: none;
+  mso-level-number-position: left;
+  margin-left: 0cm;
+  text-indent: 0cm;
+  mso-ansi-font-size: 14.0pt;
+  mso-bidi-font-size: 14.0pt;
+  font-family: "Times New Roman",serif;
+  mso-bidi-font-family: "Times New Roman",serif;
+  mso-ansi-font-weight: bold;
+  mso-ansi-font-style: normal; }
+
+@list l0:level2 {
+  mso-level-style-link: a2;
+  mso-level-text: "%1\.%2";
+  mso-level-tab-stop: 18.0pt;
+  mso-level-number-position: left;
+  margin-left: 0cm;
+  text-indent: 0cm;
+  mso-bidi-font-family: "Times New Roman",serif;
+  mso-ansi-font-weight: bold;
+  mso-ansi-font-style: normal; }
+
+@list l0:level3 {
+  mso-level-style-link: a3;
+  mso-level-text: "%1\.%2\.%3";
+  mso-level-tab-stop: 36.0pt;
+  mso-level-number-position: left;
+  margin-left: 0cm;
+  text-indent: 0cm;
+  mso-bidi-font-family: "Times New Roman",serif;
+  mso-ansi-font-weight: bold;
+  mso-ansi-font-style: normal; }
+
+@list l0:level4 {
+  mso-level-style-link: a4;
+  mso-level-text: "%1\.%2\.%3\.%4";
+  mso-level-tab-stop: 54.0pt;
+  mso-level-number-position: left;
+  margin-left: 0cm;
+  text-indent: 0cm;
+  mso-bidi-font-family: "Times New Roman",serif;
+  mso-ansi-font-weight: bold;
+  mso-ansi-font-style: normal; }
+
+@list l0:level5 {
+  mso-level-style-link: a5;
+  mso-level-text: "%1\.%2\.%3\.%4\.%5";
+  mso-level-tab-stop: 54.0pt;
+  mso-level-number-position: left;
+  margin-left: 0cm;
+  text-indent: 0cm;
+  mso-bidi-font-family: "Times New Roman",serif;
+  mso-ansi-font-weight: bold;
+  mso-ansi-font-style: normal; }
+
+@list l0:level6 {
+  mso-level-style-link: a6;
+  mso-level-text: "%1\.%2\.%3\.%4\.%5\.%6";
+  mso-level-tab-stop: 72.0pt;
+  mso-level-number-position: left;
+  margin-left: 0cm;
+  text-indent: 0cm;
+  mso-bidi-font-family: "Times New Roman",serif;
+  mso-ansi-font-weight: bold;
+  mso-ansi-font-style: normal; }
+
+@list l0:level7 {
+  mso-level-reset-level: level2;
+  mso-level-suffix: space;
+  mso-level-text: "Figure\00A0%1\.%7\00A0—";
+  mso-level-tab-stop: none;
+  mso-level-number-position: left;
+  margin-left: 0cm;
+  text-indent: 0cm;
+  mso-bidi-font-family: "Times New Roman",serif; }
+
+@list l0:level8 {
+  mso-level-reset-level: level2;
+  mso-level-suffix: space;
+  mso-level-text: "Table\00A0%1\.%8\00A0—";
+  mso-level-tab-stop: none;
+  mso-level-number-position: left;
+  margin-left: 0cm;
+  text-indent: 0cm;
+  mso-bidi-font-family: "Times New Roman",serif; }
+
+@list l0:level9 {
+  mso-level-number-format: roman-lower;
+  mso-level-text: "\(%9\)";
+  mso-level-tab-stop: 306.0pt;
+  mso-level-number-position: left;
+  margin-left: 0cm;
+  text-indent: 0cm;
+  mso-bidi-font-family: "Times New Roman",serif; }
+
+@list l1 {
+  mso-list-id: 866942648;
+  mso-list-template-ids: -1756330000; }
+
+@list l1:level1 {
+  mso-level-style-link: "Heading 1";
+  mso-level-text: "%1";
+  mso-level-tab-stop: 21.6pt;
+  mso-level-number-position: left;
+  margin-left: 21.6pt;
+  text-indent: -21.6pt;
+  mso-bidi-font-family: "Times New Roman",serif;
+  mso-ansi-font-weight: bold;
+  mso-ansi-font-style: normal; }
+
+@list l1:level2 {
+  mso-level-style-link: "Heading 2";
+  mso-level-text: "%1\.%2";
+  mso-level-tab-stop: 18.0pt;
+  mso-level-number-position: left;
+  margin-left: 0cm;
+  text-indent: 0cm;
+  mso-bidi-font-family: "Times New Roman",serif;
+  mso-ansi-font-weight: bold;
+  mso-ansi-font-style: normal; }
+
+@list l1:level3 {
+  mso-level-style-link: "Heading 3";
+  mso-level-text: "%1\.%2\.%3";
+  mso-level-tab-stop: 36.0pt;
+  mso-level-number-position: left;
+  margin-left: 0cm;
+  text-indent: 0cm;
+  mso-bidi-font-family: "Times New Roman",serif;
+  mso-ansi-font-weight: bold;
+  mso-ansi-font-style: normal; }
+
+@list l1:level4 {
+  mso-level-style-link: "Heading 4";
+  mso-level-text: "%1\.%2\.%3\.%4";
+  mso-level-tab-stop: 54.0pt;
+  mso-level-number-position: left;
+  margin-left: 0cm;
+  text-indent: 0cm;
+  mso-bidi-font-family: "Times New Roman",serif;
+  mso-ansi-font-weight: bold;
+  mso-ansi-font-style: normal; }
+
+@list l1:level5 {
+  mso-level-style-link: "Heading 5";
+  mso-level-text: "%1\.%2\.%3\.%4\.%5";
+  mso-level-tab-stop: 54.0pt;
+  mso-level-number-position: left;
+  margin-left: 0cm;
+  text-indent: 0cm;
+  mso-bidi-font-family: "Times New Roman",serif;
+  mso-ansi-font-weight: bold;
+  mso-ansi-font-style: normal; }
+
+@list l1:level6 {
+  mso-level-style-link: "Heading 6";
+  mso-level-text: "%1\.%2\.%3\.%4\.%5\.%6";
+  mso-level-tab-stop: 72.0pt;
+  mso-level-number-position: left;
+  margin-left: 0cm;
+  text-indent: 0cm;
+  mso-bidi-font-family: "Times New Roman",serif;
+  mso-ansi-font-weight: bold;
+  mso-ansi-font-style: normal; }
+
+@list l1:level7 {
+  mso-level-text: "%1\.%2\.%3\.%4\.%5\.%6\.%7";
+  mso-level-tab-stop: 72.0pt;
+  mso-level-number-position: left;
+  margin-left: 0cm;
+  text-indent: 0cm;
+  mso-bidi-font-family: "Times New Roman",serif; }
+
+@list l1:level8 {
+  mso-level-text: "%1\.%2\.%3\.%4\.%5\.%6\.%7\.%8";
+  mso-level-tab-stop: 90.0pt;
+  mso-level-number-position: left;
+  margin-left: 0cm;
+  text-indent: 0cm;
+  mso-bidi-font-family: "Times New Roman",serif; }
+
+@list l1:level9 {
+  mso-level-text: "%1\.%2\.%3\.%4\.%5\.%6\.%7\.%8\.%9";
+  mso-level-tab-stop: 90.0pt;
+  mso-level-number-position: left;
+  margin-left: 0cm;
+  text-indent: 0cm;
+  mso-bidi-font-family: "Times New Roman",serif; }
+
+/* ordered list */
+@list l2 {
+  mso-list-id: 525294607;
+  mso-list-template-ids: 67633181; }
+
+@list l2:level1 {
+  mso-level-number-format: alpha-lower;
+  mso-level-text: "%1\)";
+  mso-level-tab-stop: none;
+  mso-level-number-position: left;
+  margin-left: 18.0pt;
+  text-indent: -18.0pt; }
+
+@list l2:level2 {
+  mso-level-text: "%2\)";
+  mso-level-tab-stop: none;
+  mso-level-number-position: left;
+  margin-left: 36.0pt;
+  text-indent: -18.0pt; }
+
+@list l2:level3 {
+  mso-level-number-format: roman-lower;
+  mso-level-text: "%3\)";
+  mso-level-tab-stop: none;
+  mso-level-number-position: left;
+  margin-left: 54.0pt;
+  text-indent: -18.0pt; }
+
+@list l2:level4 {
+  mso-level-number-format: alpha-upper;
+  mso-level-text: "%4\)";
+  mso-level-tab-stop: none;
+  mso-level-number-position: left;
+  margin-left: 72.0pt;
+  text-indent: -18.0pt; }
+
+@list l2:level5 {
+  mso-level-number-format: roman-upper;
+  mso-level-text: "%5\)";
+  mso-level-tab-stop: none;
+  mso-level-number-position: left;
+  margin-left: 90.0pt;
+  text-indent: -18.0pt; }
+
+@list l2:level6 {
+  mso-level-number-format: alpha-lower;
+  mso-level-text: "%6\)";
+  mso-level-tab-stop: none;
+  mso-level-number-position: left;
+  margin-left: 108.0pt;
+  text-indent: -18.0pt; }
+
+@list l2:level7 {
+  mso-level-tab-stop: none;
+  mso-level-text: "%7\)";
+  mso-level-number-position: left;
+  margin-left: 126.0pt;
+  text-indent: -18.0pt; }
+
+@list l2:level8 {
+  mso-level-number-format: roman-lower;
+  mso-level-text: "%8\)";
+  mso-level-tab-stop: none;
+  mso-level-number-position: left;
+  margin-left: 144.0pt;
+  text-indent: -18.0pt; }
+
+@list l2:level9 {
+  mso-level-number-format: alpha-upper;
+  mso-level-text: "%9\)";
+  mso-level-tab-stop: none;
+  mso-level-number-position: left;
+  margin-left: 162.0pt;
+  text-indent: -18.0pt; }
+
+/* Unordered list */
+@list l3 {
+  mso-list-id: 1308196397;
+  mso-list-type: hybrid;
+  mso-list-template-ids: -277327948 -457018030 67633155 67633157 67633153 67633155 67633157 67633153 67633155 67633157; }
+
+@list l3:level1 {
+  mso-level-number-format: bullet;
+  mso-level-text: —;
+  mso-level-tab-stop: none;
+  mso-level-number-position: left;
+  margin-left: 18.0pt;
+  text-indent: -18.0pt; }
+
+@list l3:level2 {
+  mso-level-number-format: bullet;
+  mso-level-text: —;
+  mso-level-tab-stop: none;
+  mso-level-number-position: left;
+  margin-left: 36.0pt;
+  text-indent: -18.0pt; }
+
+@list l3:level3 {
+  mso-level-number-format: bullet;
+  mso-level-text: —;
+  mso-level-tab-stop: none;
+  mso-level-number-position: left;
+  margin-left: 54.0pt;
+  text-indent: -18.0pt; }
+
+@list l3:level4 {
+  mso-level-number-format: bullet;
+  mso-level-text: —;
+  mso-level-tab-stop: none;
+  mso-level-number-position: left;
+  margin-left: 72.0pt;
+  text-indent: -18.0pt; }
+
+@list l3:level5 {
+  mso-level-number-format: bullet;
+  mso-level-text: —;
+  mso-level-tab-stop: none;
+  mso-level-number-position: left;
+  margin-left: 90.0pt;
+  text-indent: -18.0pt; }
+
+@list l3:level6 {
+  mso-level-number-format: bullet;
+  mso-level-text: —;
+  mso-level-tab-stop: none;
+  mso-level-number-position: left;
+  margin-left: 108.0pt;
+  text-indent: -18.0pt; }
+
+@list l3:level7 {
+  mso-level-number-format: bullet;
+  mso-level-text: —;
+  mso-level-tab-stop: none;
+  mso-level-number-position: left;
+  margin-left: 126.0pt;
+  text-indent: -18.0pt; }
+
+@list l3:level8 {
+  mso-level-number-format: bullet;
+  mso-level-text: —;
+  mso-level-tab-stop: none;
+  mso-level-number-position: left;
+  margin-left: 144.0pt;
+  text-indent: -18.0pt; }
+
+@list l3:level9 {
+  mso-level-number-format: bullet;
+  mso-level-text: —;
+  mso-level-tab-stop: none;
+  mso-level-number-position: left;
+  margin-left: 162.0pt;
+  text-indent: -18.0pt; }
+
+/* steps ordered list: all numbers */
+@list l4 {
+  mso-list-id: 525294608;
+  mso-list-template-ids: 676331812; }
+
+@list l4:level1 {
+  mso-level-text: "%1.";
+  mso-level-tab-stop: none;
+  mso-level-number-position: left;
+  margin-left: 18.0pt;
+  text-indent: -18.0pt; }
+
+@list l4:level2 {
+  mso-level-text: "%2.";
+  mso-level-tab-stop: none;
+  mso-level-number-position: left;
+  margin-left: 36.0pt;
+  text-indent: -18.0pt; }
+
+@list l4:level3 {
+  mso-level-text: "%3.";
+  mso-level-tab-stop: none;
+  mso-level-number-position: left;
+  margin-left: 54.0pt;
+  text-indent: -18.0pt; }
+
+@list l4:level4 {
+  mso-level-text: "%4.";
+  mso-level-tab-stop: none;
+  mso-level-number-position: left;
+  margin-left: 72.0pt;
+  text-indent: -18.0pt; }
+
+@list l4:level5 {
+  mso-level-text: "%5.";
+  mso-level-tab-stop: none;
+  mso-level-number-position: left;
+  margin-left: 90.0pt;
+  text-indent: -18.0pt; }
+
+@list l4:level6 {
+  mso-level-text: "%6.";
+  mso-level-tab-stop: none;
+  mso-level-number-position: left;
+  margin-left: 108.0pt;
+  text-indent: -18.0pt; }
+
+@list l4:level7 {
+  mso-level-tab-stop: none;
+  mso-level-text: "%7.";
+  mso-level-number-position: left;
+  margin-left: 126.0pt;
+  text-indent: -18.0pt; }
+
+@list l4:level8 {
+  mso-level-text: "%8.";
+  mso-level-tab-stop: none;
+  mso-level-number-position: left;
+  margin-left: 144.0pt;
+  text-indent: -18.0pt; }
+
+@list l4:level9 {
+  mso-level-text: "%9.";
+  mso-level-tab-stop: none;
+  mso-level-number-position: left;
+  margin-left: 162.0pt;
+  text-indent: -18.0pt; }
+
+div.ListContLevel1 {
+  mso-style-priority: 34;
+  margin-left: 18.0pt;
+  margin-right: 0cm; }
+
+div.ListContLevel2 {
+  mso-style-priority: 34;
+  margin-top: 0cm;
+  margin-left: 36.0pt;
+  margin-right: 0cm; }
+
+div.ListContLevel3 {
+  mso-style-priority: 34;
+  margin-left: 54.0pt;
+  margin-right: 0cm; }
+
+div.ListContLevel4 {
+  mso-style-priority: 34;
+  margin-left: 72.0pt;
+  margin-right: 0cm; }
+
+div.ListContLevel5 {
+  mso-style-priority: 34;
+  margin-left: 90.0pt;
+  margin-right: 0cm; }
+
+div.ListContLevel6 {
+  mso-style-priority: 34;
+  margin-left: 108.0pt;
+  margin-right: 0cm; }
+
+div.ListContLevel7 {
+  mso-style-priority: 34;
+  margin-left: 126.0pt;
+  margin-right: 0cm; }
+
+div.ListContLevel8 {
+  mso-style-priority: 34;
+  margin-left: 144.0pt;
+  margin-right: 0cm; }
+
+div.ListContLevel9 {
+  mso-style-priority: 34;
+  margin-left: 162.0pt;
+  margin-right: 0cm; }
+
+table.MsoNormalTable {
+  mso-style-name: "Table Normal";
+  mso-tstyle-rowband-size: 0;
+  mso-tstyle-colband-size: 0;
+  mso-style-noshow: yes;
+  mso-style-priority: 99;
+  mso-style-parent: "";
+  mso-padding-alt: 0cm 5.4pt 0cm 5.4pt;
+  mso-para-margin: 0cm;
+  mso-para-margin-bottom: .0001pt;
+  mso-pagination: widow-orphan;
+  font-size: 10.0pt;
+  font-family: "Times New Roman",serif; }
+
+ol {
+  margin-bottom: 0cm;
+  margin-left: 18pt; }
+
+ul {
+  margin-bottom: 0cm;
+  margin-left: 18pt; }
+
+-->
+]]></style><meta http-equiv=Content-Type content="text/html; charset=UTF-8"/>
+    <style>
+      <!--
+div.table_container {
+  margin-bottom: 14pt;
+}
+
+ol
+        {margin-bottom:0cm;}
+ul
+        {margin-bottom:0cm;}
+
+table.MsoISOTable tr
+    {page-break-inside:avoid;}
+
+td { page-break-inside:avoid; }
+tr { page-break-after:avoid; }
+
+table.MsoISOTableBig tr
+    {page-break-inside:auto;}
+
+table.MsoISOTableBig td
+    {page-break-inside:auto;}
+
+span.stem
+    {font-family:"Cambria Math",serif;
+    mso-ascii-font-family:"Cambria Math";
+    font-style:italic;}
+
+dt
+    {page-break-inside:avoid;
+    page-break-after:avoid}
+
+br.section
+    {page-break-before:always;
+    mso-break-type:section-break;}
+br.pagebreak
+    {page-break-before:always;
+    mso-special-character:line-break;}
+
+span.addition {
+        color: blue;
+}
+span.deletion {
+        color: red;
+        text-decoration: line-through;
+}
+
+-->
+    </style>
+    <style>
+      <!--
+p.Sourcecode, li.Sourcecode, div.Sourcecode, pre.Sourcecode, pre {
+  mso-style-unhide: no;
+  mso-style-qformat: yes;
+  mso-style-parent: "";
+  margin-top: 6.0pt;
+  margin-right: 0cm;
+  margin-bottom: 6.0pt;
+  margin-left: 0cm;
+  text-align: left;
+  mso-pagination: widow-orphan;
+  tab-stops: 45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt;
+  font-size: 10.0pt;
+  font-family: "Courier New",monospace;
+  mso-fareast-font-family: Calibri;
+  mso-bidi-font-family: "Courier New";
+  mso-ansi-language: EN-GB; }
+
+p.pseudocode, li.pseudocode, div.pseudocode {
+  mso-style-unhide: no;
+  mso-style-qformat: yes;
+  mso-style-parent: "";
+  margin-top: 6.0pt;
+  margin-right: 0cm;
+  margin-bottom: 6.0pt;
+  margin-left: 0cm;
+  text-align: left;
+  mso-pagination: widow-orphan;
+  tab-stops: 45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt;
+  font-size: 10.5pt;
+  font-family: "Times New Roman",serif;
+  mso-fareast-font-family: Calibri;
+  mso-bidi-font-family: "Courier New";
+  mso-ansi-language: EN-GB; }
+
+p.Biblio, li.Biblio, div.Biblio, p.NormRef, li.NormRef, div.NormRef {
+  mso-style-unhide: no;
+  mso-style-qformat: yes;
+  mso-style-parent: "";
+  margin-top: 0cm;
+  margin-right: 0cm;
+  margin-bottom: 12.0pt;
+  margin-left: 33.15pt;
+  text-indent: -33.15pt;
+  tab-stops: 33.15pt;
+  line-height: 12.0pt;
+  mso-pagination: widow-orphan;
+  font-size: 10.5pt;
+  font-weight: normal;
+  font-family: "Times New Roman",serif;
+  mso-fareast-font-family: "Times New Roman",serif;
+  mso-bidi-font-family: "Times New Roman",serif;
+  mso-ansi-language: EN-GB; }
+
+p.FigureTitle {
+  mso-style-unhide: no;
+  mso-style-qformat: yes;
+  mso-style-parent: "";
+  margin-top: 0cm;
+  margin-right: 0cm;
+  margin-bottom: 6.0pt;
+  margin-left: 0cm;
+  text-align: center;
+  line-height: 12.0pt;
+  page-break-before: avoid;
+  mso-pagination: widow-orphan;
+  tab-stops: 20.15pt;
+  font-size: 11.0pt;
+  font-weight: bold;
+  font-family: "Times New Roman",serif;
+  mso-fareast-font-family: "Times New Roman",serif;
+  mso-bidi-font-family: "Times New Roman",serif;
+  mso-ansi-language: EN-GB; }
+
+p.SourceTitle {
+  mso-style-unhide: no;
+  mso-style-qformat: yes;
+  mso-style-parent: "";
+  margin-top: 0cm;
+  margin-right: 0cm;
+  margin-bottom: 6.0pt;
+  margin-left: 0cm;
+  text-align: center;
+  line-height: 12.0pt;
+  page-break-before: avoid;
+  mso-pagination: widow-orphan;
+  tab-stops: 20.15pt;
+  font-size: 11.0pt;
+  font-weight: bold;
+  font-family: "Times New Roman",serif;
+  mso-fareast-font-family: "Times New Roman",serif;
+  mso-bidi-font-family: "Times New Roman",serif;
+  mso-ansi-language: EN-GB; }
+
+p.AdmonitionTitle, p.RecommendationTitle, p.RecommendationTestTitle {
+  mso-style-unhide: no;
+  mso-style-qformat: yes;
+  mso-style-parent: "";
+  margin-top: 0cm;
+  margin-right: 0cm;
+  margin-bottom: 6.0pt;
+  margin-left: 0cm;
+  text-align: center;
+  line-height: 12.0pt;
+  page-break-after: avoid;
+  mso-pagination: widow-orphan;
+  tab-stops: 20.15pt;
+  font-size: 11.0pt;
+  font-weight: bold;
+  font-family: "Times New Roman",serif;
+  mso-fareast-font-family: "Times New Roman",serif;
+  mso-bidi-font-family: "Times New Roman",serif;
+  mso-ansi-language: EN-GB; }
+
+p.TableTitle {
+  mso-style-unhide: no;
+  mso-style-qformat: yes;
+  mso-style-parent: "";
+  margin-top: 0cm;
+  margin-right: 0cm;
+  margin-bottom: 6.0pt;
+  margin-left: 0cm;
+  text-align: center;
+  page-break-after: avoid;
+  line-height: 12.0pt;
+  mso-pagination: widow-orphan;
+  tab-stops: 20.15pt;
+  font-size: 11.0pt;
+  font-family: "Times New Roman",serif;
+  mso-fareast-font-family: "Times New Roman",serif;
+  mso-bidi-font-family: "Times New Roman",serif;
+  mso-ansi-language: EN-GB; }
+
+p.Note, div.Note, li.Note, p.TableFootnote, div.TableFootnote, li.TableFootnote {
+  mso-style-unhide: no;
+  mso-style-qformat: yes;
+  mso-style-parent: "";
+  margin-top: 0cm;
+  margin-right: 0cm;
+  margin-bottom: 12.0pt;
+  margin-left: 0cm;
+  text-align: left;
+  line-height: 12.0pt;
+  mso-pagination: widow-orphan;
+  tab-stops: 2.0cm;
+  font-size: 10.0pt;
+  mso-bidi-font-size: 11.0pt;
+  font-family: "Times New Roman",serif;
+  mso-fareast-font-family: "Times New Roman",serif;
+  mso-bidi-font-family: "Times New Roman",serif;
+  mso-ansi-language: EN-GB; }
+
+p.ANNEX, li.ANNEX, div.ANNEX {
+  mso-style-name: ANNEX;
+  mso-style-priority: 10;
+  mso-style-unhide: no;
+  mso-style-next: Normal;
+  margin-top: 0cm;
+  margin-right: 0cm;
+  margin-bottom: 24.0pt;
+  margin-left: 0cm;
+  text-align: center;
+  text-indent: 0cm;
+  line-height: 15.5pt;
+  mso-line-height-rule: exactly;
+  page-break-before: always;
+  mso-pagination: widow-orphan;
+  page-break-after: avoid;
+  mso-outline-level: 1;
+  mso-list: l0 level1 lfo12;
+  tab-stops: 20.15pt;
+  font-size: 14.0pt;
+  mso-bidi-font-size: 11.0pt;
+  font-family: "Times New Roman",serif;
+  mso-fareast-font-family: "Times New Roman",serif;
+  mso-bidi-font-family: "Times New Roman",serif;
+  mso-ansi-language: EN-GB;
+  mso-fareast-language: JA;
+  font-weight: bold;
+  mso-bidi-font-weight: normal; }
+
+p.BiblioTitle, li.BiblioTitle, div.BiblioTitle {
+  mso-style-name: "Biblio Title";
+  mso-style-noshow: yes;
+  mso-style-unhide: no;
+  margin-top: 0cm;
+  margin-right: 0cm;
+  margin-bottom: 15.5pt;
+  margin-left: 0cm;
+  text-align: center;
+  line-height: 15.5pt;
+  mso-pagination: widow-orphan;
+  mso-outline-level: 1;
+  tab-stops: 20.15pt;
+  font-size: 14.0pt;
+  mso-bidi-font-size: 11.0pt;
+  font-family: "Times New Roman",serif;
+  mso-fareast-font-family: "Times New Roman",serif;
+  mso-bidi-font-family: "Times New Roman",serif;
+  mso-ansi-language: EN-GB;
+  font-weight: bold;
+  mso-bidi-font-weight: normal; }
+
+p.Definition, li.Definition, div.Definition {
+  mso-style-name: Definition;
+  mso-style-priority: 9;
+  mso-style-unhide: no;
+  margin-top: 0cm;
+  margin-right: 0cm;
+  margin-bottom: 12.0pt;
+  margin-left: 0cm;
+  text-align: left;
+  line-height: 12.0pt;
+  mso-pagination: widow-orphan;
+  tab-stops: 20.15pt;
+  font-size: 11.0pt;
+  font-family: "Times New Roman",serif;
+  mso-fareast-font-family: "Times New Roman",serif;
+  mso-bidi-font-family: "Times New Roman",serif;
+  mso-ansi-language: EN-GB; }
+
+p.ForewordTitle, li.ForewordTitle, div.ForewordTitle {
+  mso-style-name: "Foreword Title";
+  mso-style-noshow: yes;
+  mso-style-unhide: no;
+  margin-top: 0cm;
+  margin-right: 0cm;
+  margin-bottom: 15.5pt;
+  margin-left: 0cm;
+  text-align: left;
+  line-height: 15.5pt;
+  page-break-before: always;
+  mso-pagination: widow-orphan;
+  page-break-after: avoid;
+  mso-outline-level: 1;
+  mso-hyphenate: none;
+  tab-stops: 20.15pt;
+  font-size: 14.0pt;
+  mso-bidi-font-size: 11.0pt;
+  font-family: "Times New Roman",serif;
+  mso-fareast-font-family: "Times New Roman",serif;
+  mso-bidi-font-family: "Times New Roman",serif;
+  mso-ansi-language: EN-GB;
+  font-weight: bold;
+  mso-bidi-font-weight: normal; }
+
+p.IntroTitle, li.IntroTitle, div.IntroTitle {
+  mso-style-name: "Intro Title";
+  mso-style-noshow: yes;
+  mso-style-unhide: no;
+  mso-style-parent: "Foreword Title";
+  margin-top: 0cm;
+  margin-right: 0cm;
+  margin-bottom: 15.5pt;
+  margin-left: 0cm;
+  text-align: left;
+  line-height: 15.5pt;
+  mso-pagination: widow-orphan;
+  page-break-after: avoid;
+  mso-outline-level: 1;
+  mso-hyphenate: none;
+  tab-stops: 20.15pt;
+  font-size: 14.0pt;
+  mso-bidi-font-size: 11.0pt;
+  font-family: "Times New Roman",serif;
+  mso-fareast-font-family: "Times New Roman",serif;
+  mso-bidi-font-family: "Times New Roman",serif;
+  mso-ansi-language: EN-GB;
+  font-weight: bold;
+  page-break-before: always;
+  mso-bidi-font-weight: normal; }
+
+p.TitlePageSubhead, li.TitlePageSubhead, div.TitlePageSubhead {
+  mso-style-noshow: yes;
+  mso-style-unhide: no;
+  mso-style-parent: "Foreword Title";
+  margin-top: 0cm;
+  margin-right: 0cm;
+  margin-bottom: 0.0pt;
+  margin-left: 0cm;
+  text-align: center;
+  line-height: 15.5pt;
+  mso-pagination: widow-orphan;
+  page-break-after: avoid;
+  mso-hyphenate: none;
+  tab-stops: 20.15pt;
+  font-size: 10.5pt;
+  mso-bidi-font-size: 11.0pt;
+  font-family: "Times New Roman",serif;
+  mso-fareast-font-family: "Times New Roman",serif;
+  mso-bidi-font-family: "Times New Roman",serif;
+  mso-ansi-language: EN-GB;
+  font-weight: bold;
+  mso-bidi-font-weight: normal; }
+
+p.Terms, li.Terms, div.Terms {
+  mso-style-name: "Term\(s\)";
+  mso-style-priority: 8;
+  mso-style-unhide: no;
+  mso-style-next: Definition;
+  margin: 0cm;
+  margin-bottom: .0001pt;
+  line-height: 12.0pt;
+  mso-pagination: widow-orphan;
+  page-break-after: avoid;
+  mso-hyphenate: none;
+  tab-stops: 20.15pt;
+  font-size: 11.0pt;
+  font-family: "Times New Roman",serif;
+  mso-fareast-font-family: "Times New Roman",serif;
+  mso-bidi-font-family: "Times New Roman",serif;
+  mso-ansi-language: EN-GB;
+  mso-bidi-font-weight: normal; }
+
+p.AltTerms, li.AltTerms, div.AltTerms {
+  mso-style-name: "AltTerm\(s\)";
+  mso-style-priority: 8;
+  mso-style-unhide: no;
+  mso-style-next: Definition;
+  margin: 0cm;
+  margin-bottom: .0001pt;
+  line-height: 12.0pt;
+  mso-pagination: widow-orphan;
+  page-break-after: avoid;
+  mso-hyphenate: none;
+  tab-stops: 20.15pt;
+  font-size: 11.0pt;
+  font-family: "Times New Roman",serif;
+  mso-fareast-font-family: "Times New Roman",serif;
+  mso-bidi-font-family: "Times New Roman",serif;
+  mso-ansi-language: EN-GB;
+  mso-bidi-font-weight: normal; }
+
+p.DeprecatedTerms, li.DeprecatedTerms, div.DeprecatedTerms {
+  mso-style-name: "DeprecatedTerm\(s\)";
+  mso-style-priority: 8;
+  mso-style-unhide: no;
+  mso-style-next: Definition;
+  margin: 0cm;
+  margin-bottom: .0001pt;
+  line-height: 12.0pt;
+  mso-pagination: widow-orphan;
+  page-break-after: avoid;
+  mso-hyphenate: none;
+  tab-stops: 20.15pt;
+  font-size: 11.0pt;
+  font-family: "Times New Roman",serif;
+  mso-fareast-font-family: "Times New Roman",serif;
+  mso-bidi-font-family: "Times New Roman",serif;
+  mso-ansi-language: EN-GB;
+  mso-bidi-font-weight: normal; }
+
+p.TermNum, li.TermNum, div.TermNum {
+  mso-style-name: TermNum;
+  mso-style-priority: 7;
+  mso-style-unhide: no;
+  mso-style-next: "Term\(s\)";
+  margin: 0cm;
+  margin-bottom: .0001pt;
+  line-height: 12.0pt;
+  mso-pagination: widow-orphan;
+  page-break-after: avoid;
+  tab-stops: 20.15pt;
+  font-size: 11.0pt;
+  font-family: "Times New Roman",serif;
+  mso-fareast-font-family: "Times New Roman",serif;
+  mso-bidi-font-family: "Times New Roman",serif;
+  mso-ansi-language: EN-GB;
+  font-weight: bold;
+  mso-bidi-font-weight: normal; }
+
+p.zzContents, li.zzContents, div.zzContents {
+  mso-style-name: zzContents;
+  mso-style-noshow: yes;
+  mso-style-unhide: no;
+  mso-style-next: "TOC 1";
+  margin-top: 48.0pt;
+  margin-right: 0cm;
+  margin-bottom: 15.5pt;
+  margin-left: 0cm;
+  line-height: 15.5pt;
+  mso-line-height-rule: exactly;
+  page-break-before: always;
+  mso-pagination: widow-orphan;
+  page-break-after: avoid;
+  mso-hyphenate: none;
+  tab-stops: 20.15pt;
+  font-size: 14.0pt;
+  mso-bidi-font-size: 11.0pt;
+  font-family: "Times New Roman",serif;
+  mso-fareast-font-family: "Times New Roman",serif;
+  mso-bidi-font-family: "Times New Roman",serif;
+  mso-ansi-language: EN-GB;
+  font-weight: bold;
+  mso-bidi-font-weight: normal; }
+
+p.TOCTitle, li.TOCTitle, div.TOCTitle {
+  mso-style-name: zzContents;
+  mso-style-noshow: yes;
+  mso-style-unhide: no;
+  mso-style-next: "TOC 1";
+  margin-top: 48.0pt;
+  margin-right: 0cm;
+  margin-bottom: 15.5pt;
+  margin-left: 0cm;
+  line-height: 15.5pt;
+  mso-line-height-rule: exactly;
+  mso-pagination: widow-orphan;
+  page-break-after: avoid;
+  mso-hyphenate: none;
+  tab-stops: 20.15pt;
+  font-size: 14.0pt;
+  mso-bidi-font-size: 11.0pt;
+  font-family: "Times New Roman",serif;
+  mso-fareast-font-family: "Times New Roman",serif;
+  mso-bidi-font-family: "Times New Roman",serif;
+  mso-ansi-language: EN-GB;
+  font-weight: bold;
+  mso-bidi-font-weight: normal; }
+
+p.zzCopyright, li.zzCopyright {
+  mso-style-name: zzCopyright;
+  mso-style-noshow: yes;
+  mso-style-unhide: no;
+  mso-style-next: Normal;
+  margin-top: 0cm;
+  margin-right: 14.2pt;
+  margin-bottom: 12.0pt;
+  margin-left: 14.2pt;
+  text-align: left;
+  line-height: 12.0pt;
+  mso-pagination: widow-orphan;
+  tab-stops: 20.15pt 25.7pt 481.15pt;
+  padding: 0cm;
+  mso-padding-alt: 1.0pt 4.0pt 1.0pt 4.0pt;
+  font-size: 10.5pt;
+  font-family: "Times New Roman",serif;
+  mso-fareast-font-family: "Times New Roman",serif;
+  mso-bidi-font-family: "Times New Roman",serif;
+  mso-ansi-language: EN-GB; }
+
+div.zzCopyright {
+  mso-element: para-border-div;
+  border: solid windowtext 1.0pt;
+  mso-border-top-alt: solid windowtext .5pt;
+  mso-border-left-alt: solid windowtext .5pt;
+  mso-border-right-alt: solid windowtext .5pt;
+  mso-border-bottom-alt: solid windowtext .5pt;
+  padding: 1.0pt 4.0pt 0cm 4.0pt;
+  margin-left: 5.1pt;
+  margin-right: 5.1pt; }
+
+p.zzCopyright_address {
+  margin-top: 0cm;
+  margin-right: 14.2pt;
+  margin-bottom: 0.0pt;
+  margin-left: 14.2pt;
+  mso-layout-grid-align: none;
+  text-autospace: none;
+  padding-left: 20pt;
+  mso-padding-alt-left: 20pt;
+  font-size: 10.0pt;
+  text-align: left;
+  mso-bidi-font-size: 11.0pt; }
+
+p.zzSTDTitle, li.zzSTDTitle, div.zzSTDTitle {
+  mso-style-name: zzSTDTitle;
+  mso-style-noshow: yes;
+  mso-style-unhide: no;
+  mso-style-next: Normal;
+  margin-top: 20.0pt;
+  margin-right: 0cm;
+  margin-bottom: 38.0pt;
+  margin-left: 0cm;
+  line-height: 17.5pt;
+  mso-line-height-rule: exactly;
+  mso-pagination: widow-orphan;
+  mso-hyphenate: none;
+  tab-stops: 20.15pt;
+  font-size: 16.0pt;
+  mso-bidi-font-size: 11.0pt;
+  font-family: "Times New Roman",serif;
+  mso-fareast-font-family: "Times New Roman",serif;
+  mso-bidi-font-family: "Times New Roman",serif;
+  mso-ansi-language: EN-GB;
+  font-weight: bold;
+  mso-bidi-font-weight: normal; }
+
+p.zzSTDTitle1, li.zzSTDTitle1, div.zzSTDTitle1 {
+  mso-style-name: zzSTDTitle;
+  mso-style-noshow: yes;
+  mso-style-unhide: no;
+  mso-style-next: Normal;
+  margin-top: 0pt;
+  margin-right: 0cm;
+  margin-bottom: 18.0pt;
+  margin-left: 0cm;
+  line-height: 17.5pt;
+  mso-line-height-rule: exactly;
+  mso-pagination: widow-orphan;
+  mso-hyphenate: none;
+  tab-stops: 20.15pt;
+  font-size: 16.0pt;
+  mso-bidi-font-size: 11.0pt;
+  font-family: "Times New Roman",serif;
+  mso-fareast-font-family: "Times New Roman",serif;
+  mso-bidi-font-family: "Times New Roman",serif;
+  mso-ansi-language: EN-GB;
+  font-weight: bold;
+  mso-bidi-font-weight: normal; }
+
+p.Quote, li.Quote, div.Quote {
+  mso-style-priority: 99;
+  margin-top: 0cm;
+  margin-right: 36.0pt;
+  margin-bottom: 0cm;
+  margin-left: 36.0pt;
+  text-align: left;
+  line-height: 12.0pt;
+  mso-pagination: widow-orphan;
+  tab-stops: 20.15pt;
+  font-size: 10.5pt;
+  font-family: "Times New Roman",serif;
+  mso-fareast-font-family: "Times New Roman",serif;
+  mso-bidi-font-family: "Times New Roman",serif;
+  mso-ansi-language: EN-GB; }
+
+p.QuoteAttribution {
+  text-align: right;
+  mso-style-priority: 99;
+  margin-top: 0cm;
+  margin-right: 36.0pt;
+  margin-bottom: 0cm;
+  margin-left: 36.0pt;
+  line-height: 12.0pt;
+  mso-pagination: widow-orphan;
+  tab-stops: 20.15pt;
+  font-size: 10.5pt;
+  font-family: "Times New Roman",serif;
+  mso-fareast-font-family: "Times New Roman",serif;
+  mso-bidi-font-family: "Times New Roman",serif;
+  mso-ansi-language: EN-GB; }
+
+p.Admonition, li.Admonition, div.Admonition {
+  mso-style-priority: 99;
+  margin-top: 0cm;
+  margin-right: 57.6pt;
+  margin-bottom: 0cm;
+  margin-left: 57.6pt;
+  margin-bottom: .0001pt;
+  mso-pagination: widow-orphan;
+  border: none;
+  mso-border-alt: solid #4472C4 .25pt;
+  mso-border-themecolor: accent1;
+  padding: 0cm;
+  mso-padding-alt: 10.0pt 10.0pt 10.0pt 10.0pt;
+  font-size: 12.0pt;
+  font-family: "Times New Roman",serif;
+  mso-ascii-font-family: "Times New Roman",serif;
+  mso-ascii-theme-font: minor-latin;
+  mso-fareast-font-family: "Times New Roman",serif;
+  mso-fareast-theme-font: minor-fareast;
+  mso-hansi-font-family: "Times New Roman",serif;
+  mso-hansi-theme-font: minor-latin;
+  mso-bidi-font-family: "Times New Roman",serif;
+  mso-bidi-theme-font: minor-bidi;
+  color: #4472C4;
+  mso-themecolor: accent1;
+  mso-ansi-language: EN-AU;
+  font-style: italic; }
+
+p.Code, li.Code, div.Code {
+  mso-style-name: Code;
+  mso-style-priority: 16;
+  mso-style-unhide: no;
+  mso-style-qformat: yes;
+  margin: 0cm;
+  margin-bottom: .0001pt;
+  line-height: 10.0pt;
+  mso-pagination: widow-orphan;
+  tab-stops: 20.15pt;
+  font-size: 9.0pt;
+  mso-bidi-font-size: 11.0pt;
+  font-family: "Courier New",monospace;
+  mso-fareast-font-family: Calibri;
+  mso-bidi-font-family: "Source Sans Pro";
+  mso-ansi-language: EN-GB; }
+
+p.Formula, li.Formula, div.Formula {
+  mso-style-name: Formula;
+  mso-style-noshow: yes;
+  mso-style-unhide: no;
+  margin-top: 0cm;
+  margin-right: 0cm;
+  margin-bottom: 11.0pt;
+  margin-left: 20.15pt;
+  line-height: 12.0pt;
+  mso-pagination: widow-orphan;
+  tab-stops: right 487.45pt;
+  font-size: 10.5pt;
+  font-family: "Times New Roman",serif;
+  mso-fareast-font-family: "Times New Roman",serif;
+  mso-bidi-font-family: "Times New Roman",serif;
+  mso-ansi-language: EN-GB; }
+
+@page {
+  mso-facing-pages: yes; }
+
+@page WordSection1 {
+  size: 595.3pt 841.9pt;
+  margin: 39.7pt 53.85pt 1.0cm 53.85pt;
+  mso-header-margin: 35.45pt;
+  mso-footer-margin: 14.2pt;
+  mso-even-header: url(cid:header.html) eh1;
+  mso-header: url(cid:header.html) h1;
+  mso-even-footer: url(cid:header.html) ef1;
+  mso-paper-source: 0; }
+
+div.WordSection1 {
+  page: WordSection1; }
+
+@page WordSection2 {
+  size: 595.3pt 841.9pt;
+  margin: 39.7pt 53.85pt 1.0cm 53.85pt;
+  mso-header-margin: 35.45pt;
+  mso-footer-margin: 14.2pt;
+  mso-page-numbers: roman-lower;
+  mso-even-header: url(cid:header.html) eh2;
+  mso-header: url(cid:header.html) h2;
+  mso-even-footer: url(cid:header.html) ef2;
+  mso-footer: url(cid:header.html) f2;
+  mso-paper-source: 0; }
+
+@page WordSection2L {
+  size: 841.9pt 595.3pt;
+  margin: 39.7pt 53.85pt 1.0cm 53.85pt;
+  mso-header-margin: 35.45pt;
+  mso-footer-margin: 14.2pt;
+  mso-even-header: url(cid:header.html) eh2l;
+  mso-header: url(cid:header.html) h2l;
+  mso-even-footer: url(cid:header.html) ef2l;
+  mso-footer: url(cid:header.html) f2l;
+  mso-paper-source: 0; }
+
+@page WordSection2P {
+  size: 595.3pt 841.9pt;
+  margin: 39.7pt 53.85pt 1.0cm 53.85pt;
+  mso-header-margin: 35.45pt;
+  mso-footer-margin: 14.2pt;
+  mso-even-header: url(cid:header.html) eh2;
+  mso-header: url(cid:header.html) h2;
+  mso-even-footer: url(cid:header.html) ef2;
+  mso-footer: url(cid:header.html) f2;
+  mso-paper-source: 0; }
+
+div.WordSection2 {
+  page: WordSection2; }
+
+@page WordSection3 {
+  size: 595.3pt 841.9pt;
+  margin: 39.7pt 53.85pt 1.0cm 53.85pt;
+  mso-header-margin: 35.45pt;
+  mso-footer-margin: 14.2pt;
+  mso-page-numbers: 1;
+  mso-even-header: url(cid:header.html) eh2;
+  mso-header: url(cid:header.html) h2;
+  mso-even-footer: url(cid:header.html) ef3;
+  mso-footer: url(cid:header.html) f3;
+  mso-paper-source: 0; }
+
+@page WordSection3L {
+  size: 841.9pt 595.3pt;
+  margin: 39.7pt 53.85pt 1.0cm 53.85pt;
+  mso-header-margin: 35.45pt;
+  mso-footer-margin: 14.2pt;
+  mso-even-header: url(cid:header.html) eh2l;
+  mso-header: url(cid:header.html) h2l;
+  mso-even-footer: url(cid:header.html) ef3l;
+  mso-footer: url(cid:header.html) f3l;
+  mso-paper-source: 0; }
+
+@page WordSection3P {
+  size: 595.3pt 841.9pt;
+  margin: 39.7pt 53.85pt 1.0cm 53.85pt;
+  mso-header-margin: 35.45pt;
+  mso-footer-margin: 14.2pt;
+  mso-even-header: url(cid:header.html) eh2;
+  mso-header: url(cid:header.html) h2;
+  mso-even-footer: url(cid:header.html) ef3;
+  mso-footer: url(cid:header.html) f3;
+  mso-paper-source: 0; }
+
+div.WordSection3 {
+  page: WordSection3; }
+
+table.MsoISOTable, table.MsoISOTableBig {
+  mso-style-name: "Table ISO";
+  mso-tstyle-rowband-size: 0;
+  mso-tstyle-colband-size: 0;
+  mso-style-noshow: yes;
+  mso-style-priority: 99;
+  mso-style-parent: "";
+  mso-padding-alt: 0cm 2.85pt 0cm 2.85pt;
+  mso-para-margin: 0cm;
+  mso-para-margin-bottom: .0001pt;
+  mso-pagination: widow-orphan;
+  border-collapse: collapse;
+  mso-table-layout-alt: fixed;
+  border: solid windowtext 2pt;
+  mso-border-alt: solid windowtext 2pt;
+  mso-yfti-tbllook: 480;
+  mso-border-insideh: .75pt solid windowtext;
+  mso-border-insidev: .75pt solid windowtext;
+  font-size: 10.0pt;
+  font-family: "Times New Roman",serif; }
+
+table.MsoISOTable th, table.MsoISOTableBig th {
+  border: solid windowtext 1pt;
+  mso-border-alt: solid windowtext 1pt;
+  padding: 0cm 2.85pt 0cm 2.85pt; }
+
+table.MsoISOTable td, table.MsoISOTableBig td {
+  border: solid windowtext 1pt;
+  mso-border-alt: solid windowtext 1pt;
+  padding: 0cm 2.85pt 0cm 2.85pt; }
+
+table.MsoISOTable p, table.MsoISOTableBig p {
+  font-size: 10.0pt; }
+
+table.recommendclass, table.recommendclass p {
+  font-size: 10.0pt; }
+
+table.MsoTableGrid {
+  mso-style-name: "Table Grid";
+  mso-tstyle-rowband-size: 0;
+  mso-tstyle-colband-size: 0;
+  mso-style-priority: 39;
+  mso-style-unhide: no;
+  border: solid windowtext 1.0pt;
+  mso-border-alt: solid windowtext .5pt;
+  mso-padding-alt: 0cm 5.4pt 0cm 5.4pt;
+  mso-border-insideh: .5pt solid windowtext;
+  mso-border-insidev: .5pt solid windowtext;
+  mso-para-margin: 0cm;
+  mso-para-margin-bottom: .0001pt;
+  mso-pagination: widow-orphan;
+  font-size: 10.0pt;
+  font-family: "Times New Roman",serif; }
+
+div.formula {
+  tab-stops: right 487.45pt; }
+
+body {
+  tab-interval: 36.0pt; }
+
+.coverpage_docnumber {
+  text-align: center;
+  font-size: 14.0pt;
+  font-weight: bold; }
+
+.coverpage_techcommittee {
+  text-align: center;
+  font-size: 12.0pt; }
+
+.coverpage_docstage {
+  text-align: center;
+  font-size: 30.0pt;
+  color: #2e81c2; }
+
+div.coverpage_warning {
+  mso-element: para-border-div;
+  border: solid windowtext 1.0pt #2e81c2;
+  mso-border-alt: solid windowtext .5pt;
+  padding: 1.0pt 4.0pt 1.0pt 4.0pt #2e81c2;
+  font-size: 10.0pt;
+  margin-left: 4.25pt;
+  margin-right: 4.25pt; }
+
+.coverpage_warning {
+  color: #2e81c2;
+  font-size: 10.0pt; }
+
+a.TableFootnoteRef, span.TableFootnoteRef {
+  mso-style-priority: 99;
+  mso-style-parent: "Footnote Reference";
+  vertical-align: super; }
+
+aside {
+  font-size: 10.0pt; }
+
+.example-title {
+  font-weight: bold;
+  margin-left: -36.0pt; }
+
+p.example, li.example, td.example {
+  margin-right: 0pt;
+  margin-left: 0pt; }
+
+div.example {
+  margin-right: 36.0pt;
+  margin-left: 36.0pt;
+  margin-top: 0cm;
+  margin-bottom: 0cm; }
+
+p.example, li.example, div.example, td.example {
+  mso-pagination: none;
+  font-size: 10.0pt;
+  font-family: "Times New Roman",serif; }
+
+td.example p.MsoListParagraph {
+  font-size: 10.0pt; }
+
+div.example p.MsoListParagraph {
+  font-size: 10.0pt; }
+
+div.Note p.MsoListParagraph {
+  font-size: 10.0pt; }
+
+div.Note span.stem {
+  font-size: 10.0pt; }
+
+div.Note p.Sourcecode, div.Note pre.Sourcecode {
+  font-size: 8.0pt;
+  margin-left: 1.0cm; }
+
+div.Note table.dl {
+  font-size: 10.0pt;
+  margin-left: 1.0cm; }
+
+span.note_label, span.example_label, td.example_label, td.note_label {
+  font-size: 10.0pt;
+  font-family: "Times New Roman",serif; }
+
+table.dl {
+  margin-top: 0cm;
+  margin-right: 0cm;
+  margin-bottom: 11.0pt;
+  margin-left: 20.15pt; }
+
+div.license, p.license {
+  font-size: 8.0pt;
+  font-family: "Times New Roman",serif; }
+
+div.warning p {
+  margin-bottom: 6.0pt;
+  border: none;
+  mso-border-alt: solid windowtext .5pt;
+  padding: 0cm;
+  mso-padding-alt: 1.0pt 4.0pt 1.0pt 4.0pt; }
+
+span.hi {
+  background-color: yellow; }
+
+span.AdmittedLabel {
+  color: #00335b;
+  background-color: #CFE2F3; }
+
+-->
+    </style>
+  </head>
+  <body lang="EN-US" link="blue" vlink="#954F72" xml:lang="EN-US">
+    <div class="WordSection1"><p class="MsoNormal" align="right" style="text-align:right">
+  <b style="mso-bidi-font-weight:&#10;normal">
+    <span lang="EN-GB" style="font-size:18.0pt;mso-no-proof:yes" xml:lang="EN-GB">Open Geospatial Consortium</span>
+  </b>
+  <b style="mso-bidi-font-weight:normal">
+    <span lang="EN-GB" style="font-size:14.0pt" xml:lang="EN-GB">
+      <p class="MsoNormal"></p>
+    </span>
+  </b>
+</p>
+
+<p class="MsoNormal" align="right" style="text-align:right">
+  <span lang="EN-GB" style="mso-no-proof:yes;font-size:10.0pt" xml:lang="EN-GB">Submission Date: XXX</span>
+</p>
+
+<p class="MsoNormal" align="right" style="text-align:right">
+  <span lang="EN-GB" style="mso-no-proof:yes;font-size:10.0pt" xml:lang="EN-GB">Approval Date: XXX</span>
+</p>
+
+<p class="MsoNormal" align="right" style="text-align:right">
+  <span lang="EN-GB" style="mso-no-proof:yes;font-size:10.0pt" xml:lang="EN-GB">Publication Date: XXX</span>
+</p>
+
+<p class="MsoNormal" align="right" style="text-align:right">
+  <span lang="EN-GB" style="mso-no-proof:yes;font-size:10.0pt" xml:lang="EN-GB">External identifier of this OGC&#xAE; document: </span>
+</p>
+
+<p class="MsoNormal" align="right" style="text-align:right">
+  <span lang="EN-GB" style="mso-no-proof:yes;font-size:10.0pt" xml:lang="EN-GB">Internal reference number of this OGC&#xAE; document: </span>
+</p>
+
+
+
+
+
+<p class="MsoNormal" align="right" style="text-align:right">
+  <span lang="EN-GB" style="mso-no-proof:yes;font-size:10.0pt" xml:lang="EN-GB">Category: Standard</span>
+</p>
+
+
+<p class="MsoNormal" align="right" style="text-align:right">
+  <span lang="EN-GB" style="mso-no-proof:yes;font-size:10.0pt" xml:lang="EN-GB">Contributor: </span>
+</p>
+
+
+
+<p class="MsoNormal" align="right" style="text-align:right">
+  <span lang="EN-GB" style="mso-no-proof:yes;font-size:10.0pt" xml:lang="EN-GB">Editor: </span>
+</p>
+
+
+<p class="MsoNormal" align="center" style="text-align:center;line-height:18.0pt;margin-bottom:0.0pt">
+  <b style="mso-bidi-font-weight:normal"><span lang="EN-GB" style="font-size:24.0pt" xml:lang="EN-GB">OGC Space Standards Domain Working Group Charter</span>
+</b>
+</p>
+
+<p class="MsoNormal" style="margin-top:100.0pt">
+  <span lang="EN-GB" xml:lang="EN-GB">
+    <p class="MsoNormal">&#xA0;</p>
+  </span>
+</p>
+
+<div class="boilerplate-copyright">
+    <div><p class="TitlePageSubhead">Copyright notice</p>
+
+
+      <p style="text-align:center;" align="center" class="MsoNormal"><a name="_05e2e052-833c-e51b-93af-4ce8ddde4ccf" id="_05e2e052-833c-e51b-93af-4ce8ddde4ccf"></a>Copyright
+        &#xA9; 2024 Open Geospatial Consortium<br/>
+        To obtain additional rights of use, visit
+        <a href="http://www.ogc.org/legal/">http://www.ogc.org/legal/</a></p>
+    </div>
+    <div><p class="TitlePageSubhead">Note</p>
+
+      <p style="text-align:left;" align="left" class="MsoNormal"><a name="_11e88dba-9912-1a89-a82d-7291bf232191" id="_11e88dba-9912-1a89-a82d-7291bf232191"></a>Attention is drawn to the possibility that some of the elements of this document may be the subject of patent rights. The Open Geospatial Consortium shall not be held responsible for identifying any or all such patent rights.</p>
+
+      <p style="text-align:left;" align="left" class="MsoNormal"><a name="_15067213-c07b-cba0-7e18-395ab2e00ab3" id="_15067213-c07b-cba0-7e18-395ab2e00ab3"></a>Recipients of this document are requested to submit, with their comments, notification of any relevant patent claims or other intellectual property rights of which they may be aware that might be infringed by any implementation of the standard set forth in this document, and to provide supporting documentation.</p>
+    </div>
+  </div>
+
+<div class="warning">
+      <div class="boilerplate-legal">
+
+
+    <div><p class="TitlePageSubhead">Notice</p>
+
+      <p class="MsoNormal"><a name="_a156d1c4-313c-340a-8480-366345e3e0d2" id="_a156d1c4-313c-340a-8480-366345e3e0d2"></a>This document is an OGC Member approved international standard. This document is available on a royalty free, non-discriminatory basis. Recipients of this document are invited to submit, with their comments, notification of any relevant patent rights of which they are aware and to provide supporting documentation.
+      </p>
+    </div>
+
+
+
+
+
+  </div>
+      </div>
+
+<div style="mso-element:frame;mso-element-frame-hspace:7.1pt;mso-element-frame-vspace:&#10;7.1pt;mso-element-wrap:auto;mso-element-anchor-vertical:page;mso-element-anchor-horizontal:&#10;page;mso-element-left:39.9pt;mso-element-top:693.25pt;mso-height-rule:exactly">
+
+<table cellspacing="0" cellpadding="0" hspace="0" vspace="0">
+ <tr>
+  <td valign="top" align="left" style="padding-top:7.1pt;padding-right:7.1pt;&#10;  padding-bottom:7.1pt;padding-left:7.1pt">
+  <p class="zzCover" align="left" style="margin-bottom:0cm;margin-bottom:.0001pt;&#10;  text-align:left;mso-hyphenate:none;tab-stops:99.0pt;mso-element:frame;&#10;  mso-element-frame-hspace:7.1pt;mso-element-frame-vspace:7.1pt;mso-element-wrap:&#10;  auto;mso-element-anchor-vertical:page;mso-element-anchor-horizontal:page;&#10;  mso-element-left:39.9pt;mso-element-top:693.25pt;mso-height-rule:exactly"><span lang="EN-GB" style="font-size:10.0pt;mso-color-alt:windowtext;font-weight:normal" xml:lang="EN-GB">Document
+  number:&#xA0;&#xA0;&#xA0;<span style="mso-tab-count:1">&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0; </span><span class="SpellE"><span lang="EN-GB" style="font-size:10.0pt;font-weight:normal" xml:lang="EN-GB"></span><span lang="EN-GB" style="font-size:10.0pt;&#10;  mso-color-alt:windowtext;font-weight:normal" xml:lang="EN-GB"><p class="MsoNormal"></p></span></span></span></p>
+
+  <p class="zzCover" align="left" style="margin-bottom:0cm;margin-bottom:.0001pt;&#10;  text-align:left;mso-hyphenate:none;tab-stops:99.0pt;mso-element:frame;&#10;  mso-element-frame-hspace:7.1pt;mso-element-frame-vspace:7.1pt;mso-element-wrap:&#10;  auto;mso-element-anchor-vertical:page;mso-element-anchor-horizontal:page;&#10;  mso-element-left:39.9pt;mso-element-top:693.25pt;mso-height-rule:exactly"><span lang="EN-GB" style="font-size:10.0pt;mso-color-alt:windowtext;font-weight:normal" xml:lang="EN-GB">Document
+  type:&#xA0;&#xA0;&#xA0;<span style="mso-tab-count:1">&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0; </span><span class="SpellE">OGC</span><sup>&#xAE;</sup> </span><span lang="EN-GB" style="font-size:10.0pt;font-weight:normal" xml:lang="EN-GB">Standard</span><span lang="EN-GB" style="font-size:10.0pt;&#10;  mso-color-alt:windowtext;font-weight:normal" xml:lang="EN-GB"><p class="MsoNormal"></p></span></p>
+  
+  <p class="zzCover" align="left" style="margin-bottom:0cm;margin-bottom:.0001pt;&#10;  text-align:left;mso-hyphenate:none;tab-stops:99.0pt;mso-element:frame;&#10;  mso-element-frame-hspace:7.1pt;mso-element-frame-vspace:7.1pt;mso-element-wrap:&#10;  auto;mso-element-anchor-vertical:page;mso-element-anchor-horizontal:page;&#10;  mso-element-left:39.9pt;mso-element-top:693.25pt;mso-height-rule:exactly"><span lang="EN-GB" style="font-size:10.0pt;mso-color-alt:windowtext;font-weight:normal" xml:lang="EN-GB">Document
+  subtype:&#xA0;&#xA0;&#xA0;<span style="mso-tab-count:1">&#xA0;&#xA0;&#xA0; </span><p class="MsoNormal"></p></span></p>
+
+  <p class="zzCover" align="left" style="margin-bottom:0cm;margin-bottom:.0001pt;&#10;  text-align:left;mso-hyphenate:none;tab-stops:99.0pt;mso-element:frame;&#10;  mso-element-frame-hspace:7.1pt;mso-element-frame-vspace:7.1pt;mso-element-wrap:&#10;  auto;mso-element-anchor-vertical:page;mso-element-anchor-horizontal:page;&#10;  mso-element-left:39.9pt;mso-element-top:693.25pt;mso-height-rule:exactly"><span lang="EN-GB" style="font-size:10.0pt;mso-color-alt:windowtext;font-weight:normal" xml:lang="EN-GB">Document
+  stage:&#xA0;&#xA0;&#xA0;<span style="mso-tab-count:1">&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0; </span>Approved<p class="MsoNormal"></p></span></p>
+  <p class="zzCover" align="left" style="margin-bottom:0cm;margin-bottom:.0001pt;&#10;  text-align:left;mso-hyphenate:none;tab-stops:99.0pt;mso-element:frame;&#10;  mso-element-frame-hspace:7.1pt;mso-element-frame-vspace:7.1pt;mso-element-wrap:&#10;  auto;mso-element-anchor-vertical:page;mso-element-anchor-horizontal:page;&#10;  mso-element-left:39.9pt;mso-element-top:693.25pt;mso-height-rule:exactly"><span lang="EN-GB" style="font-size:10.0pt;mso-color-alt:windowtext;font-weight:normal" xml:lang="EN-GB">Document
+  language:&#xA0;<span style="mso-tab-count:1">&#xA0;&#xA0;&#xA0; </span>English</span><span lang="EN-GB" style="font-size:8.0pt;mso-bidi-font-size:10.0pt;mso-color-alt:&#10;  windowtext" xml:lang="EN-GB"><p class="MsoNormal"></p></span></p>
+  </td>
+ </tr>
+</table>
+
+</div>
+
+
+
+
+
+
+
+      <p class="MsoNormal">&#xA0;</p>
+    </div>
+    <p class="MsoNormal">
+      <br clear="all" class="section"/>
+    </p>
+    <div class="WordSection2"><div class="license">
+  <div class="boilerplate-license">
+    <div><p class="TitlePageSubhead">License Agreement</p>
+
+
+      <p class="license"><a name="_e8566381-218f-c22d-320d-4d0371bfd58f" id="_e8566381-218f-c22d-320d-4d0371bfd58f"></a>Permission is hereby granted by the Open Geospatial
+        Consortium, (&#x201C;Licensor&#x201D;), free of charge and subject to the terms set
+        forth below, to any person obtaining a copy of this Intellectual Property and
+        any associated documentation, to deal in the Intellectual Property without
+        restriction (except as set forth below), including without limitation the
+        rights to implement, use, copy, modify, merge, publish, distribute, and/or
+        sublicense copies of the Intellectual Property, and to permit persons to whom
+        the Intellectual Property is furnished to do so, provided that all copyright notices
+        on the intellectual property are retained intact and that each person to whom
+        the Intellectual Property is furnished agrees to the terms of this Agreement.</p>
+
+      <p class="license"><a name="_52ebb386-d365-27d0-d76d-a59ac165fc4d" id="_52ebb386-d365-27d0-d76d-a59ac165fc4d"></a>If you modify the Intellectual Property, all copies of
+        the modified Intellectual Property must include, in addition to the above
+        copyright notice, a notice that the Intellectual Property includes
+        modifications that have not been approved or adopted by LICENSOR.</p>
+
+      <p class="license"><a name="_178f14b4-0718-a5b8-09cd-84f8f4b756ed" id="_178f14b4-0718-a5b8-09cd-84f8f4b756ed"></a>THIS LICENSE IS A COPYRIGHT LICENSE ONLY, AND DOES NOT
+        CONVEY ANY RIGHTS UNDER ANY PATENTS THAT MAY BE IN FORCE ANYWHERE IN THE WORLD.
+        THE INTELLECTUAL PROPERTY IS PROVIDED &#x201C;AS
+        IS&#x201D;, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+        LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE,
+        AND NONINFRINGEMENT OF THIRD PARTY RIGHTS. THE COPYRIGHT HOLDER OR HOLDERS
+        INCLUDED IN THIS NOTICE DO NOT WARRANT THAT THE FUNCTIONS CONTAINED IN THE
+        INTELLECTUAL PROPERTY WILL MEET YOUR REQUIREMENTS OR THAT THE OPERATION OF THE
+        INTELLECTUAL PROPERTY WILL BE UNINTERRUPTED OR ERROR FREE. ANY USE OF THE
+        INTELLECTUAL PROPERTY SHALL BE MADE ENTIRELY AT THE USER&#x2019;S OWN RISK. IN NO
+        EVENT SHALL THE COPYRIGHT HOLDER OR ANY CONTRIBUTOR OF INTELLECTUAL PROPERTY
+        RIGHTS TO THE INTELLECTUAL PROPERTY BE LIABLE FOR ANY CLAIM, OR ANY DIRECT,
+        SPECIAL, INDIRECT OR CONSEQUENTIAL DAMAGES, OR ANY DAMAGES WHATSOEVER RESULTING
+        FROM ANY ALLEGED INFRINGEMENT OR ANY LOSS OF USE, DATA OR PROFITS, WHETHER IN
+        AN ACTION OF CONTRACT, NEGLIGENCE OR UNDER ANY OTHER LEGAL THEORY, ARISING OUT
+        OF OR IN CONNECTION WITH THE IMPLEMENTATION, USE, COMMERCIALIZATION OR
+        PERFORMANCE OF THIS INTELLECTUAL PROPERTY.</p>
+
+      <p class="license"><a name="_2ad7fe27-9ae4-52c5-9dd9-faa4004247fb" id="_2ad7fe27-9ae4-52c5-9dd9-faa4004247fb"></a>This license is effective until terminated. You may
+        terminate it at any time by destroying the Intellectual Property together with
+        all copies in any form. The license will also terminate if you fail to comply
+        with any term or condition of this Agreement. Except as provided in the
+        following sentence, no such termination of this license shall require the
+        termination of any third party end-user sublicense to the Intellectual Property
+        which is in force as of the date of notice of such termination. In addition,
+        should the Intellectual Property, or the operation of the Intellectual
+        Property, infringe, or in LICENSOR&#x2019;s sole opinion be
+        likely to infringe, any patent, copyright, trademark or other right of a third
+        party, you agree that LICENSOR, in its sole discretion, may terminate this
+        license without any compensation or liability to you, your licensees or any
+        other party. You agree upon termination of any kind to destroy or cause to be
+        destroyed the Intellectual Property together with all copies in any form,
+        whether held by you or by any third party.</p>
+
+      <p class="license"><a name="_3254c815-179c-5f54-9a01-b8e964837171" id="_3254c815-179c-5f54-9a01-b8e964837171"></a>Except as contained in this notice, the name of
+        LICENSOR or of any other holder of a copyright in all or part of the Intellectual
+        Property shall not be used in advertising or otherwise to promote the sale, use
+        or other dealings in this Intellectual Property without prior written
+        authorization of LICENSOR or such copyright holder. LICENSOR is and shall at
+        all times be the sole entity that may authorize you or any third party to use
+        certification marks, trademarks or other special designations to indicate
+        compliance with any LICENSOR standards or specifications.
+        This Agreement is
+        governed by the laws of the Commonwealth of Massachusetts. The application to
+        this Agreement of the United Nations Convention on Contracts for the
+        International Sale of Goods is hereby expressly excluded. In the event any
+        provision of this Agreement shall be deemed unenforceable, void or invalid, such
+        provision shall be modified so as to make it valid and enforceable, and as so
+        modified the entire Agreement shall remain in full force and effect. No
+        decision, action or inaction by LICENSOR shall be construed to be a waiver of
+        any rights or remedies available to it.</p>
+
+      <p class="license"><a name="_4fa1ef5b-3dd5-7a05-3c68-bca93a0f14bb" id="_4fa1ef5b-3dd5-7a05-3c68-bca93a0f14bb"></a>None of the Intellectual Property or underlying information or technology may be downloaded or otherwise exported or reexported in violation of U.S. export laws and regulations. In addition, you are responsible for complying with any local laws in your jurisdiction which may impact your right to import, export or use the Intellectual Property, and you represent that you have complied with any regulations or registration procedures required by applicable law to make this license enforceable.</p>
+    </div>
+  </div>
+
+
+<div class="boilerplate-feedback">
+
+    <div><a name="boilerplate-standard-feedback" id="boilerplate-standard-feedback"></a>
+      <p class="MsoNormal"><a name="_bbc1a653-f270-135d-9455-af930feb3587" id="_bbc1a653-f270-135d-9455-af930feb3587"></a>Suggested additions, changes and comments on this document are welcome and encouraged. Such suggestions may be submitted using the online change request form on OGC web site: <a href="http://portal.opengeospatial.org/public_ogc/change_request.php">http://portal.opengeospatial.org/public_ogc/change_request.php</a></p>
+    </div>
+
+  </div>
+
+</div>
+
+<span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;&#10;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-ansi-language:EN-US;mso-fareast-language:&#10;EN-US;mso-bidi-language:AR-SA" xml:lang="EN-US"><br clear="all" style="mso-special-character:line-break;&#10;page-break-before:always"/>
+</span>
+
+<p class="zzContents" style="margin-top:0cm">
+  <span lang="EN-GB" xml:lang="EN-GB">Contents</span>
+</p>
+
+<p class="MsoToc1"><span lang="EN-GB" xml:lang="EN-GB"><span style="mso-element:field-begin"></span><span style="mso-spacerun:yes">&#xA0;</span>TOC
+  \o "1-2" \h \z \u <span style="mso-element:field-separator"></span></span>
+<span class="MsoHyperlink"><span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
+<a href="#_Toc350628624">Copyright notice<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-tab-count:1 dotted">. </span>
+</span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-element:field-begin"></span></span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc350628624 \h </span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span></span></p>
+
+<p class="MsoToc1">
+  <span class="MsoHyperlink">
+    <span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
+<a href="#_Toc483183441">Note<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-tab-count:1 dotted">. </span>
+</span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-element:field-begin"></span></span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc483183441 \h </span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span>
+  </span>
+</p>
+
+<p class="MsoToc1">
+  <span class="MsoHyperlink">
+    <span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
+<a href="#_Toc878811628">License Agreement<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-tab-count:1 dotted">. </span>
+</span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-element:field-begin"></span></span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc878811628 \h </span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span>
+  </span>
+</p>
+
+<p class="MsoToc1">
+  <span class="MsoHyperlink">
+    <span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
+<a href="#_Toc695985836">Notice<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-tab-count:1 dotted">. </span>
+</span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-element:field-begin"></span></span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc695985836 \h </span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span>
+  </span>
+</p>
+
+<p class="MsoToc1">
+  <span class="MsoHyperlink">
+    <span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
+<a href="#_Toc703378120">I. Preface<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-tab-count:1 dotted">. </span>
+</span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-element:field-begin"></span></span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc703378120 \h </span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span>
+  </span>
+</p>
+
+<p class="MsoToc1">
+  <span class="MsoHyperlink">
+    <span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
+<a href="#_Toc022857373">II. Security considerations<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-tab-count:1 dotted">. </span>
+</span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-element:field-begin"></span></span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc022857373 \h </span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span>
+  </span>
+</p>
+
+<p class="MsoToc1">
+  <span class="MsoHyperlink">
+    <span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
+<a href="#_Toc523581146">1. Normative references<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-tab-count:1 dotted">. </span>
+</span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-element:field-begin"></span></span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc523581146 \h </span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span>
+  </span>
+</p>
+
+<p class="MsoToc1">
+  <span class="MsoHyperlink">
+    <span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
+<a href="#_Toc381705461">2. Introduction<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-tab-count:1 dotted">. </span>
+</span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-element:field-begin"></span></span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc381705461 \h </span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span>
+  </span>
+</p>
+
+<p class="MsoToc2">
+  <span class="MsoHyperlink">
+    <span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
+<a href="#_Toc492002551">2.1. Working Group<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-tab-count:1 dotted">. </span>
+</span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-element:field-begin"></span></span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc492002551 \h </span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span>
+  </span>
+</p>
+
+<p class="MsoToc1">
+  <span class="MsoHyperlink">
+    <span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
+<a href="#_Toc167660207">3. Purpose of Working Group<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-tab-count:1 dotted">. </span>
+</span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-element:field-begin"></span></span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc167660207 \h </span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span>
+  </span>
+</p>
+
+<p class="MsoToc1">
+  <span class="MsoHyperlink">
+    <span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
+<a href="#_Toc705335865">4. Problem statement<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-tab-count:1 dotted">. </span>
+</span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-element:field-begin"></span></span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc705335865 \h </span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span>
+  </span>
+</p>
+
+<p class="MsoToc1">
+  <span class="MsoHyperlink">
+    <span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
+<a href="#_Toc790688754">5. Charter<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-tab-count:1 dotted">. </span>
+</span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-element:field-begin"></span></span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc790688754 \h </span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span>
+  </span>
+</p>
+
+<p class="MsoToc2">
+  <span class="MsoHyperlink">
+    <span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
+<a href="#_Toc874966851">5.1. Charter members<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-tab-count:1 dotted">. </span>
+</span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-element:field-begin"></span></span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc874966851 \h </span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span>
+  </span>
+</p>
+
+<p class="MsoToc2">
+  <span class="MsoHyperlink">
+    <span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
+<a href="#_Toc441586340">5.2. Key activities<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-tab-count:1 dotted">. </span>
+</span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-element:field-begin"></span></span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc441586340 \h </span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span>
+  </span>
+</p>
+
+<p class="MsoToc2">
+  <span class="MsoHyperlink">
+    <span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
+<a href="#_Toc179981478">5.3. Business case<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-tab-count:1 dotted">. </span>
+</span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-element:field-begin"></span></span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc179981478 \h </span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span>
+  </span>
+</p>
+
+<p class="MsoToc1">
+  <span class="MsoHyperlink">
+    <span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
+<a href="#_Toc151397477">6. Organizational approach and scope of work<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-tab-count:1 dotted">. </span>
+</span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-element:field-begin"></span></span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc151397477 \h </span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span>
+  </span>
+</p>
+
+<p class="MsoToc2">
+  <span class="MsoHyperlink">
+    <span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
+<a href="#_Toc457021810">6.1. Business goals<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-tab-count:1 dotted">. </span>
+</span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-element:field-begin"></span></span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc457021810 \h </span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span>
+  </span>
+</p>
+
+<p class="MsoToc2">
+  <span class="MsoHyperlink">
+    <span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
+<a href="#_Toc222149890">6.2. Mission and Role<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-tab-count:1 dotted">. </span>
+</span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-element:field-begin"></span></span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc222149890 \h </span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span>
+  </span>
+</p>
+
+<p class="MsoToc2">
+  <span class="MsoHyperlink">
+    <span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
+<a href="#_Toc255220505">6.3. Activities planned for Space Standards DWG<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-tab-count:1 dotted">. </span>
+</span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-element:field-begin"></span></span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc255220505 \h </span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span>
+  </span>
+</p>
+
+<p class="MsoToc1">
+  <span class="MsoHyperlink">
+    <span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
+<a href="#_Toc030013460">7. Definitions<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-tab-count:1 dotted">. </span>
+</span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-element:field-begin"></span></span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc030013460 \h </span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span>
+  </span>
+</p>
+
+<p class="MsoToc1">
+  <span lang="EN-GB" xml:lang="EN-GB">
+    <span style="mso-element:field-end"></span>
+  </span>
+  <span lang="EN-GB" xml:lang="EN-GB">
+    <p class="MsoNormal">&#xA0;</p>
+  </span>
+</p>
+
+
+      <div class="authority">
+  
+  
+
+  
+
+
+
+
+  
+</div>
+      <p class="MsoNormal">
+        <br clear="all" style="mso-special-character:line-break;page-break-before:always"/>
+      </p>
+      <div><a name="_fb19146a-1ae6-6261-1d7a-3e99155b934e" id="_fb19146a-1ae6-6261-1d7a-3e99155b934e"></a>
+        <h1 class="ForewordTitle">I.<span style="mso-tab-count:1">&#xA0; </span>Preface</h1>
+        <p class="MsoNormal">
+          <br clear="all" style="mso-special-character:line-break;page-break-before:always"/>
+        </p>
+        <p class="TableTitle" style="text-align:center;">Table 1</p>
+        <div align="center" class="table_container">
+          <table class="MsoISOTable" style="mso-table-anchor-horizontal:column;mso-table-overlap:never;border-spacing:0;border-width:1px;"><a name="_5d938338-7204-eb7d-7601-cf0d16c46c92" id="_5d938338-7204-eb7d-7601-cf0d16c46c92"></a>
+            <tbody>
+              <tr>
+                <td valign="middle" align="right" style="border-top:solid windowtext 1.5pt;mso-border-top-alt:solid windowtext 1.5pt;border-bottom:solid windowtext 1.0pt;mso-border-bottom-alt:solid windowtext 1.0pt;"></td>
+              </tr>
+              <tr>
+                <td valign="middle" align="right" style="border-top:none;mso-border-top-alt:none;border-bottom:solid windowtext 1.0pt;mso-border-bottom-alt:solid windowtext 1.0pt;">
+                  <b>Open Geospatial Consortium</b>
+                </td>
+              </tr>
+              <tr>
+                <td valign="middle" align="right" style="border-top:none;mso-border-top-alt:none;border-bottom:solid windowtext 1.0pt;mso-border-bottom-alt:solid windowtext 1.0pt;">Submission Date: 2023-09-27</td>
+              </tr>
+              <tr>
+                <td valign="middle" align="right" style="border-top:none;mso-border-top-alt:none;border-bottom:solid windowtext 1.0pt;mso-border-bottom-alt:solid windowtext 1.0pt;">Approval Date:&#xA0;&#xA0;&#xA0;2023-09-28</td>
+              </tr>
+              <tr>
+                <td valign="middle" align="right" style="border-top:none;mso-border-top-alt:none;border-bottom:solid windowtext 1.0pt;mso-border-bottom-alt:solid windowtext 1.0pt;">Internal reference number of this OGC&#xAE; document:&#xA0;&#xA0;&#xA0;&#xA0;23-041r2</td>
+              </tr>
+              <tr>
+                <td valign="middle" align="right" style="border-top:none;mso-border-top-alt:none;border-bottom:solid windowtext 1.0pt;mso-border-bottom-alt:solid windowtext 1.0pt;">Category: OGC&#xAE; Domain Working Group Charter</td>
+              </tr>
+              <tr>
+                <td valign="middle" align="right" style="border-top:none;mso-border-top-alt:none;border-bottom:solid windowtext 1.5pt;mso-border-bottom-alt:solid windowtext 1.5pt;">Authors:&#xA0;&#xA0;&#xA0;Charles Heazel</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+        <p class="TableTitle" style="text-align:center;">Table 2</p>
+        <div align="center" class="table_container">
+          <table class="MsoISOTable" style="mso-table-anchor-horizontal:column;mso-table-overlap:never;border-spacing:0;border-width:1px;"><a name="_0b9287c9-cde4-4b0c-f1f8-97455fc065c7" id="_0b9287c9-cde4-4b0c-f1f8-97455fc065c7"></a>
+            <tbody>
+              <tr>
+                <td valign="middle" align="center" style="border-top:solid windowtext 1.5pt;mso-border-top-alt:solid windowtext 1.5pt;border-bottom:solid windowtext 1.5pt;mso-border-bottom-alt:solid windowtext 1.5pt;">
+                  <b>OGC Space Standards Domain Working Group Charter</b>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+        <p class="TableTitle" style="text-align:center;">Table 3</p>
+        <div align="center" class="table_container">
+          <table class="MsoISOTable" style="mso-table-anchor-horizontal:column;mso-table-overlap:never;border-spacing:0;border-width:1px;"><a name="_a71936af-a82b-5f0e-c573-c72320f00f64" id="_a71936af-a82b-5f0e-c573-c72320f00f64"></a>
+            <tbody>
+              <tr>
+                <td valign="middle" align="center" style="border-top:solid windowtext 1.5pt;mso-border-top-alt:solid windowtext 1.5pt;border-bottom:solid windowtext 1.0pt;mso-border-bottom-alt:solid windowtext 1.0pt;">
+                  <b>Copyright notice</b>
+                </td>
+              </tr>
+              <tr>
+                <td valign="middle" align="center" style="border-top:none;mso-border-top-alt:none;border-bottom:solid windowtext 1.0pt;mso-border-bottom-alt:solid windowtext 1.0pt;">Copyright &#xA9; 2023 Open Geospatial Consortium</td>
+              </tr>
+              <tr>
+                <td valign="middle" align="center" style="border-top:none;mso-border-top-alt:none;border-bottom:solid windowtext 1.5pt;mso-border-bottom-alt:solid windowtext 1.5pt;">To obtain additional rights of use, visit <a href="http://www.opengeospatial.org/legal/">http://www.opengeospatial.org/legal/</a></td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+        <p class="MsoNormal">
+          <br clear="all" style="mso-special-character:line-break;page-break-before:always"/>
+        </p>
+      </div>
+      <div class="Section3"><a name="_81b1ace7-21d3-2259-3346-8f24ee71ed45" id="_81b1ace7-21d3-2259-3346-8f24ee71ed45"></a>
+        <h1 class="IntroTitle">II.<span style="mso-tab-count:1">&#xA0; </span>Security considerations</h1>
+        <p class="MsoNormal"><a name="_6bffb48c-5a4a-c73f-8352-74e8ed0d680a" id="_6bffb48c-5a4a-c73f-8352-74e8ed0d680a"></a>No security considerations have been made for this document.</p>
+      </div>
+      <p class="MsoNormal">&#xA0;</p>
+    </div>
+    <p class="MsoNormal">
+      <br clear="all" class="section"/>
+    </p>
+    <div class="WordSection3">
+      <p class="zzSTDTitle1">OGC Space Standards Domain Working Group Charter</p>
+      <div><h1>1.<span style="mso-tab-count:1">&#xA0; </span>Normative references</h1>
+<p class="MsoNormal"><a name="_dc52360f-66c0-cd26-ffb9-a1c80e731d3e" id="_dc52360f-66c0-cd26-ffb9-a1c80e731d3e"></a>There are no normative references in this document.</p>
+<p class="MsoNormal"><a name="_ad723d8d-0d75-80f9-4df1-9bfc460ffb4b" id="_ad723d8d-0d75-80f9-4df1-9bfc460ffb4b"></a>Some of the resources relevant to the work of this DWG are described below. Expanding this collection is one of the key objectives of this DWG.</p>
+
+</div>
+      <div><a name="_introduction" id="_introduction"></a>
+        <h1>2.<span style="mso-tab-count:1">&#xA0; </span>Introduction</h1>
+        <p class="MsoNormal"><a name="_f62af03a-0fdc-11f9-54c3-c6b32e8a634a" id="_f62af03a-0fdc-11f9-54c3-c6b32e8a634a"></a>This Domain Working Group (DWG) charter defines the role for OGC activities within the Space Domain and provides an open forum for the presentation and discussion of interoperability requirements, use cases, pilots, and implementations of OGC Standards in this domain. This Charter is to be presented to the OGC&#x2019;s Technical and Planning Committees for consideration.</p>
+        <p class="MsoNormal"><a name="_f9ad2df7-c375-6968-6c07-36755ec495ab" id="_f9ad2df7-c375-6968-6c07-36755ec495ab"></a>Domains are distinct Information Communities that defines a user domain where:</p>
+        <p style="mso-list:l3 level1 lfo1;" class="MsoListParagraphCxSpFirst">A distinct market, application, or business approach exists;
+</p>
+<p style="mso-list:l3 level1 lfo1;" class="MsoListParagraphCxSpMiddle">Common data definition, structure, syntax, and definitions exists;
+</p>
+<p style="mso-list:l3 level1 lfo1;" class="MsoListParagraphCxSpMiddle">Common user requirements exist; and/or
+</p>
+<p style="mso-list:l3 level1 lfo1;" class="MsoListParagraphCxSpLast">Common approach to vendors exists
+This Charter defines the Space Domain as an information community which encompasses all spatiotemporal information and applications which are not centered on the planet Earth.
+</p>
+
+        <div><a name="_working_group" id="_working_group"></a><h2>2.1.<span style="mso-tab-count:1">&#xA0; </span>Working Group</h2>
+
+<p class="MsoNormal"><a name="_40fc5b2e-b1f4-666a-e407-f7f0125e2f8f" id="_40fc5b2e-b1f4-666a-e407-f7f0125e2f8f"></a>Operation of the OGC Space Domain Working Group follows the policies and procedures of the Technical Committee. The following definition from the Technical Policies and Procedures apply to this DWG Charter.</p>
+
+<p class="MsoNormal"><a name="_16c2a8f1-2880-e619-dc83-80d53bffa8a8" id="_16c2a8f1-2880-e619-dc83-80d53bffa8a8"></a><b>Domain Working Group</b>: A group (organizationally, a subgroup of the TC) of individuals composed of members of the TC and invited guests, with the specific intent of solving some particular interoperability problem or problems in a particular technology domain for recommendation to the Technical Committee.</p>
+
+<p class="MsoNormal"><a name="_55b99ffc-bd6d-480d-ca7c-c075957f8d3a" id="_55b99ffc-bd6d-480d-ca7c-c075957f8d3a"></a>Functions of a Domain Working Group are as follows.</p>
+
+<p style="mso-list:l3 level1 lfo2;" class="MsoListParagraphCxSpFirst">Provide a forum for discussion and documentation of interoperability requirements for a given information or user community.
+</p>
+<p style="mso-list:l3 level1 lfo2;" class="MsoListParagraphCxSpMiddle">Provide a forum to discuss and recommend document actions related to Interoperability Program Reports.
+</p>
+<p style="mso-list:l3 level1 lfo2;" class="MsoListParagraphCxSpMiddle">Develop Change Requests Proposals (CRPs) for existing OGC Standards.
+</p>
+<p style="mso-list:l3 level1 lfo2;" class="MsoListParagraphCxSpMiddle">Develop engineering reports with the intent of seeking approval by the TC for release of these documents as OGC White Papers, Discussion Papers or Best Practices Papers.
+</p>
+<p style="mso-list:l3 level1 lfo2;" class="MsoListParagraphCxSpMiddle">Informational presentations and discussions about the market use of adopted OGC Standards.
+</p>
+<p style="mso-list:l3 level1 lfo2;" class="MsoListParagraphCxSpMiddle">Have a formal approved charter that defines the DWGs Scope of Work and estimated timeline for completion of the work.
+</p>
+<p style="mso-list:l3 level1 lfo2;" class="MsoListParagraphCxSpMiddle">Have all-member voting policies (unless otherwise stated).
+</p>
+<p style="mso-list:l3 level1 lfo2;" class="MsoListParagraphCxSpLast">Have missions and goals defined by the TC.
+</p>
+
+
+<p class="MsoNormal"><a name="_ac9f1c6f-ad57-f197-3411-98f0dacc8ff7" id="_ac9f1c6f-ad57-f197-3411-98f0dacc8ff7"></a>A DWG <u>Does Not</u> work on Standards submissions, candidate Standards, or revisions to existing OGC Standards. However, a DWG can develop change requests as documentation of interoperability requirements that can then be submitted as work items to a Standards Working Group (SWG).</p>
+
+<p class="MsoNormal"><a name="_a5a71721-5f7c-658a-5279-f386201a3472" id="_a5a71721-5f7c-658a-5279-f386201a3472"></a>A DWG may determine that they wish to have public collaboration, such as in teleconference, email discussions, or a public twiki. In this case, the DWG shall make a motion to the TC to approve public participation in the DWG. Voting in DWGs is by simple majority of OGC Members present at the WG meeting, not just Voting TC Members, with the caveat that no OGC Member organization may cast more than one vote in a WG vote.</p>
+</div>
+      </div>
+      <div><a name="_purpose_of_working_group" id="_purpose_of_working_group"></a>
+        <h1>3.<span style="mso-tab-count:1">&#xA0; </span>Purpose of Working Group</h1>
+        <p class="MsoNormal"><a name="_e7079878-4a43-1f22-129f-832e123e0c9f" id="_e7079878-4a43-1f22-129f-832e123e0c9f"></a>This Charter defines the Space Domain as the area above the altitude where atmospheric effects on airborne objects become negligible. Specifically, the area surrounding the Earth at altitudes equal to, or greater than, 100 kilometers (54 nautical miles) above mean sea level.</p>
+        <p class="MsoNormal"><a name="_f0a77d9d-92e0-8a14-3091-6ea7ec234593" id="_f0a77d9d-92e0-8a14-3091-6ea7ec234593"></a>The Space Standards Domain Working Group will serve as a forum to identify requirements for standardization which are unique for the Space Domain, identify which organizations (if any) are addressing those requirements, and promote harmonization and integration of shared concepts across all Space standards.</p>
+      </div>
+      <div><a name="_problem_statement" id="_problem_statement"></a>
+        <h1>4.<span style="mso-tab-count:1">&#xA0; </span>Problem statement</h1>
+        <p class="MsoNormal"><a name="_04b13dd5-b296-984f-215e-da9a0a3291e5" id="_04b13dd5-b296-984f-215e-da9a0a3291e5"></a>There is no common concept of &#x201C;Space Standards&#x201D;. The Space Domain is composed of a wide collection of initiatives, each addressing one part of the whole. Each of these initiatives develops their own standards and conventions. Attempts to harmonize across these initiatives are limited.</p>
+        <p class="MsoNormal"><a name="_6482f676-f9bd-d86f-8cd3-a92129b4e3d5" id="_6482f676-f9bd-d86f-8cd3-a92129b4e3d5"></a>While the OGC cannot solve this problem for all disciplines, it can make sure that the concepts of space and time are consistent and interoperable across all communities in the Space Domain. In addition, the OGC can identify emerging Space Domain standards which would impact existing OGC Standards and encourage the impacted SWGs and DWGs to take appropriate action.</p>
+      </div>
+      <div><a name="_charter" id="_charter"></a>
+        <h1>5.<span style="mso-tab-count:1">&#xA0; </span>Charter</h1>
+        <p class="MsoNormal"><a name="_0299cbf8-b39f-e09a-6628-2e5a5ad236b5" id="_0299cbf8-b39f-e09a-6628-2e5a5ad236b5"></a>The scope of the Space Standards DWG is to identify, develop, and promote interoperable spatiotemporal standards for application in non-terrestrial environments.</p>
+        <p class="MsoNormal"><a name="_f87b8995-0a5d-81be-b25e-953d81c5990a" id="_f87b8995-0a5d-81be-b25e-953d81c5990a"></a>The Space Standards DWG will coordinate with standards bodies and working groups both within and outside of the OGC in pursuit of this objective.</p>
+        <div><a name="_charter_members" id="_charter_members"></a><h2>5.1.<span style="mso-tab-count:1">&#xA0; </span>Charter members</h2>
+
+<p class="MsoNormal"><a name="_f1158401-bee4-9658-f1e7-d2f21013b140" id="_f1158401-bee4-9658-f1e7-d2f21013b140"></a>The initial membership of the Space Standards Domain Working Group will consist of the following members and individuals with extensive education and experience in the Space Domain, namely:</p>
+
+<p class="TableTitle" style="text-align:center;">Table 4</p><div align="center" class="table_container"><table class="MsoISOTable" style="mso-table-anchor-horizontal:column;mso-table-overlap:never;border-spacing:0;border-width:1px;"><a name="_a3a5d5c4-72a3-c4d7-3775-5bdcae3c6a91" id="_a3a5d5c4-72a3-c4d7-3775-5bdcae3c6a91"></a><tbody><tr><td valign="middle" align="center" style="border-top:solid windowtext 1.5pt;mso-border-top-alt:solid windowtext 1.5pt;border-bottom:solid windowtext 1.0pt;mso-border-bottom-alt:solid windowtext 1.0pt;">Name</td><td valign="middle" align="center" style="border-top:solid windowtext 1.5pt;mso-border-top-alt:solid windowtext 1.5pt;border-bottom:solid windowtext 1.0pt;mso-border-bottom-alt:solid windowtext 1.0pt;">Email</td><td valign="middle" align="center" style="border-top:solid windowtext 1.5pt;mso-border-top-alt:solid windowtext 1.5pt;border-bottom:solid windowtext 1.0pt;mso-border-bottom-alt:solid windowtext 1.0pt;">Organization</td></tr><tr><td valign="middle" align="left" style="border-top:none;mso-border-top-alt:none;border-bottom:solid windowtext 1.0pt;mso-border-bottom-alt:solid windowtext 1.0pt;">Charles Heazel</td><td valign="middle" align="center" style="border-top:none;mso-border-top-alt:none;border-bottom:solid windowtext 1.0pt;mso-border-bottom-alt:solid windowtext 1.0pt;"><a href="mailto:cheazel@heazeltech.com">cheazel@heazeltech.com</a></td><td valign="middle" align="center" style="border-top:none;mso-border-top-alt:none;border-bottom:solid windowtext 1.0pt;mso-border-bottom-alt:solid windowtext 1.0pt;">Heazeltech</td></tr><tr><td valign="middle" align="left" style="border-top:none;mso-border-top-alt:none;border-bottom:solid windowtext 1.0pt;mso-border-bottom-alt:solid windowtext 1.0pt;">Carl Reed</td><td valign="middle" align="center" style="border-top:none;mso-border-top-alt:none;border-bottom:solid windowtext 1.0pt;mso-border-bottom-alt:solid windowtext 1.0pt;"><a href="mailto:carl.n.reed@gmail.com">carl.n.reed@gmail.com</a></td><td valign="middle" align="center" style="border-top:none;mso-border-top-alt:none;border-bottom:solid windowtext 1.0pt;mso-border-bottom-alt:solid windowtext 1.0pt;">Carl Reed and Associates</td></tr><tr><td valign="middle" align="left" style="border-top:none;mso-border-top-alt:none;border-bottom:solid windowtext 1.0pt;mso-border-bottom-alt:solid windowtext 1.0pt;">Don Sullivan</td><td valign="middle" align="center" style="border-top:none;mso-border-top-alt:none;border-bottom:solid windowtext 1.0pt;mso-border-bottom-alt:solid windowtext 1.0pt;"><a href="mailto:donald.v.sullivan@nasa.gov">donald.v.sullivan@nasa.gov</a></td><td valign="middle" align="center" style="border-top:none;mso-border-top-alt:none;border-bottom:solid windowtext 1.0pt;mso-border-bottom-alt:solid windowtext 1.0pt;">NASA</td></tr><tr><td valign="middle" align="left" style="border-top:none;mso-border-top-alt:none;border-bottom:solid windowtext 1.5pt;mso-border-bottom-alt:solid windowtext 1.5pt;">Danny Vandenbroucke</td><td valign="middle" align="center" style="border-top:none;mso-border-top-alt:none;border-bottom:solid windowtext 1.5pt;mso-border-bottom-alt:solid windowtext 1.5pt;"><a href="mailto:danny.vandenbroucke@kuleuven.be">danny.vandenbroucke@kuleuven.be</a></td><td valign="middle" align="center" style="border-top:none;mso-border-top-alt:none;border-bottom:solid windowtext 1.5pt;mso-border-bottom-alt:solid windowtext 1.5pt;">KU Leuven</td></tr></tbody></table></div>
+</div>
+        <div><a name="_key_activities" id="_key_activities"></a><h2>5.2.<span style="mso-tab-count:1">&#xA0; </span>Key activities</h2>
+
+<p class="MsoNormal"><a name="_00c754b7-a2b9-406d-9851-fd12582b95ff" id="_00c754b7-a2b9-406d-9851-fd12582b95ff"></a>Key activities for the DWG include the following efforts:</p>
+
+<p style="mso-list:l2 level1 lfo3;" class="MsoListParagraphCxSpFirst">Serve as an coordinating body for all OGC Domain Working Groups working in the Space Domain.
+</p>
+<p style="mso-list:l2 level1 lfo3;" class="MsoListParagraphCxSpMiddle">Decompose the Space Domain into a manageable set of sub-domains.
+</p>
+<p style="mso-list:l2 level1 lfo3;" class="MsoListParagraphCxSpMiddle">Identify and document missions in the Space Domain which may have unique standardization requirements.
+</p>
+<p style="mso-list:l2 level1 lfo3;" class="MsoListParagraphCxSpMiddle">Identify and document initiatives which are developing Space standards and conventions.
+</p>
+<p style="mso-list:l2 level1 lfo3;" class="MsoListParagraphCxSpMiddle">Identify opportunities for the OGC to provide spatiotemporal data models, services, design patterns, and other architectural elements which can serve as a common capability across all Space standardization initiatives.
+</p>
+<p style="mso-list:l2 level1 lfo3;" class="MsoListParagraphCxSpMiddle">Stay current on OGC Space related initiatives and be prepared to report on these efforts to other non-OGC initiatives.
+</p>
+<p style="mso-list:l2 level1 lfo3;" class="MsoListParagraphCxSpMiddle">Liaison with Space standardization initiatives as needed to promote commonality in space-time concepts.
+</p>
+<p style="mso-list:l2 level1 lfo3;" class="MsoListParagraphCxSpMiddle">Establish Standards Working Groups as needed to address Space related requirements which are not otherwise being addressed.
+</p>
+<p style="mso-list:l2 level1 lfo3;" class="MsoListParagraphCxSpLast">Establish an on-line glossary of terms and definitions pertaining to Space Standards.
+</p>
+
+</div>
+        <div><a name="_business_case" id="_business_case"></a><h2>5.3.<span style="mso-tab-count:1">&#xA0; </span>Business case</h2>
+
+<p class="MsoNormal"><a name="_7427db9c-ff03-3ade-94ce-8e5980e58a91" id="_7427db9c-ff03-3ade-94ce-8e5980e58a91"></a>The domain for Space Standards is large and diverse. There is a risk that the standards, conventions, and practices arising from these diverse interests will be fragmented and non-interoperable. This Domain Working Group seeks to mitigate that risk by promoting space and time as a common enabling technology for all application communities in the Space Domain.</p>
+</div>
+      </div>
+      <div><a name="_organizational_approach_and_scope_of_work" id="_organizational_approach_and_scope_of_work"></a>
+        <h1>6.<span style="mso-tab-count:1">&#xA0; </span>Organizational approach and scope of work</h1>
+        <div><a name="_business_goals" id="_business_goals"></a><h2>6.1.<span style="mso-tab-count:1">&#xA0; </span>Business goals</h2>
+
+<p class="MsoNormal"><a name="_72f84706-c840-803c-acc5-ffcdb7f1ea95" id="_72f84706-c840-803c-acc5-ffcdb7f1ea95"></a>The Space Standards DWG will address the business case described above by working toward the following goals:</p>
+
+<p style="mso-list:l2 level1 lfo4;" class="MsoListParagraphCxSpFirst">Enable rational discussion of Space Standards by decomposing the Space Domain into more manageable sub-domains and/or mission areas.
+</p>
+<p style="mso-list:l2 level1 lfo4;" class="MsoListParagraphCxSpMiddle">Identify existing Standards and common practices in the Space Domains.
+</p>
+<p style="mso-list:l2 level1 lfo4;" class="MsoListParagraphCxSpMiddle">Establish liaison relations with key initiatives in Space Standards.
+</p>
+<p style="mso-list:l2 level1 lfo4;" class="MsoListParagraphCxSpMiddle">Achieve consensus on concepts for space and time based on OGC Standards.
+</p>
+<p style="mso-list:l2 level1 lfo4;" class="MsoListParagraphCxSpLast">Extend OGC Standards to support missions in the Space Domains.
+</p>
+
+</div>
+        <div><a name="_mission_and_role" id="_mission_and_role"></a><h2>6.2.<span style="mso-tab-count:1">&#xA0; </span>Mission and Role</h2>
+
+<p class="MsoNormal"><a name="_d553558a-2048-56b4-bc61-a26065af19f9" id="_d553558a-2048-56b4-bc61-a26065af19f9"></a>The Space Standards Domain Working Group will serve as a coordinating body for Space Standards, leading to interoperable representations for space and time across all Space Standards.</p>
+</div>
+        <div><a name="_activities_planned_for_space_standards_dwg" id="_activities_planned_for_space_standards_dwg"></a><h2>6.3.<span style="mso-tab-count:1">&#xA0; </span>Activities planned for Space Standards DWG</h2>
+
+<p class="MsoNormal"><a name="_9e37de3b-3f3c-71b7-8cc9-0ecb17886e1e" id="_9e37de3b-3f3c-71b7-8cc9-0ecb17886e1e"></a>The following activities are planned for the Space Standards DWG:</p>
+
+<p style="mso-list:l2 level1 lfo5;" class="MsoListParagraphCxSpFirst">Decompose the Space Domain into sub-domains, potentially including:
+<p style="mso-list:l2 level2 lfo5;" class="MsoListParagraphCxSpFirst">Lunar
+</p>
+<p style="mso-list:l2 level2 lfo5;" class="MsoListParagraphCxSpMiddle">Martian
+</p>
+<p style="mso-list:l2 level2 lfo5;" class="MsoListParagraphCxSpMiddle">Cislunar
+</p>
+<p style="mso-list:l2 level2 lfo5;" class="MsoListParagraphCxSpMiddle">Deep Space
+</p>
+<p style="mso-list:l2 level2 lfo5;" class="MsoListParagraphCxSpLast">Low Earth Orbit
+</p>
+
+</p>
+<p style="mso-list:l2 level1 lfo5;" class="MsoListParagraphCxSpMiddle">Develop a taxonomy of Space Missions including:
+<p style="mso-list:l2 level2 lfo5;" class="MsoListParagraphCxSpFirst">Positioning, Navigation, Timing and Mapping
+<p style="mso-list:l2 level3 lfo5;" class="MsoListParagraphCxSpFirst">Celestial and celestrial body-centric coordinate reference systems
+</p>
+<p style="mso-list:l2 level3 lfo5;" class="MsoListParagraphCxSpMiddle">Celestial mapping
+</p>
+<p style="mso-list:l2 level3 lfo5;" class="MsoListParagraphCxSpMiddle">Timing and time systems
+</p>
+<p style="mso-list:l2 level3 lfo5;" class="MsoListParagraphCxSpMiddle">3D+ positioning
+</p>
+<p style="mso-list:l2 level3 lfo5;" class="MsoListParagraphCxSpMiddle">Navigation within and between coordinate reference systems
+</p>
+<p style="mso-list:l2 level3 lfo5;" class="MsoListParagraphCxSpMiddle">Space gravity mapping
+</p>
+<p style="mso-list:l2 level3 lfo5;" class="MsoListParagraphCxSpLast">Integration of general and special relativity
+</p>
+
+</p>
+<p style="mso-list:l2 level2 lfo5;" class="MsoListParagraphCxSpMiddle">Space Situational Awareness
+<p style="mso-list:l2 level3 lfo5;" class="MsoListParagraphCxSpFirst">Space Traffic Management
+</p>
+<p style="mso-list:l2 level3 lfo5;" class="MsoListParagraphCxSpMiddle">Space debris tracking and removal
+</p>
+<p style="mso-list:l2 level3 lfo5;" class="MsoListParagraphCxSpMiddle">Planetary/asset defense
+</p>
+<p style="mso-list:l2 level3 lfo5;" class="MsoListParagraphCxSpMiddle">Orbit management
+</p>
+<p style="mso-list:l2 level3 lfo5;" class="MsoListParagraphCxSpLast">Radio frequency spectrum management
+</p>
+
+</p>
+<p style="mso-list:l2 level2 lfo5;" class="MsoListParagraphCxSpMiddle">Space Topology
+<p style="mso-list:l2 level3 lfo5;" class="MsoListParagraphCxSpFirst">Space weather
+</p>
+<p style="mso-list:l2 level3 lfo5;" class="MsoListParagraphCxSpMiddle">Space energy
+</p>
+<p style="mso-list:l2 level3 lfo5;" class="MsoListParagraphCxSpMiddle">Interplanetary topology
+</p>
+<p style="mso-list:l2 level3 lfo5;" class="MsoListParagraphCxSpLast">space traffic management
+</p>
+
+</p>
+<p style="mso-list:l2 level2 lfo5;" class="MsoListParagraphCxSpMiddle">Space Assets
+<p style="mso-list:l2 level3 lfo5;" class="MsoListParagraphCxSpFirst">Digital twins / Space infrastructure
+</p>
+<p style="mso-list:l2 level3 lfo5;" class="MsoListParagraphCxSpLast">Inhabitation plans
+</p>
+
+</p>
+<p style="mso-list:l2 level2 lfo5;" class="MsoListParagraphCxSpLast">Space Science
+<p style="mso-list:l2 level3 lfo5;" class="MsoListParagraphCxSpFirst">Astronomy
+</p>
+<p style="mso-list:l2 level3 lfo5;" class="MsoListParagraphCxSpLast">Earth Observation
+</p>
+
+</p>
+
+</p>
+<p style="mso-list:l2 level1 lfo5;" class="MsoListParagraphCxSpMiddle">Identify the information and computational capabilities needed to execute each mission.
+</p>
+<p style="mso-list:l2 level1 lfo5;" class="MsoListParagraphCxSpMiddle">Identify capabilities shared across two or more missions
+</p>
+<p style="mso-list:l2 level1 lfo5;" class="MsoListParagraphCxSpMiddle">Identify existing standards or standards development initiatives to address each capability
+</p>
+<p style="mso-list:l2 level1 lfo5;" class="MsoListParagraphCxSpMiddle">Evaluate the body of standards for consistency, interoperability, and completeness
+</p>
+<p style="mso-list:l2 level1 lfo5;" class="MsoListParagraphCxSpMiddle">Propose the formation of OGC Standards Working Groups as needed to address gaps in the body of Space standards.
+</p>
+<p style="mso-list:l2 level1 lfo5;" class="MsoListParagraphCxSpMiddle">Engage with Space Standards development organizations in an attempt to better integrate Space Standards.
+</p>
+<p style="mso-list:l2 level1 lfo5;" class="MsoListParagraphCxSpLast">Serve as the Standards Development Organization (SDO) for Space Standards that were not developed by a formal SDO.
+</p>
+
+
+<p class="MsoNormal"><a name="_ec3c2c8f-694b-c2b0-b7f7-5d4323660934" id="_ec3c2c8f-694b-c2b0-b7f7-5d4323660934"></a>It is anticipated that a Reference Architecture will be required to support these tasks. Development of that Reference Architecture may be performed under this charter.</p>
+</div>
+      </div>
+      <div><a name="_definitions" id="_definitions"></a>
+        <h1>7.<span style="mso-tab-count:1">&#xA0; </span>Definitions</h1>
+        <p class="MsoNormal"><a name="_6fc55e1a-9160-2fb5-4a96-0ddea2e44a9c" id="_6fc55e1a-9160-2fb5-4a96-0ddea2e44a9c"></a>The following definitions apply to terms used in this Charter:</p>
+        <p class="MsoNormal"><a name="_88a718eb-88f2-9963-85d7-b2fa36b66f5f" id="_88a718eb-88f2-9963-85d7-b2fa36b66f5f"></a>Space Domain: an information community which encompasses the area above the altitude where atmospheric effects on airborne objects become negligible <a href="https://www.jcs.mil/Portals/36/Documents/Doctrine/pubs/jp3_14ch1.pdf?ver=GfzdjuluCyyHDS9D_RtkNA%3D%3D">Space Operations, Joint Publication 3-14</a>.</p>
+        <p class="MsoNormal"><a name="_832a3f34-58e1-9207-2737-aa703eb71283" id="_832a3f34-58e1-9207-2737-aa703eb71283"></a>Cislunar: the large region of space in the Earth-Moon system beyond geosynchronous (GEO) orbit, including the Moon (<a href="https://www.whitehouse.gov/ostp/news-updates/2022/11/17/fact-sheet-first-national-cislunar-science-technology-strategy/">FACT SHEET: First National Cislunar Science &amp; Technology Strategy</a>)</p>
+      </div>
+    </div>
+  <div style="mso-element:footnote-list"/></body>
+</html>
+
+
+------=_NextPart_2de7e8e5.429f.41f3
+Content-ID: <filelist.xml>
+Content-Disposition: inline; filename="filelist.xml"
+Content-Transfer-Encoding: base64
+Content-Type: application/xml
+
+PHhtbCB4bWxuczpvPSJ1cm46c2NoZW1hcy1taWNyb3NvZnQtY29tOm9mZmljZTpvZmZpY2UiPgog
+ICAgICAgIDxvOk1haW5GaWxlIEhSZWY9Ii4uLy9tZXRhbm9ybWEvU3BhY2VfU3RhbmRhcmRzX0RX
+R19DaGFydGVyLmh0bSIvPiAgPG86RmlsZSBIUmVmPSJmaWxlbGlzdC54bWwiLz4KICA8bzpGaWxl
+IEhSZWY9ImhlYWRlci5odG1sIi8+CjwveG1sPgo=
+
+------=_NextPart_2de7e8e5.429f.41f3
+Content-ID: <header.html>
+Content-Disposition: inline; filename="header.html"
+Content-Transfer-Encoding: base64
+Content-Type: text/html charset="utf-8"
+
+PGh0bWwgeG1sbnM6dj0idXJuOnNjaGVtYXMtbWljcm9zb2Z0LWNvbTp2bWwiDQp4bWxuczpvPSJ1
+cm46c2NoZW1hcy1taWNyb3NvZnQtY29tOm9mZmljZTpvZmZpY2UiDQp4bWxuczp3PSJ1cm46c2No
+ZW1hcy1taWNyb3NvZnQtY29tOm9mZmljZTp3b3JkIg0KeG1sbnM6bT0iaHR0cDovL3NjaGVtYXMu
+bWljcm9zb2Z0LmNvbS9vZmZpY2UvMjAwNC8xMi9vbW1sIg0KeG1sbnM6bXY9Imh0dHA6Ly9tYWNW
+bWxTY2hlbWFVcmkiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy9UUi9SRUMtaHRtbDQwIj4NCg0K
+PGhlYWQ+DQo8bWV0YSBuYW1lPVRpdGxlIGNvbnRlbnQ9IiI+DQo8bWV0YSBuYW1lPUtleXdvcmRz
+IGNvbnRlbnQ9IiI+DQo8bWV0YSBodHRwLWVxdWl2PUNvbnRlbnQtVHlwZSBjb250ZW50PSJ0ZXh0
+L2h0bWw7IGNoYXJzZXQ9dXRmLTgiPg0KPG1ldGEgbmFtZT1Qcm9nSWQgY29udGVudD1Xb3JkLkRv
+Y3VtZW50Pg0KPG1ldGEgbmFtZT1HZW5lcmF0b3IgY29udGVudD0iTWljcm9zb2Z0IFdvcmQgMTUi
+Pg0KPG1ldGEgbmFtZT1PcmlnaW5hdG9yIGNvbnRlbnQ9Ik1pY3Jvc29mdCBXb3JkIDE1Ij4NCjxs
+aW5rIGlkPU1haW4tRmlsZSByZWw9TWFpbi1GaWxlIGhyZWY9Ii4uLy9tZXRhbm9ybWEvU3BhY2Vf
+U3RhbmRhcmRzX0RXR19DaGFydGVyLmh0bWwiPg0KPCEtLVtpZiBndGUgbXNvIDldPjx4bWw+DQog
+PG86c2hhcGVkZWZhdWx0cyB2OmV4dD0iZWRpdCIgc3BpZG1heD0iMjA0OSIvPg0KPC94bWw+PCFb
+ZW5kaWZdLS0+DQo8L2hlYWQ+DQoNCjxib2R5IGxhbmc9RU4gbGluaz1ibHVlIHZsaW5rPSIjOTU0
+RjcyIj4NCg0KPGRpdiBzdHlsZT0nbXNvLWVsZW1lbnQ6Zm9vdG5vdGUtc2VwYXJhdG9yJyBpZD1m
+cz4NCg0KPHAgY2xhc3M9TXNvTm9ybWFsIHN0eWxlPSdtYXJnaW4tYm90dG9tOjBjbTttYXJnaW4t
+Ym90dG9tOi4wMDAxcHQ7bGluZS1oZWlnaHQ6DQpub3JtYWwnPjxzcGFuIGxhbmc9RU4tR0I+PHNw
+YW4gc3R5bGU9J21zby1zcGVjaWFsLWNoYXJhY3Rlcjpmb290bm90ZS1zZXBhcmF0b3InPjwhW2lm
+ICFzdXBwb3J0Rm9vdG5vdGVzXT4NCg0KPGhyIGFsaWduPWxlZnQgc2l6ZT0xIHdpZHRoPSIzMyUi
+Pg0KDQo8IVtlbmRpZl0+PC9zcGFuPjwvc3Bhbj48L3A+DQoNCjwvZGl2Pg0KDQo8ZGl2IHN0eWxl
+PSdtc28tZWxlbWVudDpmb290bm90ZS1jb250aW51YXRpb24tc2VwYXJhdG9yJyBpZD1mY3M+DQoN
+CjxwIGNsYXNzPU1zb05vcm1hbCBzdHlsZT0nbWFyZ2luLWJvdHRvbTowY207bWFyZ2luLWJvdHRv
+bTouMDAwMXB0O2xpbmUtaGVpZ2h0Og0Kbm9ybWFsJz48c3BhbiBsYW5nPUVOLUdCPjxzcGFuIHN0
+eWxlPSdtc28tc3BlY2lhbC1jaGFyYWN0ZXI6Zm9vdG5vdGUtY29udGludWF0aW9uLXNlcGFyYXRv
+cic+PCFbaWYgIXN1cHBvcnRGb290bm90ZXNdPg0KDQo8aHIgYWxpZ249bGVmdCBzaXplPTE+DQoN
+CjwhW2VuZGlmXT48L3NwYW4+PC9zcGFuPjwvcD4NCg0KPC9kaXY+DQoNCjxkaXYgc3R5bGU9J21z
+by1lbGVtZW50OmVuZG5vdGUtc2VwYXJhdG9yJyBpZD1lcz4NCg0KPHAgY2xhc3M9TXNvTm9ybWFs
+IHN0eWxlPSdtYXJnaW4tYm90dG9tOjBjbTttYXJnaW4tYm90dG9tOi4wMDAxcHQ7bGluZS1oZWln
+aHQ6DQpub3JtYWwnPjxzcGFuIGxhbmc9RU4tR0I+PHNwYW4gc3R5bGU9J21zby1zcGVjaWFsLWNo
+YXJhY3Rlcjpmb290bm90ZS1zZXBhcmF0b3InPjwhW2lmICFzdXBwb3J0Rm9vdG5vdGVzXT4NCg0K
+PGhyIGFsaWduPWxlZnQgc2l6ZT0xIHdpZHRoPSIzMyUiPg0KDQo8IVtlbmRpZl0+PC9zcGFuPjwv
+c3Bhbj48L3A+DQoNCjwvZGl2Pg0KDQo8ZGl2IHN0eWxlPSdtc28tZWxlbWVudDplbmRub3RlLWNv
+bnRpbnVhdGlvbi1zZXBhcmF0b3InIGlkPWVjcz4NCg0KPHAgY2xhc3M9TXNvTm9ybWFsIHN0eWxl
+PSdtYXJnaW4tYm90dG9tOjBjbTttYXJnaW4tYm90dG9tOi4wMDAxcHQ7bGluZS1oZWlnaHQ6DQpu
+b3JtYWwnPjxzcGFuIGxhbmc9RU4tR0I+PHNwYW4gc3R5bGU9J21zby1zcGVjaWFsLWNoYXJhY3Rl
+cjpmb290bm90ZS1jb250aW51YXRpb24tc2VwYXJhdG9yJz48IVtpZiAhc3VwcG9ydEZvb3Rub3Rl
+c10+DQoNCjxociBhbGlnbj1sZWZ0IHNpemU9MT4NCg0KPCFbZW5kaWZdPjwvc3Bhbj48L3NwYW4+
+PC9wPg0KDQo8L2Rpdj4NCg0KPGRpdiBzdHlsZT0nbXNvLWVsZW1lbnQ6aGVhZGVyJyBpZD1laDE+
+DQoNCjxwIGNsYXNzPU1zb0hlYWRlciBhbGlnbj1sZWZ0IHN0eWxlPSd0ZXh0LWFsaWduOmxlZnQ7
+bGluZS1oZWlnaHQ6MTIuMHB0Ow0KbXNvLWxpbmUtaGVpZ2h0LXJ1bGU6ZXhhY3RseSc+PHNwYW4g
+bGFuZz1FTi1HQj5PcGVuIEdlb3NwYXRpYWwgQ29uc29ydGl1bSZuYnNwOzwvc3Bhbj48L3A+DQoN
+CjwvZGl2Pg0KDQo8ZGl2IHN0eWxlPSdtc28tZWxlbWVudDpoZWFkZXInIGlkPWgxPg0KDQo8cCBj
+bGFzcz1Nc29IZWFkZXIgc3R5bGU9J21hcmdpbi1ib3R0b206MTguMHB0Jz48c3BhbiBsYW5nPUVO
+LUdCDQpzdHlsZT0nZm9udC1zaXplOjEwLjBwdDttc28tYmlkaS1mb250LXNpemU6MTEuMHB0O2Zv
+bnQtd2VpZ2h0Om5vcm1hbCc+DQpPcGVuIEdlb3NwYXRpYWwgQ29uc29ydGl1bSZuYnNwOzwvc3Bh
+bj48c3BhbiBsYW5nPUVOLUdCDQpzdHlsZT0nZm9udC13ZWlnaHQ6bm9ybWFsJz48bzpwPjwvbzpw
+Pjwvc3Bhbj48L3A+DQoNCjwvZGl2Pg0KDQo8ZGl2IHN0eWxlPSdtc28tZWxlbWVudDpmb290ZXIn
+IGlkPWVmMT4NCg0KPHAgY2xhc3M9TXNvRm9vdGVyIHN0eWxlPSdtYXJnaW4tdG9wOjEyLjBwdDts
+aW5lLWhlaWdodDoxMi4wcHQ7bXNvLWxpbmUtaGVpZ2h0LXJ1bGU6DQpleGFjdGx5Jz48IS0tW2lm
+IHN1cHBvcnRGaWVsZHNdPjxiIHN0eWxlPSdtc28tYmlkaS1mb250LXdlaWdodDpub3JtYWwnPjxz
+cGFuDQpsYW5nPUVOLUdCIHN0eWxlPSdmb250LXNpemU6MTAuMHB0O21zby1iaWRpLWZvbnQtc2l6
+ZToxMS4wcHQnPjxzcGFuDQpzdHlsZT0nbXNvLWVsZW1lbnQ6ZmllbGQtYmVnaW4nPjwvc3Bhbj48
+c3Bhbg0Kc3R5bGU9J21zby1zcGFjZXJ1bjp5ZXMnPsKgPC9zcGFuPlBBR0U8c3BhbiBzdHlsZT0n
+bXNvLXNwYWNlcnVuOnllcyc+wqDCoA0KPC9zcGFuPlwqIE1FUkdFRk9STUFUIDxzcGFuIHN0eWxl
+PSdtc28tZWxlbWVudDpmaWVsZC1zZXBhcmF0b3InPjwvc3Bhbj48L3NwYW4+PC9iPjwhW2VuZGlm
+XS0tPjxiDQpzdHlsZT0nbXNvLWJpZGktZm9udC13ZWlnaHQ6bm9ybWFsJz48c3BhbiBsYW5nPUVO
+LUdCIHN0eWxlPSdmb250LXNpemU6MTAuMHB0Ow0KbXNvLWJpZGktZm9udC1zaXplOjExLjBwdCc+
+PHNwYW4gc3R5bGU9J21zby1uby1wcm9vZjp5ZXMnPjI8L3NwYW4+PC9zcGFuPjwvYj48IS0tW2lm
+IHN1cHBvcnRGaWVsZHNdPjxiDQpzdHlsZT0nbXNvLWJpZGktZm9udC13ZWlnaHQ6bm9ybWFsJz48
+c3BhbiBsYW5nPUVOLUdCIHN0eWxlPSdmb250LXNpemU6MTAuMHB0Ow0KbXNvLWJpZGktZm9udC1z
+aXplOjExLjBwdCc+PHNwYW4gc3R5bGU9J21zby1lbGVtZW50OmZpZWxkLWVuZCc+PC9zcGFuPjwv
+c3Bhbj48L2I+PCFbZW5kaWZdLS0+PHNwYW4NCmxhbmc9RU4tR0Igc3R5bGU9J2ZvbnQtc2l6ZTox
+MC4wcHQ7bXNvLWJpZGktZm9udC1zaXplOjExLjBwdCc+PHNwYW4NCnN0eWxlPSdtc28tdGFiLWNv
+dW50OjEnPsKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqAgPC9zcGFuPsKpIE9wZW4gR2Vvc3BhdGlhbCBDb25zb3J0aXVtJm5ic3A7MjAyNCDigJMg
+QWxsIHJpZ2h0cyByZXNlcnZlZDxvOnA+PC9vOnA+PC9zcGFuPjwvcD4NCg0KPC9kaXY+DQoNCjxk
+aXYgc3R5bGU9J21zby1lbGVtZW50OmhlYWRlcicgaWQ9ZWgyPg0KPHAgY2xhc3M9TXNvSGVhZGVy
+IGFsaWduPWxlZnQgc3R5bGU9J3RleHQtYWxpZ246bGVmdDtsaW5lLWhlaWdodDoxMi4wcHQ7DQpt
+c28tbGluZS1oZWlnaHQtcnVsZTpleGFjdGx5Jz48c3BhbiBsYW5nPUVOLUdCPk9wZW4gR2Vvc3Bh
+dGlhbCBDb25zb3J0aXVtJm5ic3A7PC9zcGFuPjwvcD4NCjwvZGl2Pg0KDQo8ZGl2IHN0eWxlPSdt
+c28tZWxlbWVudDpoZWFkZXInIGlkPWVoMmw+DQo8cCBjbGFzcz1Nc29IZWFkZXJMYW5kc2NhcGUg
+YWxpZ249bGVmdCBzdHlsZT0ndGV4dC1hbGlnbjpsZWZ0O2xpbmUtaGVpZ2h0OjEyLjBwdDsNCm1z
+by1saW5lLWhlaWdodC1ydWxlOmV4YWN0bHknPjxzcGFuIGxhbmc9RU4tR0I+T3BlbiBHZW9zcGF0
+aWFsIENvbnNvcnRpdW0mbmJzcDs8L3NwYW4+PC9wPg0KPC9kaXY+DQoNCjxkaXYgc3R5bGU9J21z
+by1lbGVtZW50OmhlYWRlcicgaWQ9aDI+DQo8cCBjbGFzcz1Nc29IZWFkZXIgYWxpZ249cmlnaHQg
+c3R5bGU9J3RleHQtYWxpZ246cmlnaHQ7bGluZS1oZWlnaHQ6MTIuMHB0Ow0KbXNvLWxpbmUtaGVp
+Z2h0LXJ1bGU6ZXhhY3RseSc+PHNwYW4gbGFuZz1FTi1HQj5PcGVuIEdlb3NwYXRpYWwgQ29uc29y
+dGl1bSZuYnNwOzwvc3Bhbj48L3A+DQo8L2Rpdj4NCg0KPGRpdiBzdHlsZT0nbXNvLWVsZW1lbnQ6
+aGVhZGVyJyBpZD1oMmw+DQo8cCBjbGFzcz1Nc29IZWFkZXJMYW5kc2NhcGUgYWxpZ249cmlnaHQg
+c3R5bGU9J3RleHQtYWxpZ246cmlnaHQ7bGluZS1oZWlnaHQ6MTIuMHB0Ow0KbXNvLWxpbmUtaGVp
+Z2h0LXJ1bGU6ZXhhY3RseSc+PHNwYW4gbGFuZz1FTi1HQj5PcGVuIEdlb3NwYXRpYWwgQ29uc29y
+dGl1bSZuYnNwOzwvc3Bhbj48L3A+DQo8L2Rpdj4NCg0KPGRpdiBzdHlsZT0nbXNvLWVsZW1lbnQ6
+Zm9vdGVyJyBpZD1lZjI+DQo8cCBjbGFzcz1Nc29Gb290ZXIgc3R5bGU9J2xpbmUtaGVpZ2h0OjEy
+LjBwdDttc28tbGluZS1oZWlnaHQtcnVsZTpleGFjdGx5Jz48IS0tW2lmIHN1cHBvcnRGaWVsZHNd
+PjxzcGFuDQpsYW5nPUVOLUdCIHN0eWxlPSdmb250LXNpemU6MTAuMHB0O21zby1iaWRpLWZvbnQt
+c2l6ZToxMS4wcHQnPjxzcGFuDQpzdHlsZT0nbXNvLWVsZW1lbnQ6ZmllbGQtYmVnaW4nPjwvc3Bh
+bj48c3Bhbg0Kc3R5bGU9J21zby1zcGFjZXJ1bjp5ZXMnPsKgPC9zcGFuPlBBR0U8c3BhbiBzdHls
+ZT0nbXNvLXNwYWNlcnVuOnllcyc+wqDCoA0KPC9zcGFuPlwqIE1FUkdFRk9STUFUIDxzcGFuIHN0
+eWxlPSdtc28tZWxlbWVudDpmaWVsZC1zZXBhcmF0b3InPjwvc3Bhbj48L3NwYW4+PCFbZW5kaWZd
+LS0+PHNwYW4NCmxhbmc9RU4tR0Igc3R5bGU9J2ZvbnQtc2l6ZToxMC4wcHQ7bXNvLWJpZGktZm9u
+dC1zaXplOjExLjBwdCc+PHNwYW4NCnN0eWxlPSdtc28tbm8tcHJvb2Y6eWVzJz5paTwvc3Bhbj48
+L3NwYW4+PCEtLVtpZiBzdXBwb3J0RmllbGRzXT48c3Bhbg0KbGFuZz1FTi1HQiBzdHlsZT0nZm9u
+dC1zaXplOjEwLjBwdDttc28tYmlkaS1mb250LXNpemU6MTEuMHB0Jz48c3Bhbg0Kc3R5bGU9J21z
+by1lbGVtZW50OmZpZWxkLWVuZCc+PC9zcGFuPjwvc3Bhbj48IVtlbmRpZl0tLT48c3BhbiBsYW5n
+PUVOLUdCDQpzdHlsZT0nZm9udC1zaXplOjEwLjBwdDttc28tYmlkaS1mb250LXNpemU6MTEuMHB0
+Jz48c3BhbiANCnN0eWxlPSdtc28tdGFiLWNvdW50OjEnPsKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqAgPC9zcGFuPsKpIE9wZW4gR2Vvc3BhdGlh
+bCBDb25zb3J0aXVtJm5ic3A7MjAyNCZuYnNwO+KAkyBBbGwgcmlnaHRzIHJlc2VydmVkPG86cD48
+L286cD48L3NwYW4+PC9wPg0KDQo8L2Rpdj4NCg0KPGRpdiBzdHlsZT0nbXNvLWVsZW1lbnQ6Zm9v
+dGVyJyBpZD1lZjJsPg0KPHAgY2xhc3M9TXNvRm9vdGVyTGFuZHNjYXBlIHN0eWxlPSdsaW5lLWhl
+aWdodDoxMi4wcHQ7bXNvLWxpbmUtaGVpZ2h0LXJ1bGU6ZXhhY3RseSc+PCEtLVtpZiBzdXBwb3J0
+RmllbGRzXT48c3Bhbg0KbGFuZz1FTi1HQiBzdHlsZT0nZm9udC1zaXplOjEwLjBwdDttc28tYmlk
+aS1mb250LXNpemU6MTEuMHB0Jz48c3Bhbg0Kc3R5bGU9J21zby1lbGVtZW50OmZpZWxkLWJlZ2lu
+Jz48L3NwYW4+PHNwYW4NCnN0eWxlPSdtc28tc3BhY2VydW46eWVzJz7CoDwvc3Bhbj5QQUdFPHNw
+YW4gc3R5bGU9J21zby1zcGFjZXJ1bjp5ZXMnPsKgwqANCjwvc3Bhbj5cKiBNRVJHRUZPUk1BVCA8
+c3BhbiBzdHlsZT0nbXNvLWVsZW1lbnQ6ZmllbGQtc2VwYXJhdG9yJz48L3NwYW4+PC9zcGFuPjwh
+W2VuZGlmXS0tPjxzcGFuDQpsYW5nPUVOLUdCIHN0eWxlPSdmb250LXNpemU6MTAuMHB0O21zby1i
+aWRpLWZvbnQtc2l6ZToxMS4wcHQnPjxzcGFuDQpzdHlsZT0nbXNvLW5vLXByb29mOnllcyc+aWk8
+L3NwYW4+PC9zcGFuPjwhLS1baWYgc3VwcG9ydEZpZWxkc10+PHNwYW4NCmxhbmc9RU4tR0Igc3R5
+bGU9J2ZvbnQtc2l6ZToxMC4wcHQ7bXNvLWJpZGktZm9udC1zaXplOjExLjBwdCc+PHNwYW4NCnN0
+eWxlPSdtc28tZWxlbWVudDpmaWVsZC1lbmQnPjwvc3Bhbj48L3NwYW4+PCFbZW5kaWZdLS0+PHNw
+YW4gbGFuZz1FTi1HQg0Kc3R5bGU9J2ZvbnQtc2l6ZToxMC4wcHQ7bXNvLWJpZGktZm9udC1zaXpl
+OjExLjBwdCc+PHNwYW4gDQpzdHlsZT0nbXNvLXRhYi1jb3VudDoxJz7CoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgIDwvc3Bhbj7CqSBPcGVuIEdl
+b3NwYXRpYWwgQ29uc29ydGl1bSZuYnNwOzIwMjQmbmJzcDvigJMgQWxsIHJpZ2h0cyByZXNlcnZl
+ZDxvOnA+PC9vOnA+PC9zcGFuPjwvcD4NCg0KPC9kaXY+DQoNCjxkaXYgc3R5bGU9J21zby1lbGVt
+ZW50OmZvb3RlcicgaWQ9ZjI+DQo8cCBjbGFzcz1Nc29Gb290ZXIgc3R5bGU9J2xpbmUtaGVpZ2h0
+OjEyLjBwdCc+PHNwYW4gbGFuZz1FTi1HQg0Kc3R5bGU9J2ZvbnQtc2l6ZToxMC4wcHQ7bXNvLWJp
+ZGktZm9udC1zaXplOjExLjBwdCc+wqkgT3BlbiBHZW9zcGF0aWFsIENvbnNvcnRpdW0mbmJzcDsy
+MDI0Jm5ic3A74oCTIEFsbA0KcmlnaHRzIHJlc2VydmVkPHNwYW4gc3R5bGU9J21zby10YWItY291
+bnQ6MSc+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqAgPC9zcGFuPjwvc3Bhbj48IS0tW2lmIHN1cHBvcnRGaWVsZHNdPjxzcGFuDQpsYW5nPUVOLUdC
+IHN0eWxlPSdmb250LXNpemU6MTAuMHB0O21zby1iaWRpLWZvbnQtc2l6ZToxMS4wcHQnPjxzcGFu
+DQpzdHlsZT0nbXNvLWVsZW1lbnQ6ZmllbGQtYmVnaW4nPjwvc3Bhbj4gUEFHRTxzcGFuIHN0eWxl
+PSdtc28tc3BhY2VydW46eWVzJz7CoMKgDQo8L3NwYW4+XCogTUVSR0VGT1JNQVQgPHNwYW4gc3R5
+bGU9J21zby1lbGVtZW50OmZpZWxkLXNlcGFyYXRvcic+PC9zcGFuPjwvc3Bhbj48IVtlbmRpZl0t
+LT48c3Bhbg0KbGFuZz1FTi1HQiBzdHlsZT0nZm9udC1zaXplOjEwLjBwdDttc28tYmlkaS1mb250
+LXNpemU6MTEuMHB0Jz48c3Bhbg0Kc3R5bGU9J21zby1uby1wcm9vZjp5ZXMnPmlpaTwvc3Bhbj48
+L3NwYW4+PCEtLVtpZiBzdXBwb3J0RmllbGRzXT48c3Bhbg0KbGFuZz1FTi1HQiBzdHlsZT0nZm9u
+dC1zaXplOjEwLjBwdDttc28tYmlkaS1mb250LXNpemU6MTEuMHB0Jz48c3Bhbg0Kc3R5bGU9J21z
+by1lbGVtZW50OmZpZWxkLWVuZCc+PC9zcGFuPjwvc3Bhbj48IVtlbmRpZl0tLT48c3BhbiBsYW5n
+PUVOLUdCDQpzdHlsZT0nZm9udC1zaXplOjEwLjBwdDttc28tYmlkaS1mb250LXNpemU6MTEuMHB0
+Jz48bzpwPjwvbzpwPjwvc3Bhbj48L3A+DQo8L2Rpdj4NCg0KPGRpdiBzdHlsZT0nbXNvLWVsZW1l
+bnQ6Zm9vdGVyJyBpZD1mMmw+DQo8cCBjbGFzcz1Nc29Gb290ZXJMYW5kc2NhcGUgc3R5bGU9J2xp
+bmUtaGVpZ2h0OjEyLjBwdCc+PHNwYW4gbGFuZz1FTi1HQg0Kc3R5bGU9J2ZvbnQtc2l6ZToxMC4w
+cHQ7bXNvLWJpZGktZm9udC1zaXplOjExLjBwdCc+wqkgT3BlbiBHZW9zcGF0aWFsIENvbnNvcnRp
+dW0mbmJzcDsyMDI0Jm5ic3A74oCTIEFsbA0KcmlnaHRzIHJlc2VydmVkPHNwYW4gc3R5bGU9J21z
+by10YWItY291bnQ6MSc+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqAgPC9zcGFuPjwvc3Bhbj48IS0tW2lmIHN1cHBvcnRGaWVsZHNdPjxzcGFuDQps
+YW5nPUVOLUdCIHN0eWxlPSdmb250LXNpemU6MTAuMHB0O21zby1iaWRpLWZvbnQtc2l6ZToxMS4w
+cHQnPjxzcGFuDQpzdHlsZT0nbXNvLWVsZW1lbnQ6ZmllbGQtYmVnaW4nPjwvc3Bhbj4gUEFHRTxz
+cGFuIHN0eWxlPSdtc28tc3BhY2VydW46eWVzJz7CoMKgDQo8L3NwYW4+XCogTUVSR0VGT1JNQVQg
+PHNwYW4gc3R5bGU9J21zby1lbGVtZW50OmZpZWxkLXNlcGFyYXRvcic+PC9zcGFuPjwvc3Bhbj48
+IVtlbmRpZl0tLT48c3Bhbg0KbGFuZz1FTi1HQiBzdHlsZT0nZm9udC1zaXplOjEwLjBwdDttc28t
+YmlkaS1mb250LXNpemU6MTEuMHB0Jz48c3Bhbg0Kc3R5bGU9J21zby1uby1wcm9vZjp5ZXMnPmlp
+aTwvc3Bhbj48L3NwYW4+PCEtLVtpZiBzdXBwb3J0RmllbGRzXT48c3Bhbg0KbGFuZz1FTi1HQiBz
+dHlsZT0nZm9udC1zaXplOjEwLjBwdDttc28tYmlkaS1mb250LXNpemU6MTEuMHB0Jz48c3Bhbg0K
+c3R5bGU9J21zby1lbGVtZW50OmZpZWxkLWVuZCc+PC9zcGFuPjwvc3Bhbj48IVtlbmRpZl0tLT48
+c3BhbiBsYW5nPUVOLUdCDQpzdHlsZT0nZm9udC1zaXplOjEwLjBwdDttc28tYmlkaS1mb250LXNp
+emU6MTEuMHB0Jz48bzpwPjwvbzpwPjwvc3Bhbj48L3A+DQo8L2Rpdj4NCg0KPGRpdiBzdHlsZT0n
+bXNvLWVsZW1lbnQ6Zm9vdGVyJyBpZD1lZjM+DQo8cCBjbGFzcz1Nc29Gb290ZXIgc3R5bGU9J21h
+cmdpbi10b3A6MTIuMHB0O2xpbmUtaGVpZ2h0OjEyLjBwdDttc28tbGluZS1oZWlnaHQtcnVsZToN
+CmV4YWN0bHknPjwhLS1baWYgc3VwcG9ydEZpZWxkc10+PGIgc3R5bGU9J21zby1iaWRpLWZvbnQt
+d2VpZ2h0Om5vcm1hbCc+PHNwYW4NCmxhbmc9RU4tR0Igc3R5bGU9J2ZvbnQtc2l6ZToxMC4wcHQ7
+bXNvLWJpZGktZm9udC1zaXplOjExLjBwdCc+PHNwYW4NCnN0eWxlPSdtc28tZWxlbWVudDpmaWVs
+ZC1iZWdpbic+PC9zcGFuPjxzcGFuDQpzdHlsZT0nbXNvLXNwYWNlcnVuOnllcyc+wqA8L3NwYW4+
+UEFHRTxzcGFuIHN0eWxlPSdtc28tc3BhY2VydW46eWVzJz7CoMKgDQo8L3NwYW4+XCogTUVSR0VG
+T1JNQVQgPHNwYW4gc3R5bGU9J21zby1lbGVtZW50OmZpZWxkLXNlcGFyYXRvcic+PC9zcGFuPjwv
+c3Bhbj48L2I+PCFbZW5kaWZdLS0+PGINCnN0eWxlPSdtc28tYmlkaS1mb250LXdlaWdodDpub3Jt
+YWwnPjxzcGFuIGxhbmc9RU4tR0Igc3R5bGU9J2ZvbnQtc2l6ZToxMC4wcHQ7DQptc28tYmlkaS1m
+b250LXNpemU6MTEuMHB0Jz48c3BhbiBzdHlsZT0nbXNvLW5vLXByb29mOnllcyc+Mjwvc3Bhbj48
+L3NwYW4+PC9iPjwhLS1baWYgc3VwcG9ydEZpZWxkc10+PGINCnN0eWxlPSdtc28tYmlkaS1mb250
+LXdlaWdodDpub3JtYWwnPjxzcGFuIGxhbmc9RU4tR0Igc3R5bGU9J2ZvbnQtc2l6ZToxMC4wcHQ7
+DQptc28tYmlkaS1mb250LXNpemU6MTEuMHB0Jz48c3BhbiBzdHlsZT0nbXNvLWVsZW1lbnQ6Zmll
+bGQtZW5kJz48L3NwYW4+PC9zcGFuPjwvYj48IVtlbmRpZl0tLT48c3Bhbg0KbGFuZz1FTi1HQiBz
+dHlsZT0nZm9udC1zaXplOjEwLjBwdDttc28tYmlkaS1mb250LXNpemU6MTEuMHB0Jz48c3Bhbg0K
+c3R5bGU9J21zby10YWItY291bnQ6MSc+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoCA8L3NwYW4+wqkgT3BlbiBHZW9zcGF0aWFsIENvbnNvcnRp
+dW0mbmJzcDsyMDI0Jm5ic3A74oCTIEFsbCByaWdodHMgcmVzZXJ2ZWQ8bzpwPjwvbzpwPjwvc3Bh
+bj48L3A+DQoNCjwvZGl2Pg0KDQo8ZGl2IHN0eWxlPSdtc28tZWxlbWVudDpmb290ZXInIGlkPWVm
+M2w+DQo8cCBjbGFzcz1Nc29Gb290ZXJMYW5kc2NhcGUgc3R5bGU9J21hcmdpbi10b3A6MTIuMHB0
+O2xpbmUtaGVpZ2h0OjEyLjBwdDttc28tbGluZS1oZWlnaHQtcnVsZToNCmV4YWN0bHknPjwhLS1b
+aWYgc3VwcG9ydEZpZWxkc10+PGIgc3R5bGU9J21zby1iaWRpLWZvbnQtd2VpZ2h0Om5vcm1hbCc+
+PHNwYW4NCmxhbmc9RU4tR0Igc3R5bGU9J2ZvbnQtc2l6ZToxMC4wcHQ7bXNvLWJpZGktZm9udC1z
+aXplOjExLjBwdCc+PHNwYW4NCnN0eWxlPSdtc28tZWxlbWVudDpmaWVsZC1iZWdpbic+PC9zcGFu
+PjxzcGFuDQpzdHlsZT0nbXNvLXNwYWNlcnVuOnllcyc+wqA8L3NwYW4+UEFHRTxzcGFuIHN0eWxl
+PSdtc28tc3BhY2VydW46eWVzJz7CoMKgDQo8L3NwYW4+XCogTUVSR0VGT1JNQVQgPHNwYW4gc3R5
+bGU9J21zby1lbGVtZW50OmZpZWxkLXNlcGFyYXRvcic+PC9zcGFuPjwvc3Bhbj48L2I+PCFbZW5k
+aWZdLS0+PGINCnN0eWxlPSdtc28tYmlkaS1mb250LXdlaWdodDpub3JtYWwnPjxzcGFuIGxhbmc9
+RU4tR0Igc3R5bGU9J2ZvbnQtc2l6ZToxMC4wcHQ7DQptc28tYmlkaS1mb250LXNpemU6MTEuMHB0
+Jz48c3BhbiBzdHlsZT0nbXNvLW5vLXByb29mOnllcyc+Mjwvc3Bhbj48L3NwYW4+PC9iPjwhLS1b
+aWYgc3VwcG9ydEZpZWxkc10+PGINCnN0eWxlPSdtc28tYmlkaS1mb250LXdlaWdodDpub3JtYWwn
+PjxzcGFuIGxhbmc9RU4tR0Igc3R5bGU9J2ZvbnQtc2l6ZToxMC4wcHQ7DQptc28tYmlkaS1mb250
+LXNpemU6MTEuMHB0Jz48c3BhbiBzdHlsZT0nbXNvLWVsZW1lbnQ6ZmllbGQtZW5kJz48L3NwYW4+
+PC9zcGFuPjwvYj48IVtlbmRpZl0tLT48c3Bhbg0KbGFuZz1FTi1HQiBzdHlsZT0nZm9udC1zaXpl
+OjEwLjBwdDttc28tYmlkaS1mb250LXNpemU6MTEuMHB0Jz48c3Bhbg0Kc3R5bGU9J21zby10YWIt
+Y291bnQ6MSc+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoCA8L3NwYW4+wqkgT3BlbiBHZW9zcGF0aWFsIENvbnNvcnRpdW0mbmJzcDsyMDI0Jm5i
+c3A74oCTIEFsbCByaWdodHMgcmVzZXJ2ZWQ8bzpwPjwvbzpwPjwvc3Bhbj48L3A+DQoNCjwvZGl2
+Pg0KDQo8ZGl2IHN0eWxlPSdtc28tZWxlbWVudDpmb290ZXInIGlkPWYzPg0KPHAgY2xhc3M9TXNv
+Rm9vdGVyIHN0eWxlPSdsaW5lLWhlaWdodDoxMi4wcHQnPjxzcGFuIGxhbmc9RU4tR0INCnN0eWxl
+PSdmb250LXNpemU6MTAuMHB0O21zby1iaWRpLWZvbnQtc2l6ZToxMS4wcHQnPsKpIE9wZW4gR2Vv
+c3BhdGlhbCBDb25zb3J0aXVtJm5ic3A7MjAyNCZuYnNwO+KAkyBBbGwNCnJpZ2h0cyByZXNlcnZl
+ZDxzcGFuIHN0eWxlPSdtc28tdGFiLWNvdW50OjEnPsKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqAgPC9zcGFuPjwvc3Bhbj48IS0tW2lmIHN1cHBv
+cnRGaWVsZHNdPjxiDQpzdHlsZT0nbXNvLWJpZGktZm9udC13ZWlnaHQ6bm9ybWFsJz48c3BhbiBs
+YW5nPUVOLUdCIHN0eWxlPSdmb250LXNpemU6MTAuMHB0Ow0KbXNvLWJpZGktZm9udC1zaXplOjEx
+LjBwdCc+PHNwYW4gc3R5bGU9J21zby1lbGVtZW50OmZpZWxkLWJlZ2luJz48L3NwYW4+DQpQQUdF
+PHNwYW4gc3R5bGU9J21zby1zcGFjZXJ1bjp5ZXMnPsKgwqAgPC9zcGFuPlwqIE1FUkdFRk9STUFU
+IDxzcGFuDQpzdHlsZT0nbXNvLWVsZW1lbnQ6ZmllbGQtc2VwYXJhdG9yJz48L3NwYW4+PC9zcGFu
+PjwvYj48IVtlbmRpZl0tLT48Yg0Kc3R5bGU9J21zby1iaWRpLWZvbnQtd2VpZ2h0Om5vcm1hbCc+
+PHNwYW4gbGFuZz1FTi1HQiBzdHlsZT0nZm9udC1zaXplOjEwLjBwdDsNCm1zby1iaWRpLWZvbnQt
+c2l6ZToxMS4wcHQnPjxzcGFuIHN0eWxlPSdtc28tbm8tcHJvb2Y6eWVzJz4zPC9zcGFuPjwvc3Bh
+bj48L2I+PCEtLVtpZiBzdXBwb3J0RmllbGRzXT48Yg0Kc3R5bGU9J21zby1iaWRpLWZvbnQtd2Vp
+Z2h0Om5vcm1hbCc+PHNwYW4gbGFuZz1FTi1HQiBzdHlsZT0nZm9udC1zaXplOjEwLjBwdDsNCm1z
+by1iaWRpLWZvbnQtc2l6ZToxMS4wcHQnPjxzcGFuIHN0eWxlPSdtc28tZWxlbWVudDpmaWVsZC1l
+bmQnPjwvc3Bhbj48L3NwYW4+PC9iPjwhW2VuZGlmXS0tPjxzcGFuDQpsYW5nPUVOLUdCIHN0eWxl
+PSdmb250LXNpemU6MTAuMHB0O21zby1iaWRpLWZvbnQtc2l6ZToxMS4wcHQnPjxvOnA+PC9vOnA+
+PC9zcGFuPjwvcD4NCjwvZGl2Pg0KDQo8ZGl2IHN0eWxlPSdtc28tZWxlbWVudDpmb290ZXInIGlk
+PWYzbD4NCjxwIGNsYXNzPU1zb0Zvb3RlckxhbmRzY2FwZSBzdHlsZT0nbGluZS1oZWlnaHQ6MTIu
+MHB0Jz48c3BhbiBsYW5nPUVOLUdCDQpzdHlsZT0nZm9udC1zaXplOjEwLjBwdDttc28tYmlkaS1m
+b250LXNpemU6MTEuMHB0Jz7CqSBPcGVuIEdlb3NwYXRpYWwgQ29uc29ydGl1bSZuYnNwOzIwMjQm
+bmJzcDvigJMgQWxsDQpyaWdodHMgcmVzZXJ2ZWQ8c3BhbiBzdHlsZT0nbXNvLXRhYi1jb3VudDox
+Jz7CoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+IDwvc3Bhbj48L3NwYW4+PCEtLVtpZiBzdXBwb3J0RmllbGRzXT48Yg0Kc3R5bGU9J21zby1iaWRp
+LWZvbnQtd2VpZ2h0Om5vcm1hbCc+PHNwYW4gbGFuZz1FTi1HQiBzdHlsZT0nZm9udC1zaXplOjEw
+LjBwdDsNCm1zby1iaWRpLWZvbnQtc2l6ZToxMS4wcHQnPjxzcGFuIHN0eWxlPSdtc28tZWxlbWVu
+dDpmaWVsZC1iZWdpbic+PC9zcGFuPg0KUEFHRTxzcGFuIHN0eWxlPSdtc28tc3BhY2VydW46eWVz
+Jz7CoMKgIDwvc3Bhbj5cKiBNRVJHRUZPUk1BVCA8c3Bhbg0Kc3R5bGU9J21zby1lbGVtZW50OmZp
+ZWxkLXNlcGFyYXRvcic+PC9zcGFuPjwvc3Bhbj48L2I+PCFbZW5kaWZdLS0+PGINCnN0eWxlPSdt
+c28tYmlkaS1mb250LXdlaWdodDpub3JtYWwnPjxzcGFuIGxhbmc9RU4tR0Igc3R5bGU9J2ZvbnQt
+c2l6ZToxMC4wcHQ7DQptc28tYmlkaS1mb250LXNpemU6MTEuMHB0Jz48c3BhbiBzdHlsZT0nbXNv
+LW5vLXByb29mOnllcyc+Mzwvc3Bhbj48L3NwYW4+PC9iPjwhLS1baWYgc3VwcG9ydEZpZWxkc10+
+PGINCnN0eWxlPSdtc28tYmlkaS1mb250LXdlaWdodDpub3JtYWwnPjxzcGFuIGxhbmc9RU4tR0Ig
+c3R5bGU9J2ZvbnQtc2l6ZToxMC4wcHQ7DQptc28tYmlkaS1mb250LXNpemU6MTEuMHB0Jz48c3Bh
+biBzdHlsZT0nbXNvLWVsZW1lbnQ6ZmllbGQtZW5kJz48L3NwYW4+PC9zcGFuPjwvYj48IVtlbmRp
+Zl0tLT48c3Bhbg0KbGFuZz1FTi1HQiBzdHlsZT0nZm9udC1zaXplOjEwLjBwdDttc28tYmlkaS1m
+b250LXNpemU6MTEuMHB0Jz48bzpwPjwvbzpwPjwvc3Bhbj48L3A+DQo8L2Rpdj4NCg0KPC9ib2R5
+Pg0KDQo8L2h0bWw+DQo=
+
+------=_NextPart_2de7e8e5.429f.41f3--
