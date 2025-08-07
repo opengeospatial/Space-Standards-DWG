@@ -4,7 +4,7 @@ This GitHub repository OGC TestBed Engineering Reports related to the Space Doma
 
 ## Testbed 18
 
-* http://https://github.com/opengeospatial/Space-Standards-DWG/blob/development/library/OGC_Engineering_Reports/22-016r3_T18_D020_Moving_Features_ER.pdf[Moving Features ER]
+* https://github.com/opengeospatial/Space-Standards-DWG/blob/development/library/OGC_Engineering_Reports/22-016r3_T18_D020_Moving_Features_ER.pdf[Moving Features ER]
 
 * http://./22-036r1_TESTBED-18_3DSTANDARDSFRAMEWORKENGINEERING_REPORT.pdf[3-D Standards Framework ER]
 
