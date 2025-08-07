@@ -1,0 +1,19 @@
+# Space Standards DWG
+
+This GitHub repository OGC TestBed Engineering Reports related to the Space Domain.
+
+## Testbed 18
+
+* http://./22-016r3_T18_D020_Moving_Features_ER.pdf[Moving Features ER]
+
+* http://./22-036r1_TESTBED-18_3DSTANDARDSFRAMEWORKENGINEERING_REPORT.pdf[3-D Standards Framework ER]
+
+* http://./22-038r2_Reference_Frame_Transformation_Engineering_Report.pdf[Reference Frame Transformation ER]
+
+* http://./23-011r1_TestBed-18_3D_data_space_object.pdf[3-D Space Objects ER]
+
+* http://./22-035_Testbed-18_3D_Data_Streaming_Engineering_Report.pdf[3D Data Streaming ER]
+
+
+
+
