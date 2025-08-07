@@ -1,0 +1,12 @@
+# Space Standards DWG Library
+
+The purpose of this section is to capture documents and presentations which are relevant to the OGC Space Standards DWG Program of Work. This library is currently hosted on GitHub until a more suitable site is found. 
+
+* https://github.com/opengeospatial/Space-Standards-DWG/blob/development/library/GeoSpace-Workshop/[Geo In Space Workshop]
+
+
+* https://github.com/opengeospatial/Space-Standards-DWG/blob/development/library/OGC_Engineering_Reports[OGC Engineering Reports related to Space]
+
+
+* https://github.com/opengeospatial/Space-Standards-DWG/blob/development/library/Space_Pilot[Documents related to the planned OGC Space Pilot]
+

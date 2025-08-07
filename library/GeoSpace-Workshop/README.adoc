@@ -1,0 +1,19 @@
+# GeoSpace Workshop
+
+The OGC Geo In Space Workshop took place in Washington D.C. on the 26th and 27th of July, 2023. The following are some of the presentations and papers presented at that Workshop.
+
+The Next Steps report contains a synopsis of the Workshop and recommended next steps. The author is Charles Heazel.
+
+* https://github.com/opengeospatial/Space-Standards-DWG/blob/development/library/GeoSpace-Workshop/GeoSpace_Next_Steps.docx[Next Steps (recommendations)]
+
+
+
+* https://github.com/opengeospatial/Space-Standards-DWG/blob/development/library/GeoSpace-Workshop/A_Primer_on_Cislunar_Space_Dist_A_PA2021-1271.pdf[Primer on CisLunar Space]
+
+
+* https://github.com/opengeospatial/Space-Standards-DWG/blob/development/library/GeoSpace-Workshop/NASAHumanSpaceflightArchitectureTeamCis-LunarAnalysisASCEEarthandSpace2012-LupisellaBobskill.pdf[NASA Human Spaceflight Architecture Team - Lunar Analysis Report]
+
+* https://github.com/opengeospatial/Space-Standards-DWG/blob/development/library/GeoSpace-Workshop/Toward_a_Planetary_Spatial_Data_Infrastructure.pdf[Toward a Planetary Spatial Data Infrastructure]
+
+* https://github.com/opengeospatial/Space-Standards-DWG/blob/development/library/GeoSpace-Workshop/OGC_Space_Standards_20230721.pptx[OGC Space Standards]
+
