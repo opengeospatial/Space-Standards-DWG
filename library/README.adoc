@@ -10,5 +10,5 @@ The purpose of this section is to capture documents and presentations which are 
 
 * https://github.com/opengeospatial/Space-Standards-DWG/blob/development/library/Space_Pilot/README.adoc[Documents related to the planned OGC Space Pilot]
 
-* https://github.com/opengeospatial/Space-Standards-DWG/blob/development/library/Community_Resoureces.adoc[Links to sites of interest]
+* https://github.com/opengeospatial/Space-Standards-DWG/blob/development/library/Community_Resources.adoc[Links to sites of interest]
 
