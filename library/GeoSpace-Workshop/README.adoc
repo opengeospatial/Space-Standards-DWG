@@ -1,4 +1,4 @@
-# GeoSpace Workshop
+== GeoSpace Workshop
 
 The OGC Geo In Space Workshop took place in Washington D.C. on the 26th and 27th of July, 2023. The following are some of the presentations and papers presented at that Workshop.
 
@@ -6,14 +6,19 @@ The Next Steps report contains a synopsis of the Workshop and recommended next s
 
 * https://github.com/opengeospatial/Space-Standards-DWG/blob/development/library/GeoSpace-Workshop/GeoSpace_Next_Steps.docx[Next Steps (recommendations)]
 
-
+The Primer on CisLunar Space is a document developed by the Air Force Research Lab (AFRL). Most of the content deals with the challenges of placing a space craft in an orbit and keeping it there. For example, most of the orbits we would want to used in CisLunar space are unstable.
 
 * https://github.com/opengeospatial/Space-Standards-DWG/blob/development/library/GeoSpace-Workshop/A_Primer_on_Cislunar_Space_Dist_A_PA2021-1271.pdf[Primer on CisLunar Space]
 
-
-* https://github.com/opengeospatial/Space-Standards-DWG/blob/development/library/GeoSpace-Workshop/NASAHumanSpaceflightArchitectureTeamCis-LunarAnalysisASCEEarthandSpace2012-LupisellaBobskill.pdf[NASA Human Spaceflight Architecture Team - Lunar Analysis Report]
+The terrestrial research community has developed conceptual Spatial Data Infrastructure (SDI)
+models and cyberinfrastructures to address the complexity of storing, discovering, accessing, and utilizing spatial data. These SDI provide a common spatiotemporal foundation, promoting interoperabilty between dissimilar applications. This paper proposes a similar approach for applications in the Space domain.   
 
 * https://github.com/opengeospatial/Space-Standards-DWG/blob/development/library/GeoSpace-Workshop/Toward_a_Planetary_Spatial_Data_Infrastructure.pdf[Toward a Planetary Spatial Data Infrastructure]
+
+The NASA Human Spacefilght Architecture Team (HAT) Destination Teams are chartered to develop destination activities and operations concepts for all potential destinations of human space exploration. This document addresses a Mission Tree, Operations Concepts, and Issues and
+Implications in the CisLunar space.
+
+* https://github.com/opengeospatial/Space-Standards-DWG/blob/development/library/GeoSpace-Workshop/NASAHumanSpaceflightArchitectureTeamCis-LunarAnalysisASCEEarthandSpace2012-LupisellaBobskill.pdf[NASA Human Spaceflight Architecture Team - Lunar Analysis Report]
 
 The OGC Space Standards presentation provides a high level overview of the ways OGC Standards can be modified for Space applications.
 

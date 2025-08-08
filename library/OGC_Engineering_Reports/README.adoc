@@ -1,4 +1,4 @@
-# Space Standards DWG
+== Space Standards DWG
 
 The activities performed in the Space Domain are not much different from those performed in the Terrestrial Domain. The big difference is the framework of space and time within which those activities are performed.
 
@@ -6,7 +6,7 @@ The OGC/ISO Standards for spatial and temporal geometry are largly agnostic as t
 
 This question was investigated in OGC Testbeds 18 and 19. The following Engineering Reports capture the results of those efforts.
 
-## Testbed 18
+=== Testbed 18
 
 OGC Feature and Geometry models were designed for mostly static real world objects. The Moving Feature Standard builds on that foundation by providing a geometric represenation of full 3-D real world objects in motion.   
 
@@ -28,7 +28,7 @@ The 3D+ Streaming Report complements the above Engineering Reports by exploring 
 
 * https://github.com/opengeospatial/Space-Standards-DWG/blob/development/library/OGC_Engineering_Reports/22-035_Testbed-18_3D_Data_Streaming_Engineering_Report.pdf[3D Data Streaming ER]
 
-## Testbed 19
+=== Testbed 19
 
 One goal of Testbed 19 was to mature and validate the concepts developed in Testbed 18. The results from those efforts were suggested modifications to the ISO 19111, GeoAPI, and GML Sandards.
 
