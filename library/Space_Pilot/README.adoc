@@ -2,5 +2,7 @@
 
 Documents related to the planning for an OGC Space Pilot.
 
+This document is a report on a meeting during the Frascati OGC Member Meetings to begin planning for a Space Pilot. 
+
 * https://github.com/opengeospatial/Space-Standards-DWG/blob/development/library/Space_Pilot/Space_Pilot_Report.docx[Report on the Space Pilot planning meeting in Frascati]
 

@@ -15,5 +15,7 @@ The Next Steps report contains a synopsis of the Workshop and recommended next s
 
 * https://github.com/opengeospatial/Space-Standards-DWG/blob/development/library/GeoSpace-Workshop/Toward_a_Planetary_Spatial_Data_Infrastructure.pdf[Toward a Planetary Spatial Data Infrastructure]
 
+The OGC Space Standards presentation provides a high level overview of the ways OGC Standards can be modified for Space applications.
+
 * https://github.com/opengeospatial/Space-Standards-DWG/blob/development/library/GeoSpace-Workshop/OGC_Space_Standards_20230721.pptx[OGC Space Standards]
 

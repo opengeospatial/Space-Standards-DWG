@@ -8,19 +8,29 @@ This question was investigated in OGC Testbeds 18 and 19. The following Engineer
 
 ## Testbed 18
 
+OGC Feature and Geometry models were designed for mostly static real world objects. The Moving Feature Standard builds on that foundation by providing a geometric represenation of full 3-D real world objects in motion.   
+
 * https://github.com/opengeospatial/Space-Standards-DWG/blob/development/library/OGC_Engineering_Reports/22-016r3_T18_D020_Moving_Features_ER.pdf[Moving Features ER]
 
+The 3-D Standards Framework report identifies standards which are relevant to providing a spatiotemporal foundation for Space applications and how those standards can work together. 
+
 * https://github.com/opengeospatial/Space-Standards-DWG/blob/development/library/OGC_Engineering_Reports/22-036r1_TESTBED-18_3DSTANDARDSFRAMEWORKENGINEERING_REPORT.pdf[3-D Standards Framework ER]
+
+The Data Space Object ER sits between the 3D+ Standards Framework Engineering Report(OGC 22-036), which introduces the theoretical grounds, and the Reference Frame Transformation Engineering Report (OGC 22-038), which applies ISO 19111 to coordinate operations between above-cited frames. This ER explores the flexibility of the ISO 19111 model and concepts for adapting the coordinate system to the object geometry (cylindrical, triaxial ellipsoid, etc.).
+
+* https://github.com/opengeospatial/Space-Standards-DWG/blob/development/library/OGC_Engineering_Reports/23-011r1_TestBed-18_3D_data_space_object.pdf[3-D Space Objects ER]
 
 The key differences between terrestrial geospatial and non-terrestrial geospatial is in the reference frames used and the conversions between those reference frames. The Reference Frame Transformation Engineeing Report describes how existing OGC/ISO standards for geometry can be extended to support non-terrestrial applications. 
 
 * https://github.com/opengeospatial/Space-Standards-DWG/blob/development/library/OGC_Engineering_Reports/22-038r2_Reference_Frame_Transformation_Engineering_Report.pdf[Reference Frame Transformation ER]
 
-* https://github.com/opengeospatial/Space-Standards-DWG/blob/development/library/OGC_Engineering_Reports/23-011r1_TestBed-18_3D_data_space_object.pdf[3-D Space Objects ER]
+The 3D+ Streaming Report complements the above Engineering Reports by exploring strategies for distributing non-terrestrial moving feature data through a streaming interface.
 
 * https://github.com/opengeospatial/Space-Standards-DWG/blob/development/library/OGC_Engineering_Reports/22-035_Testbed-18_3D_Data_Streaming_Engineering_Report.pdf[3D Data Streaming ER]
 
 ## Testbed 19
+
+One goal of Testbed 19 was to mature and validate the concepts developed in Testbed 18. The results from those efforts were suggested modifications to the ISO 19111, GeoAPI, and GML Sandards.
 
 * https://github.com/opengeospatial/Space-Standards-DWG/blob/development/library/OGC_Engineering_Reports/Non-Terrestrial_Geospatial_Engineering_Report.pdf[Non-Terrestrial Geospatial ER]
 
